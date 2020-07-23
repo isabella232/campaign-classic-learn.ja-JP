@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: ドキュメント
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 75c696abfd57318672bf6f8011c4a501fc6a7bc5
+source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '300'
 ht-degree: 13%
 
 ---
@@ -30,8 +30,10 @@ ht-degree: 13%
    + [受信者のリストの作成](/help/acc/getting-started/creating-a-list-of-recipients.md)
    + [ワークフローの作成](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [ターゲティングワークフローの作成](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [プロファイルの読み込み方法](/help/acc/data-management/importing-profiles.md)
    + [電子メールのシードと配達確認の管理](/help/acc/sending-messages/managing-seed-and-proofs.md)
++ Profile Management {#profile-management}
+   + [プロファイルの作成と管理](/help/acc/profile-management/create-and-manage-profiles.md)
+   + [プロファイルの読み込み](/help/acc/data-management/importing-profiles.md)
 + メッセージの送信{#sending-messages}
    + Email Channel{#email-channel}
       + [キャンペーンと電子メールの作成](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
