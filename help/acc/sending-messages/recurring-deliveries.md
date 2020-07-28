@@ -1,6 +1,6 @@
 ---
 title: 定期的な電子メールキャンペーンと継続的な電子メールメッセージの設定方法
-description: このチュートリアルでは、定期的な配信と継続的なアプローチを設定する方法、およびAdobe Campaignクラシック(ACC)の2つのアプローチの違いについて説明します。
+description: このチュートリアルでは、定期的な配信と継続的なアプローチの設定方法、およびAdobe Campaign Classicでの2つのアプローチの違いについて説明します。
 feature: workflows
 topics: channel activities
 kt: 1560
