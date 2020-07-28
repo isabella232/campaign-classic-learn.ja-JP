@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '139'
 ht-degree: 15%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 15%
 # サブドメインの委任
 
 >[!NOTE]
-> Campaign コントロールパネルからのサブドメインの委任は  、1月末までにベータ版で利用可能になり、
-> 頻繁な更新と予告なしの変更
+>
+>Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
@@ -28,7 +28,7 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 
 [!UICONTROL Campaign コントロールパネルのサブドメイン管理にアクセスするには]、次の場所に移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： **[!DNL Campaign]** / **[!UICONTROL Campaign コントロールパネルカード]** / **サブドメインと証明書** （カード）
+* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： キャンペーン/ **[!UICONTROL Campaign コントロールパネルカード]** / **サブドメインと証明書** （カード）
 
    または
 * URLから直接： [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
