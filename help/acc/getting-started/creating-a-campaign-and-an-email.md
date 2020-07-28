@@ -1,6 +1,6 @@
 ---
 title: 'キャンペーンと電子メールの作成 '
-description: このビデオでは、Adobe Campaignクラシックでキャンペーンと電子メールを作成する方法を説明します。
+description: このビデオでは、Adobe Campaign Classicでキャンペーンと電子メールを作成する方法を説明します。
 feature: Email
 topics: Getting started
 kt: 2172
@@ -18,7 +18,7 @@ ht-degree: 24%
 
 # キャンペーンと電子メールの作成
 
-このビデオでは、Adobe Campaignクラシックでキャンペーンと電子メールを作成する方法を説明します。
+このビデオでは、Adobe Campaign Classicでキャンペーンと電子メールを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
