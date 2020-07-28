@@ -10,8 +10,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 29%
+source-wordcount: '125'
+ht-degree: 28%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 29%
 
 [!UICONTROL Campaign コントロールパネルの] サブドメイン管理 [!UICONTROL にアクセスするには、次の]リンクに移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： **[!DNL Campaign]** / **[!UICONTROL Campaign コントロールパネルカード]** / **[!UICONTROL サブドメインと証明書]** （カード）
+* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： キャンペーン/ **Campaign コントロールパネルカード** / **サブドメインと証明書** （カード）
 
    または
 * URLから直接： [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
