@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaignクラシックのチュートリアル — 概要
+title: Adobe Campaign ClassicTutorials — 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザガイドには、Adobe Campaign Standardの多くの機能に関するビデオとチュートリアルが含まれています。
 product: Campaign
 sub-product: Campaign Classic
@@ -14,13 +14,13 @@ ht-degree: 25%
 
 # 概要
 
-Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザガイドには、Adobe Campaignクラシックの多くの機能に関するビデオとチュートリアルが含まれています。
+Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを構築するための基盤を提供し、視覚的なキャンペーンのオーケストレーションや、リアルタイムの対話管理、クロスチャネルのキャンペーン展開に必要な環境を提供します。このユーザガイドには、Adobe Campaign Classicの多くの機能に関するビデオとチュートリアルが含まれています。
 
 ## 新着情報
 
 * **[GPGキー管理](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *送信データの暗号化用に、指定したキャンペーンインスタンスに公開鍵と秘密鍵のペアを生成してインストールする方法、およびキャンペーンインスタンスに公開鍵を読み込んでインストールし、受信データの復号化を行う方法を説明します。*
+   *送信データの暗号化用に、指定したキャンペーンインスタンスに公開/秘密鍵のペアを生成してインストールする方法、および受信データの復号化用に、キャンペーンインスタンスに公開鍵を読み込んでインストールする方法を説明します。*
 
 * **[サブドメインの委任（ベータ版）](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -28,7 +28,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 * **[AMPを使用したインタラクティブな電子メールコンテンツの定義](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *AMP形式で電子メールコンテンツAdobe CampaignClassic(ACC)を設定する方法を説明します。*
+   *AMP形式で電子メールコンテンツAdobe Campaign Classic(ACC)を設定する方法を説明します。*
 
 ## スタッフの選考
 
@@ -61,11 +61,11 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="動的コンテンツブロックを使用した電子メールのパーソナライズ（ビデオ）" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>動的コンテンツブロックを使用した電子メールのパーソナライズ</strong>
     </a>
     </div>
