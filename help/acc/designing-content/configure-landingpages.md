@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaignクラシックでのランディングページの設定方法
-description: Adobe Campaignクラシックを使用すると、オンライン調査、プリファレンスセンター、登録解除ページなど、様々なWebページをサーバー上でデザインおよびホストできます。 このビデオでは、プリファレンスセンターを作成してAdobe CampaignのWebアプリケーションエディタをナビゲートする方法を示します。
+title: Adobe Campaign Classicでランディングページを構成する方法
+description: Adobe Campaign Classicでは、オンライン調査、プリファレンスセンター、登録解除ページなど、さまざまなWebページをサーバ上で設計およびホストできます。 このビデオでは、プリファレンスセンターを作成してAdobe CampaignのWebアプリケーションエディタをナビゲートする方法を示します。
 feature: Landing Pages
 topics: Configure
 kt: 1562
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # ランディングページの設定方法
 
-Adobe Campaignクラシックを使用すると、オンライン調査、プリファレンスセンター、登録解除ページなど、様々なWebページをサーバー上でデザインおよびホストできます。
+Adobe Campaign Classicでは、オンライン調査、プリファレンスセンター、登録解除ページなど、さまざまなWebページをサーバ上で設計およびホストできます。
 
 このビデオでは、プリファレンスセンターを作成してAdobe CampaignのWebアプリケーションエディタをナビゲートする方法を示します。
 
