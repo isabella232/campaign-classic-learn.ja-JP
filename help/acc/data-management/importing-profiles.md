@@ -1,6 +1,6 @@
 ---
 title: プロファイルの読み込み方法
-description: このビデオでは、Adobe Campaignクラシックでプロファイルを読み込む方法を説明します
+description: このビデオでは、Adobe Campaign Classicでプロファイルを読み込む方法を説明します
 feature: Profile Management
 topics: Data Import and Export
 kt: 2176
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # プロファイルの読み込み方法
 
-このビデオでは、Adobe Campaignクラシックでプロファイルを読み込む方法を説明します。
+このビデオでは、Adobe Campaign Classicでプロファイルを読み込む方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
 
