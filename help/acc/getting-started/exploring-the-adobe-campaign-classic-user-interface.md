@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaignクラシックユーザーインターフェイスの調査
-description: このレッスンでは、Adobe Campaignクラシックの主なユーザインターフェイスを説明し、主な機能のナビゲート方法を示します。
+title: Adobe Campaign Classicのユーザーインターフェイスの確認
+description: このレッスンでは、Adobe Campaign Classicの主なユーザインターフェイスを説明し、主な機能のナビゲート方法を示します。
 feature: User Interface
 topics: Getting started
 kt: 5009
@@ -18,9 +18,9 @@ ht-degree: 22%
 ---
 
 
-# Adobe Campaignクラシックユーザーインターフェイスの調査
+# Adobe Campaign Classicのユーザーインターフェイスの確認
 
-このレッスンでは、Adobe Campaignクラシックの主なユーザインターフェイスを説明し、主な機能のナビゲート方法を示します。
+このレッスンでは、Adobe Campaign Classicの主なユーザインターフェイスを説明し、主な機能のナビゲート方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
 
