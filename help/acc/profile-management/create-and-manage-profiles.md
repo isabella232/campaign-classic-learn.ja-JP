@@ -1,6 +1,6 @@
 ---
 title: プロファイルの作成と管理
-description: Adobe Campaignクラシックのプロファイルの概念について説明します。 プロファイルデータにアクセスする方法、プロファイルの並べ替えとフィルターを行う方法、およびプロファイルを手動で作成および管理する方法について説明します。 このビデオでは、General Data Protection Regulation(GDPR)およびCalifornia Consumer Privacy Act(CCPA)によるAdobe Campaign・クラシックのコンプライアンスについても説明しています。
+description: Adobe Campaign Classicのプロファイルの概念を理解する。 プロファイルデータにアクセスする方法、プロファイルの並べ替えとフィルターを行う方法、およびプロファイルを手動で作成および管理する方法について説明します。 このビデオでは、GDPR(General Data Protection Regulation)およびCCPA(California Consumer Privacy Act)によるAdobe Campaign Classicのコンプライアンスについても説明しています。
 feature: Profiles
 topics: null
 kt: 5081
@@ -20,9 +20,9 @@ ht-degree: 14%
 
 # プロファイルの作成と管理
 
-Adobe Campaignクラシックのプロファイルの概念について説明します。 プロファイルデータにアクセスする方法、プロファイルの並べ替えとフィルターを行う方法、およびプロファイルを手動で作成および管理する方法について説明します。
+Adobe Campaign Classicのプロファイルの概念を理解する。 プロファイルデータにアクセスする方法、プロファイルの並べ替えとフィルターを行う方法、およびプロファイルを手動で作成および管理する方法について説明します。
 
-このビデオでは、General Data Protection Regulation(GDPR)およびCalifornia Consumer Privacy Act(CCPA)によるAdobe Campaign・クラシックのコンプライアンスについても説明しています。
+このビデオでは、GDPR(General Data Protection Regulation)およびCCPA(California Consumer Privacy Act)によるAdobe Campaign Classicのコンプライアンスについても説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
 
