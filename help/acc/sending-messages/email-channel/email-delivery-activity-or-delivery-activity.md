@@ -1,5 +1,5 @@
 ---
-title: Eメール配信アクティビティとAdobe Campaignクラシックの配信アクティビティの比較
+title: 電子メール配信アクティビティとAdobe Campaign Classicの配信アクティビティの比較
 description: このビデオでは、配信テンプレートの設定方法と使用方法を説明します。
 feature: Delivery Templates
 topics: Templates
