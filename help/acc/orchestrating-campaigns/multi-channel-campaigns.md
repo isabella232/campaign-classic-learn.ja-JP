@@ -1,32 +1,33 @@
 ---
-title: Adobe Campaignクラシック(ACC)でのマルチチャネルキャンペーンの作成
-description: このビデオでは、Adobe Campaignクラシックでマルチチャネルキャンペーンを作成する方法を説明します。 また、電子メール、SMS、ダイレクトメール配信を構成する方法も学習します。
+title: Adobe Campaign Classicでのマルチチャネルキャンペーンの作成(ACC)
+description: 電子メール、SMS、ダイレクトメール配信を使用して、マルチチャネルキャンペーンを作成する方法を説明します。
 feature: Workflows
-topics: Multi Channel
+topics: null
 kt: 1563
+thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
 source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 2%
 
 ---
 
 
 # 複数チャネルキャンペーンの作成
 
-マルチチャネルキャンペーンでは、単一のマーケティング通信が複数のチャネルを利用して、好みの受信者チャネルに基づく広いターゲットオーディエンスを実現する。
+マルチチャネルキャンペーンにおいて、単一のマーケティング通信は、複数のチャネルを利用して、好みの受信者チャネルに基づいてより広いターゲットオーディエンスに到達する。
 
-マルチチャネル配信は、1つのワークフローで設計および実行できます。
+複数チャネルの配信は、1つのワークフローで設計および実行されます。
 
-このビデオでは、Adobe Campaignクラシックでマルチチャネルキャンペーンを作成する方法を説明します。 また、電子メール、SMS、ダイレクトメール配信を構成する方法も学習します。
+電子メール、SMS、ダイレクトメール配信を使用して、マルチチャネルキャンペーンを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
 ## その他のリソース
 
-* [Eメールキャンペーンの設計と調整をAdobe Campaignクラシックで行う](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
+* [Adobe Campaign Classicで電子メールキャンペーンを設計、調整](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
 
