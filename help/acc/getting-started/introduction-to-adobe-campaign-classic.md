@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaignクラシックの概要
-description: このビデオでは、Adobe CampaignクラシックがAdobe Digital Experienceポートフォリオにどのように適合するか、および主な機能について説明します。
+title: Adobe Campaign Classicの紹介
+description: このビデオでは、Adobe Campaign ClassicがAdobeのデジタルエクスペリエンスポートフォリオにどのように適合するか、および主な機能について説明します。
 feature: null
 topics: Getting started
 kt: 5457
@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# Adobe Campaignクラシックの概要
+# Adobe Campaign Classicの紹介
 
-このビデオでは、Adobe CampaignクラシックがAdobe Digital Experienceポートフォリオにどのように適合するか、および主な機能について説明します。
+このビデオでは、Adobe Campaign ClassicがAdobeのデジタルエクスペリエンスポートフォリオにどのように適合するか、および主な機能について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
