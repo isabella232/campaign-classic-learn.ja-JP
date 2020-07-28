@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaignクラシックでのアドホック電子メール配信テンプレートのデプロイ
+title: Adobe Campaign Classicでのアドホック電子メール配信テンプレートのデプロイ
 description: 'このビデオでは、アドホック電子メール配信テンプレートを導入する方法と、電子メール配信と配信ワークフローの違いを説明します。 '
 feature: Delivery Templates
 topics: Templates
