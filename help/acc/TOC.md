@@ -1,7 +1,7 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaignクラシックのチュートリアル
+user-guide-title: Adobe Campaign ClassicTutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -12,8 +12,8 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 translation-type: tm+mt
 source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 13%
+source-wordcount: '319'
+ht-degree: 11%
 
 ---
 
@@ -22,15 +22,14 @@ ht-degree: 13%
 
 + [概要](/help/acc/overview.md)
 + はじめに {#getting-started}
-   + [Adobe Campaignクラシックの概要](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Adobe Campaignクラシックユーザーインターフェイスの詳細](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Adobe Campaign Classicの紹介](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
+   + [Adobe Campaign Classicのユーザーインターフェイスの詳細](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [キャンペーンと電子メールの作成](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [受信者のリストの作成](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [ワークフローの作成](/help/acc/automating-with-workflows/creating-a-workflow.md)
-   + [ターゲティングワークフローの作成](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [電子メールのシードと配達確認の管理](/help/acc/sending-messages/managing-seed-and-proofs.md)
+   + [ワークフローの作成](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [ワークフローでのプロファイルのターゲット設定](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [プロファイルの作成と管理](/help/acc/profile-management/create-and-manage-profiles.md)
    + [プロファイルの読み込み](/help/acc/data-management/importing-profiles.md)
@@ -38,7 +37,9 @@ ht-degree: 13%
    + Email Channel{#email-channel}
       + [キャンペーンと電子メールの作成](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [電子メールのシードと配達確認の管理](/help/acc/sending-messages/managing-seed-and-proofs.md)
-      + [動的コンテンツブロックを使用した電子メールのパーソナライズ](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+      + [動的コンテンツブロックを使用した電子メールのパーソナライズ](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [個人設定フィールドを使用した電子メールの個人設定](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [電子メールのパーソナライズ — 条件付きコンテンツを使用して多言語ニュースレターを作成します。](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [定期的な電子メールキャンペーンと継続的な電子メールメッセージの設定](/help/acc/sending-messages/recurring-deliveries.md)
       + [AMPを使用したインタラクティブな電子メールコンテンツの定義](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + プッシュチャネル {#push-channel}
@@ -64,7 +65,7 @@ ht-degree: 13%
    + [ワークフローヒートマップ](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
    + [監査証跡](/help/acc/monitoring-campaign-classic/audit-trail.md)
 + 統合 {#integrating}
-   + [Dynamics 365をAdobe Campaignクラシックと統合する方法](/help/acc/integrations/dynamics365-integration.md)
+   + [Dynamics 365をAdobe Campaign Classicと統合する方法](/help/acc/integrations/dynamics365-integration.md)
 + 管理{#administrating}
    + コントロールパネル{#control-panel-acc}
       + [Campaign コントロールパネルの概要](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
@@ -84,5 +85,5 @@ ht-degree: 13%
          + [データの復号化](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Campaign コントロールパネルのトラブルシューティング](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 外部データベースへのアクセス（FDA）{#fda}
-      + [大きなデータ管理 [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Snowflakeの大きなデータ管理](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
