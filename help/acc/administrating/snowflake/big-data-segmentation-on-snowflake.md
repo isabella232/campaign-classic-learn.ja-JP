@@ -1,6 +1,6 @@
 ---
-title: 雪片の大データ管理
-description: このチュートリアルでは、Adobe Campaignクラシックの雪片コネクタの活用方法を説明します
+title: Snowflakeの大きなデータ管理
+description: このチュートリアルでは、Adobe Campaign ClassicのSnowflakeコネクタを活用する方法を説明します
 feature: Snowflake
 topics: FDA
 kt: 4450
@@ -10,22 +10,22 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 6%
 
 ---
 
 
-# 雪片の大データ管理
+# Snowflakeの大きなデータ管理
 
-このチュートリアルでは、ClassicAdobe Campaignでの [!DNL Snowflake] コネクタの活用方法を説明します。
+このチュートリアルでは、Adobe Campaign ClassicのSnowflakeコネクタを活用する方法を説明します。
 次の方法を学習します。
 
-* 雪片に接続
-* 雪片にリンクしたスキーマの作成
+* Snowflakeに接続
+* Snowflakeにリンクしたスキーマの作成
 * スキーマを拡張し、データを準備する
 * ワークフローとクエリの作成
-* 雪片に起こることを理解する
+* Snowflakeで起こることを理解する
 * フォームを作成し、マーケターがフォームにアクセスできるようにする
 * データの検索とレポート
 * リストのデータを書き出し、リアルタイターゲティングフィルターを作成する方法
