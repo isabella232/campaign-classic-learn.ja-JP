@@ -1,8 +1,8 @@
 ---
 title: ワークフローの作成
 seo-title: 'ワークフローの作成 '
-description: このビデオでは、Workflow Classicを使用してAdobe Campaignを作成する方法を説明します。
-seo-description: このビデオでは、Workflow Classicを使用してAdobe Campaignを作成する方法を説明します。
+description: このビデオでは、Adobe Campaign Classicでワークフローを作成する方法を説明します。
+seo-description: このビデオでは、Adobe Campaign Classicでワークフローを作成する方法を説明します。
 uuid: 2b6be688-0569-45e7-93fe-fbfac4819198
 discoiquuid: 09f3dd78-8ef4-46d8-a9dc-5bd54cc1b60d
 feature: Workflow
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 65%
+ht-degree: 62%
 
 ---
 
@@ -32,6 +32,6 @@ Adobe Campaign では、ワークフローを使用して次のことをおこ�
 * キャンペーンの作成：キャンペーンごとに、「**ワークフロー**」タブを使用してターゲットを作成したり、配信を作成したりできます。詳しくは、[キャンペーンワークフロー](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows)を参照してください。
 * Adobe Campaign テクニカルプロセスの実行：クリーンアップ、トラッキング情報の収集または試算。詳しくは、[テクニカルワークフロー](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows)を参照してください。
 
-このビデオでは、Workflow Classicを使用してAdobe Campaignを作成する方法を説明します。
+このビデオでは、Adobe Campaign Classicでワークフローを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12)
