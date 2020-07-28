@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaignクラシックでの配信テンプレートプロパティの設定
-description: 次のビデオでは、Adobe Campaignクラシックで配信テンプレートプロパティを設定する方法を示し、各プロパティについて詳しく説明します。
+title: Adobe Campaign Classicでの配信テンプレートプロパティの設定
+description: 次のビデオでは、Adobe Campaign Classicで配信テンプレートプロパティを設定する方法を示し、各プロパティについて詳しく説明します。
 feature: Delivery Templates
 topics: Templates
 kt: 1981
