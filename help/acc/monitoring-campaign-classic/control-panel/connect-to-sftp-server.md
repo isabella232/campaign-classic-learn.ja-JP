@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Campaign コントロールパネルでSFTP管理にアクセスするには、次のページに移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： **[!DNL Campaign]** > **Campaign コントロールパネルカード** > **SFTP** カード
+* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： キャンペーン/ **Campaign コントロールパネルカード** / **SFTP** カード
 
    または
 * URLから直接： [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
