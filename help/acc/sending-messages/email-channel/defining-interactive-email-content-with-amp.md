@@ -1,6 +1,6 @@
 ---
 title: AMPを使用したインタラクティブな電子メールコンテンツの定義
-description: このビデオでは、AMP形式で電子メールコンテンツAdobe CampaignClassic(ACC)を設定する方法を説明します。
+description: このビデオでは、AMP形式で電子メールコンテンツAdobe Campaign Classic(ACC)を設定する方法を説明します。
 feature: Email Channel
 topics: Create and Send Email Deliveries
 kt: 3475
@@ -24,9 +24,9 @@ AMP for Email は、開発者が動的でインタラクティブな E メール
 
 >[!NOTE]
 >
-> AMP電子メールを配信できるようにするには、送信元の電子メールアドレスを [Google](https://developers.google.com/gmail/ampemail/register) および [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook)に登録する必要があります。
+>AMP電子メールを配信できるようにするには、送信元の電子メールアドレスを [Google](https://developers.google.com/gmail/ampemail/register) および [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook)に登録する必要があります。
 
-以下のビデオでは、Adobe CampaignクラシックでAMPをアクティブにする方法と、その使用方法を示します。
+以下のビデオでは、Adobe Campaign ClassicでAMPをアクティブにする方法と、その使用方法を紹介しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
