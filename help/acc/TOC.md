@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: ドキュメント
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '323'
 ht-degree: 11%
 
 ---
@@ -26,13 +26,13 @@ ht-degree: 11%
    + [Adobe Campaign Classicのユーザーインターフェイスの詳細](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [キャンペーンと電子メールの作成](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-   + [受信者のリストの作成](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [ワークフローの作成](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [キャンペーンと電子メールの作成](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
    + [ワークフローでのプロファイルのターゲット設定](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [プロファイルの作成と管理](/help/acc/profile-management/create-and-manage-profiles.md)
    + [プロファイルの読み込み](/help/acc/data-management/importing-profiles.md)
+   + [受信者のリストの作成](/help/acc/profile-management/creating-a-list-of-recipients.md)
+   + [ワークフローを使用した受信者のリストの作成](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + メッセージの送信{#sending-messages}
    + Email Channel{#email-channel}
       + [キャンペーンと電子メールの作成](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -85,5 +85,5 @@ ht-degree: 11%
          + [データの復号化](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Campaign コントロールパネルのトラブルシューティング](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 外部データベースへのアクセス（FDA）{#fda}
-      + [Snowflakeの大きなデータ管理](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [大きなデータ管理 [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
