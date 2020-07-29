@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
@@ -22,16 +22,14 @@ ht-degree: 2%
 
 このCampaign コントロールパネルでは、IPアドレス範囲のリストを許可することで、インスタンスへの新しい接続を設定できます。 デフォルトでは、Adobe Campaign Classicインスタンスは様々なIPアドレスからアクセスできません。 したがって、IPアドレスを次の一覧に示すことができます。
 
-* このIPアドレスからのキャンペーンインスタンスへのアクセスを許可するには
+* このIPアドレスからの [!DNL Campaign] インスタンスへのアクセスを許可するには
 * APIをMessage Centerまたはマーケティングインスタンスに接続するには
 
 ## Campaign コントロールパネルインスタンス設定へのアクセス
 
 Campaign コントロールパネルのサブドメイン管理にアクセスするには、次の場所に移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： キャンペーン/ **Campaign コントロールパネル** カード/ **インスタンス設定** カード
-
-   または
+* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： **[!DNL Campaign]** / **[!UICONTROL Campaign コントロールパネルカード]** / **インスタンス設定** （カード）
 * URLから直接： [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## IPアドレスの許可リスト方法
