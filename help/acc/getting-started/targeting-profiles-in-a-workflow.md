@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 582f04026f6db0823f3de1e3e0cf57c642c2e84f
+source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 8%
 
 ---
@@ -22,6 +22,12 @@ ht-degree: 8%
 キャンペーンワークフローの使用について理解し、フィルタリング条件を使用してワークフロー内でワークフローとターゲットプロファイルを作成する方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
+
+## 次に閲覧するTutorials
+
+* [クエリの結果を組み合わせてターゲットを絞り込む](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [クエリ結果を除外してターゲットを絞り込む](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [ワークフローを使用したリストの作成](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
 
 ## その他のリソース
 
@@ -35,5 +41,3 @@ ht-degree: 8%
 
 * [プロファイルの作成と管理](/help/acc/profile-management/create-and-manage-profiles.md)
 * [プロファイルの読み込み](/help/acc/data-management/importing-profiles.md)
-* [受信者のリストの作成](/help/acc/profile-management/creating-a-list-of-recipients.md)
-* [ワークフローを使用した受信者のリストの作成](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
