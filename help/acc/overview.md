@@ -4,9 +4,9 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '247'
 ht-degree: 25%
 
 ---
@@ -49,28 +49,28 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="監査証跡（ビデオ）" src="./assets/acc-audit-trail.png" />
+      <img alt="監査証跡（ビデオ）" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>監査証跡</strong>
     </a>
-    </div>
+    </div> 
     <p>
     <em>Adobe Campaign内で発生するアクションとイベントの包括的なリストを取り込みます。</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-      <img alt="動的コンテンツブロックを使用した電子メールのパーソナライズ（ビデオ）" src="./assets/ACC-Personalization.png" />
+    <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+      <img alt="AMPを使用したインタラクティブな電子メールコンテンツの定義（ビデオ）" src="./assets/29940.png" />
     </a>
     <div>
-      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-    <strong>動的コンテンツブロックを使用した電子メールのパーソナライズ</strong>
+      <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+    <strong>AMPを使用したインタラクティブな電子メールコンテンツの定義</strong>
     </a>
     </div>
     <p>
-    <em>受信者プロファイルの条件を使用してメッセージをパーソナライズします。 </em>
+    <em>Adobe Campaign ClassicでAMPをアクティブ化し、使用する方法を学びます </em>
     <p>
   </td>
 </tr>
