@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: ドキュメント
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '353'
 ht-degree: 10%
 
 ---
@@ -53,14 +53,14 @@ ht-degree: 10%
       + [定義済みフィルターの使用](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + キャンペーンのオーケストレーション {#orchestration}
    + [複数チャネルキャンペーンの作成](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
-+ レポート{#reporting}
++ レポート {#reporting}
    + [詳細な分析レポートの生成](/help/acc/reporting/generating-a-descriptive-analysis-report.md)
 + ワークフローによる自動化{#automating-with-workflows}
    + [ワークフローの作成](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [ターゲティングワークフローの作成](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
    + [クエリの結果を組み合わせてターゲットを絞り込む](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [クエリ結果を除外してターゲットを絞り込む](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [ワークフローを使用したリストの作成](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+   + [リストの更新アクティビティを使用したワークフローを含むリストの作成](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
    + [検証ワークフローの設定](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [エンリッチメントアクティビティの設定](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [データの分類](/help/acc/data-management/data-segmentation.md)
