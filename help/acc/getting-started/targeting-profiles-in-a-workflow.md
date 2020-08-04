@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '129'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 8%
 
 * [クエリの結果を組み合わせてターゲットを絞り込む](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [クエリ結果を除外してターゲットを絞り込む](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [ワークフローを使用したリストの作成](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [リストの更新アクティビティを使用したワークフローを含むリストの作成](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
 
 ## その他のリソース
 
