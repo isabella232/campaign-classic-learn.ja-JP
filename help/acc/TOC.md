@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: ドキュメント
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 10%
+source-wordcount: '350'
+ht-degree: 25%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 10%
       + [定義済みフィルターの使用](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + キャンペーンのオーケストレーション {#orchestration}
    + [複数チャネルキャンペーンの作成](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
-+ レポート {#reporting}
++ レポート{#reporting}
    + [詳細な分析レポートの生成](/help/acc/reporting/generating-a-descriptive-analysis-report.md)
 + ワークフローによる自動化{#automating-with-workflows}
    + [ワークフローの作成](/help/acc/automating-with-workflows/creating-a-workflow.md)
@@ -73,20 +73,19 @@ ht-degree: 10%
    + [Dynamics 365をAdobe Campaign Classicと統合する方法](/help/acc/integrations/dynamics365-integration.md)
 + 管理{#administrating}
    + コントロールパネル{#control-panel-acc}
-      + [Campaign コントロールパネルの概要](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [サーバの容量の監視、IPアドレスの一覧表示、SSHキーの追加を許可](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [SSHキーの生成](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-      + [SFTPサーバーへの接続](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
-      + [サブドメインの委任](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [SSL証明書の追加](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [SSL証明書の管理](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
+      + [コントロールパネルの概要](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
+      + [サーバー容量の監視、許可リストへの IP アドレスの追加、SSH 鍵の追加](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+      + [SSH 鍵の生成](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+      + [SFTP サーバーへの接続](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
+      + [サブドメインのデリゲート](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
+      + [SSL 証明書の追加](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [URL権限の追加](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [インスタンスアクセスのIP許可リスト](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Google TXT レコード管理](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + GPGキー管理 {#gpg-key-management}
-         + [GPGキー管理 — 概要](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [データ暗号化用のGPGキーの生成とインストール](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [GPGキーを使用したデータの暗号化](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + GPG キー管理 {#gpg-key-management}
+         + [GPG キー管理 - 概要](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [データ暗号化用の GPG キーの生成とインストール](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [GPG キーを使用したデータの暗号化](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [データの復号化](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Campaign コントロールパネルのトラブルシューティング](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 外部データベースへのアクセス（FDA）{#fda}
