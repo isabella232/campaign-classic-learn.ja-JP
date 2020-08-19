@@ -1,6 +1,6 @@
 ---
-title: SSHキーの生成
-description: SSHキーをAdobe CampaignCampaign コントロールパネルに追加するには、SSHキーを生成できる必要があります。 次のビデオでは、端末を使用してSSHキーを生成する方法を説明しています。
+title: SSH キーの生成
+description: SSH キーを Adobe Campaign コントロールパネルに追加するには、SSH キーを生成できる必要があります。次のビデオでは、端末を使用して SSH キーを生成する方法を説明しています。
 feature: SSH Key
 topics: Control Panel
 kt: 2923
@@ -10,28 +10,28 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
 
-# SSHキーの生成
+# SSH キーの生成
 
-SSHキーをCampaign コントロールパネルに追加するには、SSHキーを生成できる必要があります。
+SSH キーを Campaign コントロールパネルに追加するには、SSH キーを生成できる必要があります。
 
-## Campaign コントロールパネルのSFTP Managementへのアクセス
+## Campaign コントロールパネルの SFTP 管理へのアクセス
 
-Campaign コントロールパネルでSFTP管理にアクセスするには、次のページに移動します。
+Campaign コントロールパネルで SFTP 管理にアクセスするには、次の場所に移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： キャンペーン/ **Campaign コントロールパネルカード** / **SFTP** カード
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**Campaign コントロールパネル**&#x200B;カード／**SFTP** カード
 
    または
-* URLから直接： [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
+* URL（[http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)）で直接移動
 
-## SSHキーの生成方法
+## SSH キーの生成方法
 
-次のビデオでは、端末を使用してSSHキーを生成する方法を説明しています。
+次のビデオでは、端末を使用して SSH キーを生成する方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
-*SSHキーの作成方法（2:16分）*
+*SSH キーの作成方法（2 分 16 秒）*
