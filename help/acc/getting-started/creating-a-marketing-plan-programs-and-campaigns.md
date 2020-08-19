@@ -1,6 +1,6 @@
 ---
-title: マーケティングプラン、プログラムおよびキャンペーンの作成
-description: チャネル間のマーケティングキャンペーンを効果的に計画、実行、測定するのに役立つ、Adobe Campaignの主要概念を理解します。
+title: マーケティングプラン、プログラム、キャンペーンの作成
+description: クロスチャネルマーケティングキャンペーンを効果的に計画、実行、測定するのに役立つ、Adobe Campaign の主要概念を理解します。
 feature: marketing plan
 topics: Getting started
 kt: 5347
@@ -13,14 +13,14 @@ translation-type: tm+mt
 source-git-commit: 52e4b0338febcaa64fd96a14f7ac447e8fd9e397
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# マーケティングプラン、プログラムおよびキャンペーンの作成
+# マーケティングプラン、プログラム、キャンペーンの作成
 
-マーケティングプラン、プログラム、キャンペーンを作成する方法、キャンペーンのプロパティを設定する方法、およびスケジュールの使用方法を説明します。
-このビデオでは、次に示す練習を案内します。
+マーケティングプラン、プログラム、キャンペーンを作成する方法、キャンペーンのプロパティを設定する方法、スケジュールの使用方法について説明します。
+このビデオでは、演習の実行手順を紹介しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12)
