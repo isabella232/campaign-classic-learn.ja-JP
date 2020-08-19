@@ -1,6 +1,6 @@
 ---
 title: サブドメインのデリゲート
-description: サブドメインをAdobe Campaignに完全に委任する方法を説明します。
+description: サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。
 feature: Subdomain Delegation
 topics: Control Panel
 kt: 4115
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: e40441c242af138f9686d291bb804fae46b4f62d
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 27%
+ht-degree: 85%
 
 ---
 
@@ -22,23 +22,24 @@ ht-degree: 27%
 >
 > Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
-Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
+Adobe [!UICONTROL Campaign コントロールパネル]を使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。
 
-## Campaign コントロールパネル [!UICONTROL サブドメイン管理へのアクセス]
+## [!UICONTROL Campaign コントロールパネル]のサブドメイン管理へのアクセス
 
-[!UICONTROL Campaign コントロールパネルのサブドメイン管理にアクセスするには]、次の場所に移動します。
+[!UICONTROL Campaign コントロールパネル]のサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/jp/#/home) /ソリューション選択： **[!DNL Campaign]** / **[!UICONTROL Campaign コントロールパネルカード]** / **サブドメインと証明書** 、カード
-* URL から直接アクセス：[https://experience.adobe.com/jp/#/controlpanel/domain](https://experience.adobe.com/jp/#/controlpanel/domain)
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL Campaign コントロールパネル]**&#x200B;カード／**サブドメインおよび証明書**カード
+または
+* URL（[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)）で直接移動
 
-## サブドメインの委任方法
+## サブドメインのデリゲート方法
 
-次のビデオでは、サブドメインを委任する方法を示します。
+次のビデオでは、サブドメインをデリゲートする方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-*サブドメインの委任（05:07分）*
+*サブドメインのデリゲート（5 分 7 秒）*
 
 ## その他のリソース
 
-* [SSL証明書の追加](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+* [SSL 証明書の追加](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
 * [サブドメインおよび証明書](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
