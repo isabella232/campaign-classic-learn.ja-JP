@@ -1,6 +1,6 @@
 ---
-title: SSL証明書の追加
-description: Adobe CampaignCampaign コントロールパネルでは、SSL証明書を追加してサブドメインを保護できます。
+title: SSL 証明書の追加
+description: Adobe Campaign コントロールパネルでは、SSL 証明書を追加してサブドメインを保護できます。
 feature: SSL Certificates
 topics: Control Panel
 kt: 4219
@@ -10,52 +10,52 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 5%
+source-wordcount: '220'
+ht-degree: 100%
 
 ---
 
 
-# SSL証明書の追加
+# SSL 証明書の追加
 
-Adobe CampaignCampaign コントロールパネルでは、SSL証明書を追加してサブドメインを保護できます。
+Adobe [!UICONTROL Campaign コントロールパネル]では、SSL 証明書を追加して、サブドメインを保護できます。
 
-## Campaign コントロールパネルサブドメイン管理へのアクセス
+## Campaign コントロールパネルのサブドメイン管理へのアクセス
 
-Campaign コントロールパネルのサブドメイン管理にアクセスするには、次の場所に移動します。
+Campaign コントロールパネルのサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： キャンペーン/ **Campaign コントロールパネルカード** / **サブドメインと証明書** （カード）
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL Campaign コントロールパネル]**&#x200B;カード／**[!UICONTROL サブドメインおよび証明書]**&#x200B;カード
 
    または
-* URLから直接： [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+* URL（[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)）で直接移動
 
-## SSL証明書の追加手順
+## SSL 証明書の追加手順
 
-SSL証明書の追加には、次の3つの手順が必要です。
+SSL 証明書の追加には、次の 3 つの手順が必要です。
 
-### 1.証明書署名要求の生成
+### 1. 証明書署名要求の生成
 
-SSL証明書を購入するには、証明書署名要求(CSR)が必要です。 セキュリティを確保する予定のインスタンスとサブドメインに対して生成する必要があります。
+SSL 証明書を購入するには、証明書署名要求（CSR）が必要です。保護しようとしているインスタンスとサブドメインごとに生成する必要があります。
 
 次のビデオでは、Campaign コントロールパネルで証明書署名要求を生成する方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
-*証明書署名要求の生成（02:36分）*
+*証明書署名要求の生成（2 分 36 秒）*
 
-### 2. SSL証明書の購入
+### 2. SSL 証明書の購入
 
-CSRを取得したら、組織の承認を得た認証局からSSL証明書を購入する必要があります。
+CSR を取得したら、組織の承認を得た認証局から SSL 証明書を購入する必要があります。
 
-### 3. SSL証明書のインストール
+### 3. SSL 証明書のインストール
 
-SSL証明書を取得したら、保護するサブドメイン用にSSL証明書をインストールする必要があります。
+SSL 証明書を取得したら、保護しようとしているサブドメイン用に SSL 証明書をインストールする必要があります。
 
-次のビデオでは、Campaign コントロールパネルにSSL証明書をインストールする方法を説明しています。
+次のビデオでは、[!UICONTROL Campaign コントロールパネル]で SSL 証明書をインストールする方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
-*SSL証明書のインストール（01:25分）*
+*SSL 証明書のインストール（1 分 25 秒）*
 
 ## その他のリソース
 
-* [サブドメインの委任](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-* [サブドメインと証明書 — ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [サブドメインのデリゲート](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
+* [サブドメインおよび証明書 - ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
