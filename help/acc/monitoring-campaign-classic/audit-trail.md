@@ -1,6 +1,6 @@
 ---
-title: 監査証跡の使用方法
-description: '監査証跡は、Adobe Campaign内で発生するアクションとイベントの包括的なリストをリアルタイムでキャプチャします。 '
+title: 監査記録の使用方法
+description: '監査記録は、Adobe Campaign 内で発生するアクションとイベントの包括的なリストをリアルタイムで記録します。 '
 feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
@@ -11,36 +11,36 @@ translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# 監査証跡の使用方法
+# 監査記録の使用方法
 
-監査証跡は、Adobe Campaign内で発生するアクションとイベントの包括的なリストをリアルタイムでキャプチャします。 監査証跡機能には、データの履歴にアクセスして次のような質問に答えるためのセルフサービスの方法が含まれています。
+[!UICONTROL 監査記録]：Adobe Campaign 内で発生するアクションとイベントの包括的なリストをリアルタイムで記録します。[!UICONTROL 監査記録]機能には、データの履歴にアクセスして次のような質問に回答するためのセルフサービスが含まれています。
 
-* 物体に何が起きた？
-* 誰が最後にいつ修正した？
-* 前の状態は？
+* オブジェクトに何が起きたか
+* 誰が最後にいつ修正したか
+* 前の状態
 
 >[!NOTE]
 >
->監査証跡にはCampaign Classicバージョン19.1以降が必要
+>監査記録を使用するには Campaign Classic バージョン 19.1 以降が必要です
 
-監査証跡では、ワークフロー、オプション、ソース・スキーマの作成、変更、削除など、リスト演算子の操作がログに記録されます。 さらに、ワークフロー専用に次の操作が記録されます。
+[!UICONTROL 監査記録]は、ワークフロー、オプション、ソーススキーマの作成、変更、削除など、オペレーターのアクションをログに記録しリストします。さらに、特にワークフローの場合は次のアクションも記録されます。
 
 * 開始
 * 一時停止
 * 停止
-* 再起動
+* 再度開始
 * クリーンアップ
 * シミュレート
 * ウェイクアップ
 * 無条件停止
 
-次のビデオでは、監査証跡ログにアクセスする場所と設定可能な設定について説明します。
+次のビデオでは、監査記録ログにアクセスする場所と可能な設定について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-詳細は、「 [監査証跡ドキュメント](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)」を参照してください。
+詳しくは、[監査記録のドキュメント](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)を参照してください。
