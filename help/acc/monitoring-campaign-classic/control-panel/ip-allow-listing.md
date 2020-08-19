@@ -1,8 +1,8 @@
 ---
-title: インスタンスアクセスのIP許可リスト
-seo-title: インスタンスアクセスのIP許可リスト
-description: 次のビデオでは、IPアドレス範囲のリストを許可して、インスタンスへの新しい接続を設定する方法を説明しています。
-seo-description: 次のビデオでは、IPアドレス範囲のリストを許可して、インスタンスへの新しい接続を設定する方法を説明しています。
+title: インスタンスにアクセスするための IP 許可リストへの登録
+seo-title: インスタンスにアクセスするための IP 許可リストへの登録
+description: 次のビデオでは、IP アドレスの範囲を許可リストに登録して、インスタンスへの新しい接続をセットアップする方法を説明しています。
+seo-description: 次のビデオでは、IP アドレスの範囲を許可リストに登録して、インスタンスへの新しい接続をセットアップする方法を説明しています。
 feature: IP allow listing
 topics: Control Panel
 kt: 3479
@@ -13,30 +13,31 @@ translation-type: tm+mt
 source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# インスタンスアクセスのIP許可リスト
+# インスタンスにアクセスするための IP 許可リストへの登録
 
-このCampaign コントロールパネルでは、IPアドレス範囲のリストを許可することで、インスタンスへの新しい接続を設定できます。 デフォルトでは、Adobe Campaign Classicインスタンスは様々なIPアドレスからアクセスできません。 したがって、IPアドレスを次の一覧に示すことができます。
+コントロールパネルでは、IP アドレスの範囲を許可リストに登録することで、インスタンスへの新しい接続をセットアップできます。デフォルトでは、様々な IP アドレスから Adobe Campaign Classic インスタンスにアクセスできるわけではありません。したがって、以下の場合には、IP アドレスを許可リストに登録する必要があります。
 
-* このIPアドレスからの [!DNL Campaign] インスタンスへのアクセスを許可するには
-* APIをMessage Centerまたはマーケティングインスタンスに接続するには
+* この IP アドレスから [!DNL Campaign] インスタンスにアクセスできるようにする
+* API を Message Center またはマーケティングインスタンスに接続する
 
-## Campaign コントロールパネルインスタンス設定へのアクセス
+## Campaign コントロールパネルのインスタンス設定へのアクセス
 
-Campaign コントロールパネルのサブドメイン管理にアクセスするには、次の場所に移動します。
+Campaign コントロールパネルのサブドメイン管理にアクセスするには、以下に移動します。
 
-* [Experience Cloudホーム](https://experience.adobe.com/#/home) /ソリューション選択： **[!DNL Campaign]** / **[!UICONTROL Campaign コントロールパネルカード]** / **インスタンス設定** （カード）
-* URLから直接： [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
+* [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**[!UICONTROL Campaign コントロールパネル]**&#x200B;カード／**インスタンス設定**カード
+または
+* URL（[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)）で直接移動
 
-## IPアドレスの許可リスト方法
+## IP アドレスを許可リストに登録する方法
 
-次のビデオでは、コントロールパネルを使用してIPアドレスを許可リストする方法を説明します。
+次のビデオでは、Campaign コントロールパネルを使用して IP アドレスを許可リストに登録する方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
-*IP許可一覧（03:24分）*
+*IP の許可リストへの登録（3 分 24 秒）*
 
-IP許可リストの詳細については、 [詳細な製品ドキュメントを参照してください](https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html)。
+IP の許可リストへの登録について詳しくは、[製品ドキュメント](https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html)を参照してください。
