@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Classicのユーザーインターフェイスの確認
-description: このレッスンでは、Adobe Campaign Classicの主なユーザインターフェイスを説明し、主な機能のナビゲート方法を示します。
+title: Adobe Campaign Classic ユーザーインターフェイスの詳細
+description: このレッスンでは、Adobe Campaign Classic のメインユーザーインターフェイスについて説明し、主な機能のナビゲート方法を示します。
 feature: User Interface
 topics: Getting started
 kt: 5009
@@ -13,14 +13,14 @@ translation-type: tm+mt
 source-git-commit: 00675007e4ec0f3276e5018360b6d491af0f6e57
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign Classicのユーザーインターフェイスの確認
+# Adobe Campaign Classic ユーザーインターフェイスの詳細
 
-このレッスンでは、Adobe Campaign Classicの主なユーザインターフェイスを説明し、主な機能のナビゲート方法を示します。
+このレッスンでは、Adobe Campaign Classic のメインユーザーインターフェイスについて説明し、主な機能のナビゲート方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
 
