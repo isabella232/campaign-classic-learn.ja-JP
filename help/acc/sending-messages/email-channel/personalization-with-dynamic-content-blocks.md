@@ -12,16 +12,16 @@ translation-type: tm+mt
 source-git-commit: 8bd36a13c027138f9555ea800f6f435b135f1e8c
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 10%
+ht-degree: 55%
 
 ---
 
 
 # 動的コンテンツブロックを使用した電子メールのパーソナライズ
 
-Adobe Campaignでは、コンテンツやメッセージの外観をパーソナライズし、受信者プロファイルの条件と組み合わせることができます。
+Adobe Campaign では、コンテンツやメッセージの外観をパーソナライズし、受信者プロファイルに記述されている条件に従ってそれらを組み合わせることができます。
 
-パーソナライゼーションブロックは、動的でパーソナライズされたもので、配信に追加できる特定のレンダリングコードが含まれます。 例えば、画像、電子メールヘッダー、電子メールフッター、ミラーページリンク、購読解除リンクなどを追加できます。
+パーソナライゼーションブロックは、動的かつパーソナライズされたもので、配信に追加できる特定のレンダリングコードを含んでいます。例えば、画像、E メールのヘッダーやフッター、ミラーページリンク、購読解除リンクなどを追加できます。
 
 動的コンテンツブロックを作成する方法、および動的コンテンツブロックを使用して電子メール配信のコンテンツをパーソナライズする方法について説明します。
 
@@ -31,7 +31,7 @@ Adobe Campaignでは、コンテンツやメッセージの外観をパーソナ
 
 ドキュメント:
 
-* [パーソナライゼーションについて](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [パーソナライゼーションについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * ([パーソナライゼーションブロック](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 ビデオTutorials:
