@@ -1,24 +1,25 @@
 ---
 title: 電子メール内のシードと配達確認を管理する方法
-description: このビデオでは、既存の電子メールにシードや配達確認を追加する方法と送信する方法を学びます。
-feature: Seed address management
-topics: Email Channel
+description: 既存の電子メールにシードや配達確認を追加する方法と、それを送信する方法を説明します。
+feature: Email
+topics: null
 kt: 2178
+thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 8%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 
 
 # 電子メール内のシードと配達確認を管理する方法
 
-このビデオでは、既存の電子メールにシードや配達確認を追加する方法と送信する方法を学びます。
+既存の電子メールにシードや配達確認を追加する方法と、それを送信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
