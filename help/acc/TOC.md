@@ -10,7 +10,7 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: a5efb8f8230373b9aa3c5dd2f85305f4685e9190
+source-git-commit: faec1533178c9bd70474a682557c6a1a8ed2b535
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 76%
@@ -49,7 +49,7 @@ ht-degree: 76%
       + [配信テンプレートプロパティの設定](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [アドホック E メール配信テンプレートのデプロイ](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + ダイレクトメール{#direct-mail}
-      + [ダイレクトメール配信の作成](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+      + [ダイレクトメール配信の作成](/help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 疲労管理{#fatigue-management}
       + [タイポロジルールの使用](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [事前定義済みフィルターの使用](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
