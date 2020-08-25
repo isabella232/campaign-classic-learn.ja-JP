@@ -9,7 +9,7 @@ doc-type: feature video
 activity: set-up
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 119e622cb267077b12811861953030d382c47ded
+source-git-commit: 2471d1cef630d7c80aeaf43d1eef7b8583bee2d3
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 0%
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # ダイレクトメール配信の作成
 
-Adobe Campaignでのダイレクトメールの動作を理解し、ダイレクトメール配信の作成、書式設定、実行方法を学びます。
+[!UICONTROL Adobe Campaignでの] ダイレクトメールの動作を理解し [!UICONTROL 、ダイレクトメール]配信の作成、書式設定、実行方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
