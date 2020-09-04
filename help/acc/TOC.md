@@ -11,10 +11,10 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 1f0de3205220dab1814a28070a4014d01f0b7a34
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 76%
+ht-degree: 74%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 76%
       + [サブドメインのデリゲート](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [SSL 証明書の追加](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [URL アクセス権限の追加](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [インスタンスにアクセスするための IP 許可リストへの登録](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [許可リストへのIPアドレスの追加](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Google TXT レコード管理](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG キー管理 {#gpg-key-management}
          + [GPG キー管理 - 概要](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
