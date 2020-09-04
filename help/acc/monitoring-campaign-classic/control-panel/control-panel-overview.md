@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -81,7 +81,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
    *外部の URL を承認済み URL リストに追加して、インスタンスからアクセスできるようにする方法を説明します。*
 
-* **[インスタンスにアクセスするための IP 許可リストへの登録](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[許可リストへのIPアドレスの追加](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *IP アドレスの範囲を[!UICONTROL 許可リストに登録]して、インスタンスへの新しい接続をセットアップする方法を説明します。*
 
