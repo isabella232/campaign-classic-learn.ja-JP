@@ -3,14 +3,14 @@ title: Snowflakeの大きなデータ管理
 description: このチュートリアルでは、Adobe Campaign ClassicのSnowflakeコネクタを活用する方法を説明します
 feature: Snowflake
 topics: FDA
-kt: 4450
+kt: 4405
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 0c330ade07ba8bcdb825a632c7ac319fa8c845e9
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 6%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Snowflakeの大きなデータ管理
 
-このチュートリアルでは、Adobe Campaign ClassicのSnowflakeコネクタを活用する方法を説明します。
+このチュートリアルでは、Adobe Campaign Classicの [!DNL Snowflake] コネクタを活用する方法を説明します。
 次の方法を学習します。
 
 * Snowflakeに接続
