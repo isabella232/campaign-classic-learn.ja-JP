@@ -4,15 +4,15 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
+source-git-commit: 49a02cd20248dbba49663bb9be380ab44e8b5062
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '251'
 ht-degree: 92%
 
 ---
 
 
-# 概要
+# Adobe Campaign Classic のチュートリアル - 概要
 
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザガイドには、Adobe Campaign Classic の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
