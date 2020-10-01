@@ -1,7 +1,7 @@
 ---
 title: コントロールパネル
 seo-title: コントロールパネル
-description: このCampaign コントロールパネルにより、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別や許可リストのIPアドレス別にSFTPストレージを管理するなどの管理タスクを実行できます。
+description: Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、管理タスク（インスタンス単位の SFTP ストレージの管理や IP アドレスの許可リストへの登録など）を実行したりできます。
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 5e240cfde96c38f646b9915fe143239b16ef97ea
+source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
