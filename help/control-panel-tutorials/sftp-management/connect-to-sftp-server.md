@@ -1,14 +1,15 @@
 ---
 title: SFTP サーバーへの接続
 description: このビデオでは、Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。
-feature: SFTP Server allow listing
+feature: SFTP Management
 topics: Control Panel
 kt: 2924
+thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 7275724a1e24c4349322b0dcaa14e55b3c2e9fba
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 100%
