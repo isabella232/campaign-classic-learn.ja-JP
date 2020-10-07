@@ -1,18 +1,18 @@
 ---
 title: Campaign コントロールパネル使用の手引き
-description: このCampaign コントロールパネルにより、Adobe Campaign管理者は、キーアセットを監視し、SFTPストレージをインスタンス別に管理したり、GPGキーを管理したり、サブドメインや証明書を管理したりするなどの管理タスクを実行できます。
+description: この記事では、Campaign コントロールパネルにアクセスする方法と、コントロールパネルを使用するための前提条件を説明します。
 feature: Control Panel
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
-activity: use
+activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 61%
+source-wordcount: '243'
+ht-degree: 57%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 61%
 >The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. これらの用語が製品の UI、オプション名、内部コード、チュートリアルビデオに残っている場合がありますが、今後の Campaign コントロールパネルリリースで置き換えられる予定です。
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+
+この記事では、Campaign コントロールパネルにアクセスする方法と、コントロールパネルを使用するための前提条件を説明します。
 
 ## [!UICONTROL Campaign コントロールパネル]へのアクセス
 
