@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
@@ -34,4 +34,5 @@ Campaign コントロールパネルで SFTP 管理にアクセスするには�
 次のビデオでは、端末を使用して SSH キーを生成する方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+
 *SSH キーの作成方法（2 分 16 秒）*
