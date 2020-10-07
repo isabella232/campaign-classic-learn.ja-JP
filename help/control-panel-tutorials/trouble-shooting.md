@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 100%
@@ -44,9 +44,11 @@ ht-degree: 100%
 ### 参考になるビデオ
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *IMS 組織 ID の確認（26 秒）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *製品プロファイル「Administrators」に管理者を追加して[!UICONTROL Campaign コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
 
 ### 参考になるドキュメント
