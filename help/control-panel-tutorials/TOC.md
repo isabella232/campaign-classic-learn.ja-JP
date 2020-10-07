@@ -13,7 +13,7 @@ getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 82%
@@ -26,9 +26,9 @@ ht-degree: 82%
 + [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign コントロールパネル使用の手引き](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理 {#sftp-management}
+   + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [サーバー容量の監視、IP アドレスの許可リストへの登録、SSH キーの追加](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
 + サブドメインおよび証明書{#subdomains-and-certificates}
    + [サブドメインのデリゲート](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
