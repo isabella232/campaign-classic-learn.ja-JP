@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 100%
@@ -41,6 +41,7 @@ SSL 証明書を購入するには、証明書署名要求（CSR）が必要で�
 次のビデオでは、Campaign コントロールパネルで証明書署名要求を生成する方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+
 *証明書署名要求の生成（2 分 36 秒）*
 
 ### 2. SSL 証明書の購入
@@ -54,6 +55,7 @@ SSL 証明書を取得したら、保護しようとしているサブドメイ�
 次のビデオでは、[!UICONTROL Campaign コントロールパネル]で SSL 証明書をインストールする方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+
 *SSL 証明書のインストール（1 分 25 秒）*
 
 ## その他のリソース
