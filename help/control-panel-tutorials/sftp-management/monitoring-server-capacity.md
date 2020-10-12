@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 77%
+source-wordcount: '106'
+ht-degree: 59%
 
 ---
 
@@ -33,25 +33,6 @@ ht-degree: 77%
 
 ## サーバー容量の監視、IP アドレスの[!UICONTROL 許可リストへの登録]、SSH キーの追加
 
-このビデオでは、 [!UICONTROL Adobe CampaignCampaign コントロールパネルにアクセスする方法] 、およびSFTPサーバーのストレージを監視できる場所について説明します。
+SFTPサーバーのストレージ容量を監視する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### インターフェイスの説明
-
-**インスタンス**：管理者権限の対象となっているインスタンスのみが表示されます。
-
-**ジョブログ**：[!UICONTROL Campaign コントロールパネル]で実行されたジョブのみが表示されます。[!UICONTROL Campaign コントロールパネル]外で実行されたジョブは含まれません（例えば、実行中のワークフローなど）。
-
-ログには、組織の管理者が実行したジョブのみが含まれます。複数の組織がある場合、他の組織のログはジョブログには表示されません
-
-**「ストレージ」タブ**：ヘッダーには、最もよく使用されているサーバーの上位 3 つが表示されます。4 台以上のサーバーがある場合は、「[!UICONTROL ストレージ]」タブに残りのサーバーが表示されます。
-
-**警告メッセージ**：
-
-* オレンジ - サーバーの使用率が 80％
-* 赤 - サーバーの使用率が 90％
-
-## その他のリソース
-
-* [SSH 鍵の生成](./generate-ssh-key.md)
