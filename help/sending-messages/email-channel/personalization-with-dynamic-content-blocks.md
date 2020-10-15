@@ -1,5 +1,5 @@
 ---
-title: 動的コンテンツブロックを使用した電子メールのパーソナライズ
+title: 動的コンテンツブロックを使用した E メールのパーソナライズ
 description: 動的コンテンツブロックを作成する方法、および動的コンテンツブロックを使用して E メール配信のコンテンツをパーソナライズする方法について説明します。
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -8,16 +8,16 @@ thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '147'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 
-# 動的コンテンツブロックを使用した電子メールのパーソナライズ
+# 動的コンテンツブロックを使用した E メールのパーソナライズ
 
 Adobe Campaign では、コンテンツやメッセージの外観をパーソナライズし、受信者プロファイルに記述されている条件に従ってそれらを組み合わせることができます。
 
@@ -25,16 +25,16 @@ Adobe Campaign では、コンテンツやメッセージの外観をパーソ�
 
 動的コンテンツブロックを作成する方法、および動的コンテンツブロックを使用して E メール配信のコンテンツをパーソナライズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&captions=jpn)
 
 ## その他のリソース
 
 ドキュメント：
 
 * [パーソナライゼーションについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([パーソナライゼーションブロック](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* （[パーソナライゼーションブロック](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)）
 
-ビデオTutorials:
+ビデオチュートリアル：
 
-* [個人設定フィールドを使用した電子メールの個人設定](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [電子メールのパーソナライズ — 条件付きコンテンツを使用して多言語ニュースレターを作成します。](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [E メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
