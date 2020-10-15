@@ -1,5 +1,5 @@
 ---
-title: パーソナライゼーションフィールドを使用した電子メールの個人設定
+title: パーソナライゼーションフィールドを使用した E メールのパーソナライズ
 description: パーソナライゼーションフィールドを件名行と E メール配信のコンテンツに追加する方法について説明します。
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -8,22 +8,22 @@ thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 
-# パーソナライゼーションフィールドを使用した電子メールの個人設定
+# パーソナライゼーションフィールドを使用した E メールのパーソナライズ
 
-パーソナライゼーションフィールドは、配信されるメッセージのコンテンツをパーソナライズする第 1 レベルの手段として使用されます。メインコンテンツに挿入するフィールドは、選択したデータソースのデータを挿入する位置を示します。
+パーソナライゼーションフィールドは、配信されるメッセージのコンテンツをパーソナライズする第 1 レベルの手段として使用されます。メインコンテンツに挿入したフィールドが、選択したデータソースからのデータの挿入位置を示します。
 
 パーソナライゼーションフィールドを件名行と E メール配信のコンテンツに追加する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&captions=jpn)
 
 ## その他のリソース
 
@@ -34,5 +34,5 @@ ht-degree: 62%
 
 チュートリアル：
 
-* [動的コンテンツブロックを使用した電子メールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [電子メールのパーソナライズ — 条件付きコンテンツを使用して多言語ニュースレターを作成します。](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [動的コンテンツブロックを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [E メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
