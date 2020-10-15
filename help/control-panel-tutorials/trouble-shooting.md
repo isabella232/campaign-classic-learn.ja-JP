@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 100%
@@ -49,7 +49,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*製品プロファイル「Administrators」に管理者を追加して[!UICONTROL Campaign コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
+*製品プロファイル「Administrators」に管理者を追加して [!UICONTROL Campaign コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
 
 ### 参考になるドキュメント
 
@@ -64,7 +64,7 @@ SFTP サーバーに接続するには、以下が必要です。
 * Adobe Campaign に登録する必要がある秘密鍵と公開鍵のペア
 * SFTP サーバーに直接接続する場合は、SFTP クライアントソフトウェアも必要
 
-### 参考になるドキュメント
+### 参考になるドキュメント {#helpful-docs}
 
 * [SFTP サーバーへのログイン](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
