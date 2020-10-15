@@ -1,6 +1,6 @@
 ---
-title: 詳細な分析レポートの生成
-description: Adobe Campaign Classicのワークフローから分析を説明するレポートを生成する方法を説明します。
+title: 記述的分析レポートの生成
+description: Adobe Campaign Classic のワークフローから説明的な分析レポートレポートを生成する方法を説明します。
 feature: Reports
 topics: null
 kt: 5079
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 30%
+ht-degree: 68%
 
 ---
 
 
-# 詳細な分析レポートの生成
+# 記述的分析レポートの生成
 
 ワークフローから [!UICONTROL 分析を説明するレポートを生成する方法] 。
 
