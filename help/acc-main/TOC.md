@@ -2,8 +2,8 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic のチュートリアル
-user-guide-description: Adobe Campaign Classic allows marketers to design cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
-breadcrumb-title: Campaign Classic Tutorials
+user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
+breadcrumb-title: Campaign Classic チュートリアル
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -15,8 +15,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 74%
+source-wordcount: '385'
+ht-degree: 100%
 
 ---
 
@@ -29,20 +29,20 @@ ht-degree: 74%
    + [Adobe Campaign Classic ユーザーインターフェイスの詳細](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/getting-started/managing-marketing-campaigns.md)
    + [マーケティングプラン、プログラム、キャンペーンの作成](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [キャンペーンと E メールの作成](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
-   + [ワークフローでのプロファイルのターゲット設定](/help/getting-started/targeting-profiles-in-a-workflow.md)
-+ Profile Management {#profile-management}
+   + [キャンペーンと E メールの作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [ワークフローでのプロファイルのターゲティング](/help/getting-started/targeting-profiles-in-a-workflow.md)
++ プロファイル管理 {#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
-   + [プロファイルの読み込み](/help/data-management/importing-profiles.md)
+   + [プロファイルのインポート](/help/data-management/importing-profiles.md)
    + [受信者リストの作成](/help/profile-management/creating-a-list-of-recipients.md)
-   + [ワークフローを使用した受信者のリストの作成](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+   + [ワークフローでの受信者リストの作成](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + メッセージの送信{#sending-messages}
    + E メールチャネル{#email-channel}
       + [キャンペーンと E メールの作成](/help/getting-started/creating-a-campaign-and-an-email.md)
       + [E メールのシードと配達確認の管理](/help/sending-messages/managing-seed-and-proofs.md)
-      + [動的コンテンツブロックを使用した電子メールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-      + [個人設定フィールドを使用した電子メールの個人設定](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-      + [電子メールのパーソナライズ — 条件付きコンテンツを使用して多言語ニュースレターを作成します。](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+      + [動的コンテンツブロックを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [E メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [繰り返し E メールキャンペーンと継続的な E メールキャンペーンの設定](/help/sending-messages/recurring-deliveries.md)
       + [AMP を使用したインタラクティブな E メールコンテンツの定義](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + プッシュチャネル {#push-channel}
@@ -59,13 +59,13 @@ ht-degree: 74%
 + キャンペーンのオーケストレーション {#orchestration}
    + [マルチチャンネルキャンペーンの作成](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + レポート{#reporting}
-   + [詳細な分析レポートの生成](/help/reporting/generating-a-descriptive-analysis-report.md)
+   + [記述的分析レポートの生成](/help/reporting/generating-a-descriptive-analysis-report.md)
 + ワークフローでの自動化{#automating-with-workflows}
    + [ワークフローの作成](/help/automating-with-workflows/creating-a-workflow.md)
    + [ターゲティングワークフローの作成](/help/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [クエリの結果を組み合わせてターゲットを絞り込む](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-   + [クエリ結果を除外してターゲットを絞り込む](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [リストの更新アクティビティを使用したワークフローを含むリストの作成](/help/automating-with-workflows/using-the-update-list-activity.md)
+   + [クエリ結果の組み合わせによるターゲットの絞り込み](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [クエリ結果の除外によるターゲットの絞り込み](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [リスト更新アクティビティを使用したワークフローでのリストの作成](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [検証ワークフローの設定](/help/automating-with-workflows/validation-flow-configuration.md)
    + [エンリッチメントアクティビティの設定](/help/automating-with-workflows/enrichment-activity.md)
    + [データのセグメント化](/help/data-management/data-segmentation.md)
@@ -85,7 +85,7 @@ ht-degree: 74%
       + [サブドメインのデリゲート](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [SSL 証明書の追加](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [URL アクセス権限の追加](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [許可リストへのIPアドレスの追加](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [許可リストへの IP アドレスの追加](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Google TXT レコード管理](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG キー管理 {#gpg-key-management}
          + [GPG キー管理 - 概要](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
