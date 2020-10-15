@@ -9,9 +9,9 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: user
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 このレッスンでは、Adobe Campaign Classic のメインユーザーインターフェイスについて説明し、主な機能のナビゲート方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&captions=jpn)
 
 ## その他のリソース
 
