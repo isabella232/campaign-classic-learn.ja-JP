@@ -1,6 +1,6 @@
 ---
 title: URL アクセス権限の追加
-description: Adobe Campaign Classicの自立状態から外部URLへの接続を確立する方法を学びます。
+description: Adobe Campaign Classic インスタンスから外部 URL への接続を確立する方法について説明します。
 feature: Control Panel
 topics: Instance Settings
 kt: 3259
@@ -8,19 +8,19 @@ thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
 
 # URL アクセス権限の追加
 
-[!UICONTROL Adobe Campaign Classicインスタンスから外部URLへの接続を確立する方法を説明します] 。
+[!UICONTROL Adobe Campaign Classic] インスタンスから外部 URL への接続を確立する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12&captions=jpn)
 
-For more information please see [URL permissions](https://docs.adobe.com/content/help/ja-JP/control-panel/using/instances-settings/url-permissions.html).
+詳しくは、[URL アクセス権限](https://docs.adobe.com/content/help/ja-JP/control-panel/using/instances-settings/url-permissions.html)を参照してください。
