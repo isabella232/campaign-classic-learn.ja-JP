@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Classic の概要
-description: Adobe Campaign ClassicがAdobeのデジタルエクスペリエンスポートフォリオにどのように適合するかを理解し、主な機能と機能の概要を把握します。
+description: Adobe Campaign Classic がアドビのデジタルエクスペリエンスポートフォリオにどのように適合するか、およびその主な特長と機能の概要について説明します。
 feature: null
 topics: Getting started
 kt: 5457
@@ -9,17 +9,17 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: user
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 
 # Adobe Campaign Classic の概要
 
-Adobe Campaign ClassicがAdobeのデジタルエクスペリエンスポートフォリオにどのように適合するかを理解し、主な機能と機能の概要を把握します。
+Adobe Campaign Classic がアドビのデジタルエクスペリエンスポートフォリオにどのように適合するか、およびその主な特長と機能の概要について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&captions=jpn)
