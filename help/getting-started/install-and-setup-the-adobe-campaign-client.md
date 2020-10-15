@@ -8,9 +8,9 @@ thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 次のビデオでは、Adobe Campaign クライアントコンソールをダウンロードしインストールする方法、複数の環境への接続を作成し管理する方法、Adobe Campaign クライアントコンソールへのアクセスを確認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&captions=jpn)
 
 ## その他のリソース
 
