@@ -8,9 +8,9 @@ thumbnail: 36399.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Campaign コントロールパネルでインストールされた GPG キーを使用してデータをエクスポートする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12&captions=jpn)
 
 ## その他のリソース
 
