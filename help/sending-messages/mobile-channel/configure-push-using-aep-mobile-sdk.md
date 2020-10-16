@@ -1,31 +1,31 @@
 ---
-title: 'Experience PlatformモバイルSDKを使用したプッシュチャネルの設定 '
-description: 'このビデオでは、Experience CloudモバイルSDKを使用してCampaign Classic用にプッシュチャネルを設定する方法を説明します。 '
+title: 'Experience Platform モバイル SDK を使用したプッシュチャネルの設定 '
+description: 'このビデオでは、Experience Cloud モバイル SDK を使用して Campaign Classic のプッシュチャネルを設定する方法を説明します。 '
 feature: Mobile SDK
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Experience PlatformモバイルSDKを使用したプッシュチャネルの設定
+# Experience Platform モバイル SDK を使用したプッシュチャネルの設定
 
-このビデオでは、Adobe Experience PlatformモバイルSDKの設定とインストールの方法を説明します。
+このビデオでは、Adobe Experience Platform モバイル SDK のインストールと設定の方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&captions=jpn)
 
-*Adobe Experience PlatformモバイルSDKの設定とインストール（07:04分）*
+*Adobe Experience Platform モバイル SDK のインストールと設定（7 分 4 秒）*
 
 ## その他のリソース
 
-* [Adobe Experience PlatformSDKのCampaign Classic拡張](https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acc-aep-extension.html)
+* [Adobe Experience Platform SDK 用の Campaign Classic 拡張機能](https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acc-aep-extension.html)
 
-* [「起動」でのCampaign Classic拡張の設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+* [Launch での Campaign Classic 拡張機能の設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
