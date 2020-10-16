@@ -1,37 +1,36 @@
 ---
-title: Snowflakeの大きなデータ管理
-description: このチュートリアルでは、Adobe Campaign ClassicのSnowflakeコネクタを活用する方法を説明します
+title: Snowflake でのビッグデータ管理
+description: このチュートリアルでは、Adobe Campaign Classic で Snowflake コネクタを活用する方法を説明します
 feature: Snowflake
 topics: FDA
 kt: 4405
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Snowflakeの大きなデータ管理
+# Snowflake でのビッグデータ管理
 
-このチュートリアルでは、Adobe Campaign Classicの [!DNL Snowflake] コネクタを活用する方法を説明します。
-次の方法を学習します。
+このチュートリアルでは、Adobe Campaign Classic で [!DNL Snowflake] コネクタを活用する方法を説明します。次の作業の方法について説明します。
 
-* Snowflakeに接続
-* Snowflakeにリンクしたスキーマの作成
-* スキーマを拡張し、データを準備する
+* Snowflake への接続
+* Snowflake にリンクしたスキーマの作成
+* スキーマの拡張とデータの準備
 * ワークフローとクエリの作成
-* Snowflakeで起こることを理解する
-* フォームを作成し、マーケターがフォームにアクセスできるようにする
+* Snowflake での処理の理解
+* フォームの作成とマーケターへの公開
 * データの検索とレポート
-* リストのデータを書き出し、リアルタイターゲティングフィルターを作成する方法
+* データのリストへのエクスポートとリアルタイムターゲティングフィルターの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on&captions=jpn)
 
 ## その他のリソース
 
-* [データベースタイプ別の特定の設定](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/accessing-external-database/specific-configuration-database.html)
+* [データベースタイプ別の特定の設定](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/accessing-external-database/specific-configuration-database.html)
