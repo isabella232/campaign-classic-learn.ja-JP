@@ -7,9 +7,9 @@ kt: 3266
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '260'
 ht-degree: 100%
 
@@ -32,15 +32,15 @@ Campaign コントロールパネルでは、SFTP ストレージをインスタ
 
 このビデオでは、[!UICONTROL Adobe Campaign コントロールパネル]へのアクセス、SFTP サーバーのストレージの監視、IP アドレスの[!UICONTROL 許可リストへの登録]、SSH キーの追加の方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12&captions=jpn)
 
 ### インターフェイスの説明
 
 **インスタンス**：管理者権限の対象となっているインスタンスのみが表示されます。
 
-**ジョブログ**：[!UICONTROL Campaign コントロールパネル]で実行されたジョブのみが表示されます。[!UICONTROL Campaign コントロールパネル]外で実行されたジョブは含まれません（例えば、実行中のワークフローなど）。
+**ジョブのログ**：[!UICONTROL Campaign コントロールパネル]で実行されたジョブのみが表示されます。[!UICONTROL Campaign コントロールパネル]外で実行されたジョブは含まれません（例えば、実行中のワークフローなど）。
 
-ログには、組織の管理者が実行したジョブのみが含まれます。複数の組織がある場合、他の組織のログはジョブログには表示されません
+ログには、組織の管理者が実行したジョブのみが含まれます。複数の組織がある場合、他の組織のログはジョブのログには表示されません
 
 **「ストレージ」タブ**：ヘッダーには、最もよく使用されているサーバーの上位 3 つが表示されます。4 台以上のサーバーがある場合は、「[!UICONTROL ストレージ]」タブに残りのサーバーが表示されます。
 
