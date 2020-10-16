@@ -3,11 +3,11 @@ title: Adobe Campaign Classic のチュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '251'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 * **[GPG キー管理](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の[!UICONTROL Campaign]インスタンスに生成しインストールする方法と、インバウンドデータを復号化するために公開鍵を Campaign インスタンスにインポートしインストールする方法を説明します。*
+   *アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の [!UICONTROL Campaign] インスタンスに生成しインストールする方法と、インバウンドデータを復号化するために公開鍵を Campaign インスタンスにインポートしインストールする方法を説明します。*
 
 * **[サブドメインのデリゲート（ベータ版）](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -62,7 +62,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="AMPを使用したインタラクティブな電子メールコンテンツの定義（ビデオ）" src="./assets/29940.png" />
+      <img alt="AMP を使用したインタラクティブな E メールコンテンツの定義（ビデオ）" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
@@ -70,7 +70,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     </div>
     <p>
-    <em>Adobe Campaign ClassicでAMPをアクティブ化し、使用する方法を学びます </em>
+    <em>Adobe Campaign Classic で AMP を有効化して使用する方法を説明します。</em>
     <p>
   </td>
 </tr>
