@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
-> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
+> [!UICONTROL Campaign コントロールパネル]から使用できるサブドメインデリゲーションはベータ版です。通知なしに頻繁に更新および変更される可能性があります。
 
 Adobe [!UICONTROL Campaign コントロールパネル]を使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。
 
