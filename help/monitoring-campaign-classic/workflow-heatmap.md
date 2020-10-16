@@ -7,9 +7,9 @@ kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Adobe Campaign ワークフローヒートマップは、現在実行中のす�
 
 注意：この機能は、Adobe Campaign Classic V7（ビルド 18.11.1）以降でのみ使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&captions=jpn)
 
 ## その他のリソース
 
