@@ -8,9 +8,9 @@ thumbnail: null
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 1. **アウトバウンドデータを暗号化**&#x200B;するために&#x200B;**公開鍵と秘密鍵のペア**&#x200B;を指定の Campaign インスタンスに生成しインストールする方法
 2. **インバウンドデータを復号化**&#x200B;するために&#x200B;**公開鍵**&#x200B;を Campaign インスタンスにインポートしインストールする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/34201?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34201?quality=12&captions=jpn)
 
 ## その他のリソース
 
