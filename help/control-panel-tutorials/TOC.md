@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe CampaignCampaign コントロールパネルTutorials
+user-guide-title: Adobe Campaign コントロールパネルのチュートリアル
 user-guide-description: Campaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別や許可リストIPアドレス別のSFTPストレージの管理などの管理タスクを実行できます。
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
@@ -16,12 +16,12 @@ translation-type: tm+mt
 source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 61%
+ht-degree: 75%
 
 ---
 
 
-# Adobe Campaign Control Panel - Tutorials {#control-panel}
+# Adobe Campaign コントロールパネル - チュートリアル {#control-panel}
 
 + [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign コントロールパネル使用の手引き](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
@@ -35,7 +35,7 @@ ht-degree: 61%
    + [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT レコード管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + インスタンス設定 {#instance-settings}
-   + [許可リストへのIPアドレスの追加](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [許可リストへの IP アドレスの追加](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [URL アクセス権限の追加](/help/control-panel-tutorials/instance-settings/adding-url-permissions.md)
    + GPG キー管理 {#gpg-key-management}
       + [GPG キー管理 - 概要](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
