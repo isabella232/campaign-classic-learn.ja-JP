@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Classicでの配信テンプレートの設定
-description: テンプレートには、体系的に、タイポロジ、送信者と返信先のアドレス、およびミラーページや購読解除のリンクなどの基本的なパーソナライゼーションブロックを含めることができます。 また、コンテンツ、会社のロゴや署名、およびリソースの有効性、バッチ数量などの他の配信プロパティを含めることもできます。 次のビデオでは、アドホック配信用のテンプレートを設定する方法について説明します。
+title: Adobe Campaign Classic での配信テンプレートの設定
+description: テンプレートには、タイポロジ、送信者と返信先のアドレス、およびミラーページや購読解除リンクなどの基本的なパーソナライゼーションブロックを体系的に含めることができます。また、コンテンツ、会社のロゴや署名、およびリソースの有効性、バッチ数量などの他の配信プロパティを含めることもできます。次のビデオでは、アドホック配信用のテンプレートを設定する方法について説明します。
 feature: Delivery Templates
 topics: Templates
 kt: 1980
@@ -8,31 +8,31 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
-ht-degree: 26%
+ht-degree: 100%
 
 ---
 
 
 # 配信テンプレートの設定
 
-マーケティング部門は、キャンペーンの実行と開始を迅速に行うために、クリエイティブなルック&amp;フィールを標準化する配信テンプレートを作成します。
+マーケティング部門では、キャンペーンの実行と開始を迅速におこなうために、クリエイティブなルックアンドフィールを標準化する配信テンプレートを作成します。
 
-テンプレートには、次の項目を系統的に含めることができます。
+テンプレートには、次の項目を体系的に含めることができます。
 
 * タイポロジ
-* 送信者と返信先アドレス
-* 基本パーソナライゼーションブロック
-* ミラーページと購読解除へのリンク
+* 送信者と返信先のアドレス
+* 基本的なパーソナライゼーションブロック
+* ミラーページや購読解除へのリンク
 * コンテンツ、会社のロゴまたは署名
-* リソースの有効性、バッチ数量など、その他の配信プロパティ
+* リソースの有効性やバッチ数量など、その他の配信プロパティ
 
 次のビデオでは、アドホック配信用のテンプレートを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12&captions=jpn)
 
 ## その他のリソース {#additional-resources}
 
@@ -43,7 +43,7 @@ ht-degree: 26%
 
 ドキュメント：
 
-* [テンプレートについて](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [配信テンプレートの作成](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [ターゲットマッピングの選択](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [テンプレートからの配信の作成](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [テンプレートについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
+* [配信テンプレートの作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
+* [ターゲットマッピングの選択](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
+* [テンプレートからの配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)
