@@ -94,4 +94,4 @@ ht-degree: 100%
          + [データの復号化](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Campaign コントロールパネルのトラブルシューティング](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 外部データベースへのアクセス（FDA）{#fda}
-      + [ [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md) でのビッグデータ管理
+      + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
