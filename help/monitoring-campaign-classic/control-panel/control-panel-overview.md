@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*[!DNL IMS Org ID]の確認（0 分 26 秒）*
+*[!DNL IMS Org ID] の確認（0 分 26 秒）*
 
 ### 管理者権限
 
@@ -59,7 +59,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*製品プロファイル「[!UICONTROL Administrators]」に管理者を追加して[!UICONTROL Campaign コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
+*製品プロファイル「[!UICONTROL Administrators]」に管理者を追加して [!UICONTROL Campaign コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
 
 ## [!UICONTROL Campaign コントロールパネル]のチュートリアル
 
@@ -73,7 +73,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 * **[サブドメインのデリゲート](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *サブドメインを[!UICONTROL Adobe Campaign]* に完全にデリゲートする方法を説明します。
+   *サブドメインを [!UICONTROL Adobe Campaign]* に完全にデリゲートする方法を説明します。
 
 * **[SSL 証明書の追加](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
 
@@ -83,13 +83,13 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
    *外部の URL を承認済み URL リストに追加して、インスタンスからアクセスできるようにする方法を説明します。*
 
-* **[許可リストへのIPアドレスの追加](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[許可リストへの IP アドレスの追加](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *IP アドレスの範囲を[!UICONTROL 許可リストに登録]して、インスタンスへの新しい接続をセットアップする方法を説明します。*
 
 * **[Google TXT レコード管理](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
 
-   *[!UICONTROL Campaign コントロールパネル]を使用して、[!DNL GMAIL]アドレス宛ての E メール送信に使用するすべてのサブドメインに[!DNL Google TXT]サイト検証レコードを追加する方法を説明します。*
+   *[!UICONTROL Campaign コントロールパネル]を使用して、[!DNL GMAIL] アドレス宛ての E メール送信に使用するすべてのサブドメインに [!DNL Google TXT] サイト検証レコードを追加する方法を説明します。*
 
 * **GPG キー管理**
 
