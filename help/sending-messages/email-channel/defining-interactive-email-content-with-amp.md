@@ -8,9 +8,9 @@ thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ AMP for Email は、開発者が動的でインタラクティブな E メール
 
 以下のビデオでは、Adobe Campaign Classic で AMP をアクティブにし使用する方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on&captions=jpn)
 
 ## その他のリソース
 
