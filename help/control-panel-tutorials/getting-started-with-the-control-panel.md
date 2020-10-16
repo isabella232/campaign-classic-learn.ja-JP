@@ -12,18 +12,18 @@ translation-type: tm+mt
 source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 57%
+ht-degree: 81%
 
 ---
 
 
-# [!UICONTROL Campaign コントロールパネル使用の手引き] {#control-panel}
+# [!UICONTROL Campaign コントロールパネル]使用の手引き{#control-panel}
 
 >[!NOTE]
 >
->The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. これらの用語が製品の UI、オプション名、内部コード、チュートリアルビデオに残っている場合がありますが、今後の Campaign コントロールパネルリリースで置き換えられる予定です。
+>Adobe Campaign ドキュメントでは、「[!UICONTROL ホワイトリスト]」および「[!UICONTROL ブラックリスト]」という用語が「[!UICONTROL 許可リスト]」および「[!UICONTROL ブロックリスト]」に置き換えられました。これらの用語が製品の UI、オプション名、内部コード、チュートリアルビデオに残っている場合がありますが、今後の Campaign コントロールパネルリリースで置き換えられる予定です。
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+[!UICONTROL Campaign コントロールパネル]を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは[!UICONTROL サブドメイン]と[!UICONTROL 証明書]の管理などの管理タスクを実行したりできます。
 
 この記事では、Campaign コントロールパネルにアクセスする方法と、コントロールパネルを使用するための前提条件を説明します。
 
@@ -50,7 +50,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*[!DNL IMS Org ID]の確認（0 分 26 秒）*
+*[!DNL IMS Org ID] の確認（0 分 26 秒）*
 
 ### 管理者権限
 
