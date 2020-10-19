@@ -3,11 +3,11 @@ title: Adobe Campaign Classic のチュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
-source-wordcount: '251'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 89%
 
 ---
 
@@ -18,17 +18,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* **[GPG キー管理](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[CNAMEを使用したサブドメインの委任（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の [!UICONTROL Campaign] インスタンスに生成しインストールする方法と、インバウンドデータを復号化するために公開鍵を Campaign インスタンスにインポートしインストールする方法を説明します。*
-
-* **[サブドメインのデリゲート（ベータ版）](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
-
-   *サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。*
-
-* **[AMP を使用したインタラクティブな E メールコンテンツの定義](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
-
-   *Adobe Campaign Classic（ACC）で AMP 形式の E メールコンテンツを設定する方法を説明します。*
+   *Campaign コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法について説明します。*
 
 ## スタッフのおすすめ
 
