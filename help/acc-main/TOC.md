@@ -13,10 +13,10 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 97%
 
 ---
 
@@ -77,21 +77,6 @@ ht-degree: 100%
 + 統合 {#integrating}
    + [Dynamics 365 を Adobe Campaign Classic と統合する方法](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + Campaign コントロールパネル {#control-panel-acc}
-      + [Campaign コントロールパネルの概要](/help/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [サーバー容量の監視、IP アドレスの許可リストへの登録、SSH キーの追加](/help/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [SSH キーの生成](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-      + [SFTP サーバーへの接続](/help/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
-      + [サブドメインのデリゲート](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [SSL 証明書の追加](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [URL アクセス権限の追加](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [許可リストへの IP アドレスの追加](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
-      + [Google TXT レコード管理](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + GPG キー管理 {#gpg-key-management}
-         + [GPG キー管理 - 概要](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [データ暗号化用の GPG キーの生成とインストール](/help/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [GPG キーを使用したデータの暗号化](/help/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [データの復号化](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
-      + [Campaign コントロールパネルのトラブルシューティング](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
+   + [コントロールパネル](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
    + 外部データベースへのアクセス（FDA）{#fda}
-      + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [ [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md) でのビッグデータ管理
