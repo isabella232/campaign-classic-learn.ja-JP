@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 100%
+source-wordcount: '222'
+ht-degree: 96%
 
 ---
 
@@ -60,5 +60,5 @@ SSL 証明書を取得したら、保護しようとしているサブドメイ�
 
 ## その他のリソース
 
-* [サブドメインのデリゲート](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-* [サブドメインおよび証明書 - ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [完全なサブドメインの委任（ビデオ）](./subdomain-delegation.md)
+* [サブドメインと証明書（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
