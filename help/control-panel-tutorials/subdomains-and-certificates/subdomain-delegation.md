@@ -1,5 +1,5 @@
 ---
-title: サブドメインのデリゲート
+title: 完全なサブドメインデリゲーション
 description: サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。
 feature: Subdomain Delegation
 topics: Control Panel
@@ -8,17 +8,17 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
 
 
-# サブドメインのデリゲート
+# 完全なサブドメインデリゲーション
 
->[!NOTE]
+>[!IMPORTANT]
 >
 > [!UICONTROL Campaign コントロールパネル]から使用できるサブドメインデリゲーションはベータ版です。通知なしに頻繁に更新および変更される可能性があります。
 
@@ -42,5 +42,5 @@ Adobe [!UICONTROL Campaign コントロールパネル]を使用すると、サ�
 
 ## その他のリソース
 
-* [SSL 証明書の追加](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+* [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [サブドメインおよび証明書](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
