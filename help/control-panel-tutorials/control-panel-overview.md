@@ -7,11 +7,11 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
-workflow-type: ht
-source-wordcount: '260'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+workflow-type: tm+mt
+source-wordcount: '197'
+ht-degree: 90%
 
 ---
 
@@ -21,17 +21,9 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
 
 ## 新着情報
 
-* **[データ暗号化用の GPG キーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[CNAMEを使用したサブドメインの委任](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *公開／秘密 GPG キーペアを生成し、公開鍵を [!UICONTROL Campaign コントロールパネル]にインストールして、インスタンスから送信する前にデータを暗号化できるようにする方法を説明します。*
-
-* **[GPG キーを使用したデータの暗号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *[!UICONTROL Campaign コントロールパネル]でインストールした GPG キーを使用してデータをエクスポートする方法を説明します。*
-
-* **[データの復号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *公開鍵を作成し、[!UICONTROL Campaign] インスタンスにインポートしてインストールし、受信データを復号化できるようにする方法を説明します。*
+   *Campaign コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法について説明します。*
 
 ## スタッフのおすすめ
 
