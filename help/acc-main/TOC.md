@@ -79,4 +79,4 @@ ht-degree: 97%
 + 管理 {#administrating}
    + [コントロールパネル](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
    + 外部データベースへのアクセス（FDA）{#fda}
-      + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [ でのビッグデータ管理 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
