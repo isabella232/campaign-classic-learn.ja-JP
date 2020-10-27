@@ -1,6 +1,6 @@
 ---
 title: SSH キーの生成
-description: ターミナルを使用してSSHキーを生成する方法と、キーの公開バージョンをCampaign コントロールパネルに格納する方法について説明します。
+description: ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。
 feature: SSH Key
 topics: Control Panel
 kt: 6348
@@ -8,11 +8,11 @@ thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -32,8 +32,8 @@ Campaign コントロールパネルで SFTP 管理にアクセスするには�
 
 ## SSH キーの生成方法
 
-ターミナルを使用してSSHキーを生成する方法と、キーの公開バージョンをCampaign コントロールパネルに格納する方法について説明します。
+ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12&captions=jpn)
 
 *SSH キーの作成方法（2 分 16 秒）*
