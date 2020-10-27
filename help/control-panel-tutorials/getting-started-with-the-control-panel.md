@@ -1,6 +1,6 @@
 ---
 title: Campaign コントロールパネル使用の手引き
-description: この記事では、Campaign コントロールパネルにアクセスする方法と、コントロールパネルを使用するための前提条件を説明します。
+description: この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
 feature: Control Panel
 topics: Control Panel
 kt: 6388
@@ -8,11 +8,11 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 81%
 
 [!UICONTROL Campaign コントロールパネル]を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは[!UICONTROL サブドメイン]と[!UICONTROL 証明書]の管理などの管理タスクを実行したりできます。
 
-この記事では、Campaign コントロールパネルにアクセスする方法と、コントロールパネルを使用するための前提条件を説明します。
+この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
 
 ## [!UICONTROL Campaign コントロールパネル]へのアクセス
 
@@ -48,7 +48,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 自分の [!DNL IMS org ID] がわかっている必要があります。次のビデオでは、インスタンスの [!DNL IMS org ID] を参照できる場所を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=jpn)
 
 *[!DNL IMS Org ID] の確認（0 分 26 秒）*
 
@@ -57,7 +57,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 [!UICONTROL Campaign コントロールパネル]にアクセスするには、管理者権限が必要です。
 次のビデオでは、Campaign インスタンスに管理者を追加する方法を説明しています
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=jpn)
 
 ## その他のリソース
 
