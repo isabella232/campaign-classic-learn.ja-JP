@@ -7,9 +7,9 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '351'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 製品プロファイル _Campaign-xxx-Administrators/Admin_ にユーザーとして追加されるまでは、ユーザーにリンクは表示されません。
 
 **対処方法**：
-管理者が、管理する各インスタンスの製品プロファイル_Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、場合によっては、自分自身を「ユーザー」として追加する必要があります。
+管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、場合によっては、自分自身を「ユーザー」として追加する必要があります。
 
 ### 症状：インスタンスが [!UICONTROL Campaign コントロールパネル]に表示されない
 
@@ -39,15 +39,15 @@ ht-degree: 100%
 ほとんどの場合、表示されないインスタンスの製品プロファイル _Campaign-xxx-Administrators/Admin_ にユーザーを「ユーザー」として追加する必要があります。
 
 **対処方法**：
-管理者が、管理する各インスタンスの製品プロファイル_Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、場合によっては、自分自身を「ユーザー」として追加する必要があります。
+管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、場合によっては、自分自身を「ユーザー」として追加する必要があります。
 
 ### 参考になるビデオ
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=jpn)
 
 *IMS 組織 ID の確認（26 秒）*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=jpn)
 
 *製品プロファイル「Administrators」に管理者を追加して [!UICONTROL Campaign コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
 
@@ -64,7 +64,7 @@ SFTP サーバーに接続するには、以下が必要です。
 * Adobe Campaign に登録する必要がある秘密鍵と公開鍵のペア
 * SFTP サーバーに直接接続する場合は、SFTP クライアントソフトウェアも必要
 
-### 参考になるドキュメント {#helpful-docs}
+### 参考になるドキュメント{#helpful-docs}
 
 * [SFTP サーバーへのログイン](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
