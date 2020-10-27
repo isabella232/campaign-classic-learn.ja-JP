@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign コントロールパネルのチュートリアル
-user-guide-description: Campaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別や許可リストIPアドレス別のSFTPストレージの管理などの管理タスクを実行できます。
+user-guide-description: Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、管理タスク（インスタンス単位の SFTP ストレージの管理や IP アドレスの許可リストへの登録など）を実行したりできます。
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -12,11 +12,11 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 71%
 + [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign コントロールパネル使用の手引き](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理 {#sftp-management}
-   + [サーバ容量の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
-   + [許可リストへのIP範囲の追加](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
+   + [サーバー容量の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [許可リストへの IP 範囲の追加](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + サブドメインおよび証明書{#subdomains-and-certificates}
-   + [完全なサブドメイン委任（ベータ）](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [CNAMEを使用したサブドメインの委任（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [完全なサブドメインデリゲーション（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [CNAME を使用したサブドメインのデリゲート（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT レコード管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + インスタンス設定 {#instance-settings}
