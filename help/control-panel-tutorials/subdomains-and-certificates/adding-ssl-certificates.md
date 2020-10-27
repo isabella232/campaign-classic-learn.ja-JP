@@ -8,18 +8,18 @@ thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
 # SSL 証明書の追加
 
-Adobe [!UICONTROL Campaign コントロールパネル]では、SSL 証明書を追加して、サブドメインを保護できます。
+Adobe [!UICONTROL Campaign コントロールパネル]では、SSL 証明書を追加してサブドメインを保護できます。
 
 ## Campaign コントロールパネルのサブドメイン管理へのアクセス
 
@@ -40,7 +40,7 @@ SSL 証明書を購入するには、証明書署名要求（CSR）が必要で�
 
 次のビデオでは、Campaign コントロールパネルで証明書署名要求を生成する方法を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&captions=jpn)
 
 *証明書署名要求の生成（2 分 36 秒）*
 
@@ -54,11 +54,11 @@ SSL 証明書を取得したら、保護しようとしているサブドメイ�
 
 次のビデオでは、[!UICONTROL Campaign コントロールパネル]で SSL 証明書をインストールする方法を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&captions=jpn)
 
 *SSL 証明書のインストール（1 分 25 秒）*
 
 ## その他のリソース
 
-* [完全なサブドメインの委任（ビデオ）](./subdomain-delegation.md)
-* [サブドメインと証明書（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [完全なサブドメインデリゲーション（ビデオ）](./subdomain-delegation.md)
+* [サブドメインおよび証明書（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
