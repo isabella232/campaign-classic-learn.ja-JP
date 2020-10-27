@@ -7,9 +7,9 @@ kt: 4115
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -36,7 +36,7 @@ Adobe [!UICONTROL Campaign コントロールパネル]を使用すると、サ�
 
 次のビデオでは、サブドメインをデリゲートする方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12&captions=jpn)
 
 *サブドメインのデリゲート（5 分 7 秒）*
 
