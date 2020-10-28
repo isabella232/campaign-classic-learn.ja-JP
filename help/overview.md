@@ -3,11 +3,11 @@ title: Adobe Campaign Classic のチュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-source-wordcount: '194'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+workflow-type: tm+mt
+source-wordcount: '206'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,10 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 * **[CNAME を使用したサブドメインのデリゲート（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Campaign コントロールパネルで CNAME を使用してサブドメインを設定し、送信する方法について説明します。*
+
+* **[データベースの監視](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *インスタンスのデータベース使用状況を監視する方法を説明します。*
 
 ## スタッフのおすすめ
 
