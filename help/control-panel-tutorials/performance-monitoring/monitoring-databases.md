@@ -10,17 +10,17 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # データベースの監視
 
-インスタンスのデ [!DNL Adobe Campaign] ータベースには、に保存されているすべてのアセット、ワークフロー、およびデータが含まれ [!DNL Adobe Campaign]ます。 したがって、インスタンスのデータベースを監視する場合は、最適なパフォーマンスを確保する必要があります。
+キャンペーンインスタンスのアセット、ワークフローおよびデータは、すべてデータベースに保存されます。 データベースが最大容量に達すると、インスタンスに問題が発生する（ログインできない、電子メールを送信できないなど）可能性があります。 したがって、最適なパフォーマンスを確保するために、インスタンスのデータベースを定期的に監視する必要があります。
 
 を使用してインスタンスのデータベースの使用状況を監視する方法を説明し [!DNL Control Panel]ます。
 
