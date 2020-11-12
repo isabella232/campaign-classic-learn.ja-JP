@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 350ef2c3cf70a253b74c48feced0f5f319022631
+source-git-commit: fe2f788ef711612382a2fc80c43f34249f1f877e
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 100%
+source-wordcount: '329'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 + [概要](/help/overview.md)
 + はじめに {#getting-started}
    + [Adobe Campaign Classic の概要](/help/getting-started/introduction-to-adobe-campaign-classic.md)
+   + [Adobe Campaignクライアントのインストールとセットアップ](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Adobe Campaign Classic ユーザーインターフェイスの詳細](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/getting-started/managing-marketing-campaigns.md)
    + [マーケティングプラン、プログラム、キャンペーンの作成](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
