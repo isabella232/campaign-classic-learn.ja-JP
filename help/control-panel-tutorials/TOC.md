@@ -1,5 +1,5 @@
 ---
-product: adobe campaign standard
+product: Adobe Cmpaign Classic
 user-guide-title: Adobe Campaign コントロールパネルのチュートリアル
 user-guide-description: Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、管理タスク（インスタンス単位の SFTP ストレージの管理や IP アドレスの許可リストへの登録など）を実行したりできます。
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
@@ -12,10 +12,10 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
