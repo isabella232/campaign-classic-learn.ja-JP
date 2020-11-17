@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: fe2f788ef711612382a2fc80c43f34249f1f877e
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 97%
+source-wordcount: '334'
+ht-degree: 96%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 97%
       + [繰り返し E メールキャンペーンと継続的な E メールキャンペーンの設定](/help/sending-messages/recurring-deliveries.md)
       + [AMP を使用したインタラクティブな E メールコンテンツの定義](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + プッシュチャネル {#push-channel}
+      + [モバイルアプリチャネルのインストール](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform モバイル SDK を使用したプッシュチャネルの設定](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
    + 配信テンプレートの使用{#using-delivery-templates}
       + [配信テンプレートの設定](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
