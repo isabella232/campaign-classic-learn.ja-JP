@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 モバイルアプリからキャンペーンが受け取るパーソナライズ値を格納できるようにアプリの購読スキーマを拡張する方法について説明します。
 
-[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
 ## 次に見るもの
 
