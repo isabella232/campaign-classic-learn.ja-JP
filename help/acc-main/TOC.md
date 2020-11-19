@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 96%
+source-wordcount: '348'
+ht-degree: 92%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 96%
    + プッシュチャネル {#push-channel}
       + [モバイルアプリチャネルのインストール](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform モバイル SDK を使用したプッシュチャネルの設定](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+      + [Android向けプッシュ通知の概要（チュートリアル）] (https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
    + 配信テンプレートの使用{#using-delivery-templates}
       + [配信テンプレートの設定](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [配信テンプレートプロパティの設定](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
