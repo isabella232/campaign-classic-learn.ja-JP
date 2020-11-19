@@ -1,5 +1,5 @@
 ---
-title: チュートリアルの概要
+title: Android向けプッシュ通知の概要 — はじめに
 description: このチュートリアルでは、Adobe Campaign からプッシュ通知を送信し、Android アプリでこれらの通知を受信する手順について説明します。
 feature: push
 topics: mobile channels
@@ -8,15 +8,15 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 11%
 
 ---
 
 
-# チュートリアルの概要
+# Android向けプッシュ通知の概要 — はじめに
 
 Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android] mobile devices. このチュートリアルでは、Adobe Campaignからアプリへの [!DNL push] 通知の送信に関する手順を説明し [!DNL Android] ます。
 
