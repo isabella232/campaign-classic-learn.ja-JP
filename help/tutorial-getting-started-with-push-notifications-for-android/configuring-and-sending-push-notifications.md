@@ -9,24 +9,27 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 2%
+source-wordcount: '116'
+ht-degree: 1%
 
 ---
 
 
 # プッシュ通知の設定と送信
 
-Androidアプリのユーザーにプッシュ通知を設定して送信する方法について説明します。
+アプリケーションのユーザーに [!DNL push] 通知を設定して送信する方法を説明し [!DNL Android] ます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
+
+**前の手順**
+
+手順2: [Androidサービスの設定とキャンペーンでのAndroidモバイルアプリケーションの作成](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## その他のリソース
 
 * [はじめに — モバイルアプリチャネル（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/about-mobile-app-channel.html#about-mobile-app-channel)
 * [プッシュ通知の作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/creating-notifications.html#sending-messages)
-* [キャンペーン（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-delivery)でAndroid配信を作成する
-* Android強制隔離の管理：https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-quarantine-management.html#android-quarantine)
-
+* [キャンペーンでのAndroid配信の作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-delivery)
+* [Android強制隔離の管理（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-quarantine-management.html#android-quarantine)
