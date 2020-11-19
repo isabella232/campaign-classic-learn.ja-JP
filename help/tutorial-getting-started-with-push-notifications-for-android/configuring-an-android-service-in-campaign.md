@@ -9,23 +9,27 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
 
 
-# Androidサービスの設定とキャンペーンでのAndroidモバイルアプリケーションの作成
+# サービスの設定と [!DNL Android] キャンペーンでの [!DNL Android] モバイルアプリケーションの作成
 
-Androidサービスを設定し、キャンペーンでAndroidモバイルアプリケーションを作成する方法について説明します。 この手順は、プッシュ通知用のターゲットアプリを定義できるようにするために必要です。
+サー [!DNL Android] ビスを設定し、キャンペーンで [!DNL Android] モバイルアプリケーションを作成する方法について説明します。 この手順は、プッシュ通知用のターゲットモバイルアプリケーションを定義できるように必要です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
-## 次に見るもの
+**前の手順**
 
-**[プッシュ通知の設定と送信](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)**
+手順1: [アプリの購読スキーマを拡張して、プッシュ通知をパーソナライズする](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+
+**次の手順**
+
+手順3: [プッシュ通知の設定と送信](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
 ## その他のリソース
 
