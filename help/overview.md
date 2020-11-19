@@ -4,10 +4,10 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 94%
+source-wordcount: '233'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 94%
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザガイドには、Adobe Campaign Classic の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
 ## 新着情報
+
+* **[Android向けプッシュ通知の概要](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
+
+   *このチュートリアルでは、Adobe CampaignからAndroidアプリへプッシュ通知を送信する手順について説明します。*
+
 
 * **[CNAME を使用したサブドメインのデリゲート（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
