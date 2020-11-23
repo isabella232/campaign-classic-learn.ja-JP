@@ -5,7 +5,7 @@ user-guide-description: Campaign コントロールパネルを使用すると�
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=ja&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: チュートリアル
 tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/overview.html
 getting-started-title: ドキュメント
