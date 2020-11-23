@@ -4,12 +4,13 @@ description: サブドメインを Adobe Campaign に完全にデリゲートす
 feature: Subdomain Delegation
 topics: Control Panel
 kt: 4115
+thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: afd21759c453aebf23216fcb25d9eeee92ebc515
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -36,7 +37,7 @@ Adobe [!UICONTROL Campaign コントロールパネル]を使用すると、サ�
 
 次のビデオでは、サブドメインをデリゲートする方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
 *サブドメインのデリゲート（5 分 7 秒）*
 
