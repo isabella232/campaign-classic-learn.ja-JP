@@ -6,16 +6,16 @@ user-guide-description: Adobe Campaign Classic を使用すれば、マーケタ
 breadcrumb-title: チュートリアル
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=ja&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: チュートリアル
-tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
+source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 92%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 92%
 + [概要](/help/overview.md)
 + はじめに {#getting-started}
    + [Adobe Campaign Classic の概要](/help/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Adobe Campaignクライアントのインストールとセットアップ](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Adobe Campaign クライアントのインストールとセットアップ](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Adobe Campaign Classic ユーザーインターフェイスの詳細](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/getting-started/managing-marketing-campaigns.md)
    + [マーケティングプラン、プログラム、キャンペーンの作成](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [キャンペーンと E メールの作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [キャンペーンと E メールの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
    + [ワークフローでのプロファイルのターゲティング](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + プロファイル管理 {#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
@@ -79,6 +79,6 @@ ht-degree: 92%
 + 統合 {#integrating}
    + [Dynamics 365 を Adobe Campaign Classic と統合する方法](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + [Campaign コントロールパネル](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/control-panel-overview.translate.html)
+   + [Campaign コントロールパネル](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja)
    + 外部データベースへのアクセス（FDA）{#fda}
       + [ でのビッグデータ管理 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
