@@ -1,6 +1,6 @@
 ---
-title: Androidサービスの設定とキャンペーンでのAndroidモバイルアプリケーションの作成
-description: Androidサービスを設定し、キャンペーンでAndroidモバイルアプリケーションを作成する方法について説明します。 これは、Neotripアプリをプッシュ通知のターゲットとして定義するために必要です。
+title: Android サービスの設定と Campaign での Android モバイルアプリケーションの作成
+description: Android サービスを設定し、Campaign で Android モバイルアプリケーションを作成する方法について説明します。 これは、Neotrip アプリをプッシュ通知のターゲットとして定義するために必須です。
 feature: push
 topics: mobile channels
 kt: 6554
@@ -8,30 +8,30 @@ thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# サービスの設定と [!DNL Android] キャンペーンでの [!DNL Android] モバイルアプリケーションの作成
+# [!DNL Android]Campaign でサービスを設定し、[!DNL Android]モバイルアプリケーションを作成する
 
-サー [!DNL Android] ビスを設定し、キャンペーンで [!DNL Android] モバイルアプリケーションを作成する方法について説明します。 この手順は、プッシュ通知用のターゲットモバイルアプリケーションを定義できるように必要です。
+[!DNL Android]Campaign でサービスを設定し、[!DNL Android]モバイルアプリを作成する方法を説明します。 この手順は、プッシュ通知用のターゲットモバイルアプリケーションを定義できるようにするために必須です。
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&captions=jpn)
 
-**前の手順**
+**前のステップ**
 
-手順1: [アプリの購読スキーマを拡張して、プッシュ通知をパーソナライズする](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+ステップ1：[アプリ購読スキーマを拡張して、プッシュ通知をパーソナライズする](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
-**次の手順**
+**次のステップ**
 
-手順3: [プッシュ通知の設定と送信](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
+ステップ3：[プッシュ通知を設定して送信する](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
 ## その他のリソース
 
-* [Androidサービスの設定（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#configuring-android-service)
-* [Androidモバイルアプリケーションの作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-app)
+* [Android サービスの設定（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=ja#configuring-android-service)
+* [Android モバイルアプリケーションの作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=ja#creating-android-app)
