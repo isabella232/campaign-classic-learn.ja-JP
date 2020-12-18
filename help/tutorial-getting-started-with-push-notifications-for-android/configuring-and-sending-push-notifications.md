@@ -1,6 +1,6 @@
 ---
 title: 'プッシュ通知の設定と送信 '
-description: Androidアプリのユーザーにプッシュ通知を設定して送信する方法について説明します。
+description: プッシュ通知を設定して Android アプリのユーザーに送信する方法について説明します。
 feature: push
 topics: mobile channels
 kt: 6579
@@ -8,28 +8,28 @@ thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
 # プッシュ通知の設定と送信
 
-アプリケーションのユーザーに [!DNL push] 通知を設定して送信する方法を説明し [!DNL Android] ます。
+[!DNL Android] アプリケーションのユーザーに [!DNL push] 通知を設定して送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&captions=jpn)
 
-**前の手順**
+**前のステップ**
 
-手順2: [Androidサービスの設定とキャンペーンでのAndroidモバイルアプリケーションの作成](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+ステップ 2：[Android サービスを設定して Campaign で Android モバイルアプリケーションを作成する](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## その他のリソース
 
-* [はじめに — モバイルアプリチャネル（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/about-mobile-app-channel.html#about-mobile-app-channel)
-* [プッシュ通知の作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/creating-notifications.html#sending-messages)
-* [キャンペーンでのAndroid配信の作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-delivery)
-* [Android強制隔離の管理（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-quarantine-management.html#android-quarantine)
+* [モバイルアプリチャネルの概要（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/about-mobile-app-channel.html?lang=ja#about-mobile-app-channel)
+* [プッシュ通知の作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/creating-notifications.html?lang=ja#sending-messages)
+* [Campaign での Android 配信の作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=ja#creating-android-delivery)
+* [Android 強制隔離の管理（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-quarantine-management.html?lang=ja#android-quarantine)
