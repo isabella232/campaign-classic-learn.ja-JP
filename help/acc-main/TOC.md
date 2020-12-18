@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=ja&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: チュートリアル
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 90%
    + [Adobe Campaign Classic ユーザーインターフェイスの詳細](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/getting-started/managing-marketing-campaigns.md)
    + [マーケティングプラン、プログラム、キャンペーンの作成](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [キャンペーンと E メールの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+   + [キャンペーンと E メールの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=ja)
    + [ワークフローでのプロファイルのターゲティング](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + プロファイル管理 {#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
@@ -47,8 +47,8 @@ ht-degree: 90%
       + [AMP を使用したインタラクティブな E メールコンテンツの定義](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + プッシュチャネル {#push-channel}
       + [モバイルアプリチャネルのインストール](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
-      + [Experience Platform モバイル SDK を使用したプッシュチャネルの設定](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Android向けプッシュ通知の概要（チュートリアル）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+      + [Experience Platform Mobile SDK を使用したプッシュチャネルの設定](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+      + [Android 向けプッシュ通知の概要（チュートリアル）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=ja)
    + 配信テンプレートの使用{#using-delivery-templates}
       + [配信テンプレートの設定](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [配信テンプレートプロパティの設定](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
