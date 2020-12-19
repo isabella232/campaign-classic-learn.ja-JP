@@ -11,11 +11,11 @@ tutorials-title: チュートリアル
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: ht
-source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+workflow-type: tm+mt
+source-wordcount: '348'
+ht-degree: 98%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 100%
       + [タイポロジルールの使用](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [事前定義済みフィルターの使用](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + キャンペーンのオーケストレーション {#orchestration}
+   + [キャンペーンの実行](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [マルチチャンネルキャンペーンの作成](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + レポート{#reporting}
    + [記述的分析レポートの生成](/help/reporting/generating-a-descriptive-analysis-report.md)
@@ -71,6 +72,7 @@ ht-degree: 100%
    + [検証ワークフローの設定](/help/automating-with-workflows/validation-flow-configuration.md)
    + [エンリッチメントアクティビティの設定](/help/automating-with-workflows/enrichment-activity.md)
    + [データのセグメント化](/help/data-management/data-segmentation.md)
+   + [承認の管理](/help/automating-with-workflows/managing-approvals.md)
 + コンテンツのデザイン{#designing-content}
    + [ランディングページの設定](/help/designing-content/configure-landingpages.md)
 + 監視 {#monitoring}
