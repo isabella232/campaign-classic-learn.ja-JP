@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 23%
+ht-degree: 41%
 
 ---
 
@@ -22,4 +22,5 @@ Adobe Campaignは、ワークフローを使用して、ターゲットキャン
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-詳しくは、アクティビティ [に関するドキュメント](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)およびワークフロー [のターゲット設定に関するドキュメントを参照してください](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) 。
+[ワークフロー](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/introduction/about-workflows.translate.html)のドキュメントを参照
+および[ターゲットアクティビティ](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)についてを参照してください。
