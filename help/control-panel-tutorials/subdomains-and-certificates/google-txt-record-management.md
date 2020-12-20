@@ -8,9 +8,9 @@ thumbnail: 32369.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: afd21759c453aebf23216fcb25d9eeee92ebc515
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Google などの一部のサービスを利用する場合は、高いインボ�
 
 次のビデオでは、[!UICONTROL Campaign コントロールパネル]を使用して、[!DNL GMAIL] アドレス宛ての E メール送信に使用するすべてのサブドメインに [!UICONTROL Google TXT] サイト検証レコードを追加する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
 ## その他のリソース
 
