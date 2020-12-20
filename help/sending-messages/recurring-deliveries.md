@@ -7,9 +7,9 @@ kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 100%
 
@@ -38,13 +38,13 @@ ht-degree: 100%
 
 このビデオでは、繰り返し配信とスケジューラーアクティビティを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
 ## 連続配信の設定方法 {#how-to-set-up-a-continuous-delivery}
 
 このビデオでは、増分処理クエリを使用して連続配信を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 
 ## その他のリソース
 
