@@ -7,9 +7,9 @@ kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 このビデオでは、タイポロジルールを活用して Adobe Campaign Classic で疲労管理を実装する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
 ## その他のリソース
 
