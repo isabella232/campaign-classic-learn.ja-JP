@@ -8,9 +8,9 @@ thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 キャンペーンワークフローの使用の概要と、ワークフローを作成しフィルター条件を使用してワークフローでプロファイルをターゲティングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
 ## 次のチュートリアルの内容
 
