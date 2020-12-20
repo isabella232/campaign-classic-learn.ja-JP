@@ -20,7 +20,7 @@ ht-degree: 68%
 
 # 記述的分析レポートの生成
 
-ワークフローから [!UICONTROL 分析を説明するレポートを生成する方法] 。
+ワークフローから[!UICONTROL 分析の説明レポート]を生成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
