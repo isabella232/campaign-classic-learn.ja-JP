@@ -8,9 +8,9 @@ thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 986ac5feb78a4f2eaacd8a168035d390d0dfadf7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
 
@@ -38,4 +38,4 @@ SFTP サーバーに接続するには、以下が必要です。
 
 このビデオでは、Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
