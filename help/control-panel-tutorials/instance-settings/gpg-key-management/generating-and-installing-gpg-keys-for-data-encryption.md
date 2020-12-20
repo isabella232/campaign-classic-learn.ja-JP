@@ -8,9 +8,9 @@ thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e97127024a01a1b989297789498b55e477619326
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 コントロールパネルでは、Adobe Campaign インスタンスから送信されるデータを暗号化できます。アウトバウンドデータを暗号化するために公開鍵と秘密鍵のペアを指定の [!DNL Campaign] インスタンスに生成しインストールする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
 ## その他のリソース
 
