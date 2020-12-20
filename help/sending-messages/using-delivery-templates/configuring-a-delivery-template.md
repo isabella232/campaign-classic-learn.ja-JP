@@ -8,9 +8,9 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 次のビデオでは、アドホック配信用のテンプレートを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
 
 ## その他のリソース {#additional-resources}
 
