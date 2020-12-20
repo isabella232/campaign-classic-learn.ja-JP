@@ -9,9 +9,9 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 許可リストに IP アドレス範囲を追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
 
 ## その他のリソース
 
