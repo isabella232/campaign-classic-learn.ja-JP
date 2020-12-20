@@ -8,9 +8,9 @@ thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL アプリ購読]スキーマを拡張して、モバイルアプリから [!DNL Campaign] が受け取るパーソナライズ値を格納する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
 **次のステップ**
 
