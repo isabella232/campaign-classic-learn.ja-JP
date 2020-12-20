@@ -8,9 +8,9 @@ thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Adobe Campaign では、コンテンツやメッセージの外観をパーソ�
 
 動的コンテンツブロックを作成する方法、および動的コンテンツブロックを使用して E メール配信のコンテンツをパーソナライズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
 ## その他のリソース
 
