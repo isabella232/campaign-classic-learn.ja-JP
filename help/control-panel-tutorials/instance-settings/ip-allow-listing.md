@@ -10,9 +10,9 @@ thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%
 
@@ -38,6 +38,6 @@ Campaign コントロールパネルのサブドメイン管理にアクセス�
 
 Campaign コントロールパネルを使用して Campaign Classic インスタンスの許可リストに IP 範囲を追加する方法と許可リストから IP 範囲を削除する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
 IP の許可リストへの登録について詳しくは、[製品ドキュメント](https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html)を参照してください。
