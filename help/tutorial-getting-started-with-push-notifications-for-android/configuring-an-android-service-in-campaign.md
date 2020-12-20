@@ -8,9 +8,9 @@ thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!DNL Android]Campaign でサービスを設定し、[!DNL Android]モバイルアプリを作成する方法を説明します。 この手順は、プッシュ通知用のターゲットモバイルアプリケーションを定義できるようにするために必須です。
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 **前のステップ**
 
