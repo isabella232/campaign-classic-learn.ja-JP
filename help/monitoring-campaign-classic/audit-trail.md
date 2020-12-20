@@ -7,9 +7,9 @@ kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 次のビデオでは、監査記録ログにアクセスする場所と可能な設定について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
 詳しくは、[監査記録のドキュメント](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)を参照してください。
