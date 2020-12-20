@@ -9,9 +9,9 @@ thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -35,4 +35,4 @@ Campaign コントロールパネルでは、インスタンスごとに SFTP �
 
 SFTP サーバーのストレージ容量を監視する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
