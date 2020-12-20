@@ -8,9 +8,9 @@ thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 既存の E メールにシードと配達確認を追加して送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
 ## その他のリソース
 
