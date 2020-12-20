@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Classicでのマルチチャネルキャンペーンの作成(ACC)
-description: 電子メール、SMS、ダイレクトメール配信を使用して、マルチチャネルキャンペーンを作成する方法を説明します。
+description: 電子メール、SMS、ダイレクトメール配信を活用してマルチチャネルキャンペーンを作成する方法を説明します。
 feature: Workflows
 topics: null
 kt: 1563
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 5%
+ht-degree: 38%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 
 複数チャネルの配信は、1つのワークフローで設計および実行されます。
 
-電子メール、SMS、ダイレクトメール配信を使用して、マルチチャネルキャンペーンを作成する方法を説明します。
+電子メール、SMS、ダイレクトメール配信を活用してマルチチャネルキャンペーンを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
