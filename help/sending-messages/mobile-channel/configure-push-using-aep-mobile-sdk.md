@@ -7,9 +7,9 @@ kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 このビデオでは、Adobe Experience Platform モバイル SDK のインストールと設定の方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
 
 *Adobe Experience Platform モバイル SDK のインストールと設定（7 分 4 秒）*
 
