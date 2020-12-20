@@ -8,9 +8,9 @@ thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 次のビデオでは、配信テンプレートのプロパティを設定する方法と各プロパティの詳細について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
 
 ## その他のリソース {#additional-resources}
 
