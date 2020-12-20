@@ -8,9 +8,9 @@ thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 676737c1c273aca39a56210724199ab540317c78
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Adobe Campaign で E メールの送信やランディングページの公開�
 
 Campaign コントロールパネルで CNAME を使用してサブドメインを設定し、送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
 ## その他のリソース
 
