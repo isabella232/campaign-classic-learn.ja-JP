@@ -25,4 +25,4 @@ Adobe Campaign Classicでは、オンライン調査、プリファレンスセ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-詳しくは、ランディングページの [作成に関する詳細なドキュメントを参照してください](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)。
+詳しくは、[ランディングページの作成](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)に関する詳細なドキュメントを参照してください。
