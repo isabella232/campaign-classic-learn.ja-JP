@@ -8,9 +8,9 @@ thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!DNL Android] アプリケーションのユーザーに [!DNL push] 通知を設定して送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
 **前のステップ**
 
