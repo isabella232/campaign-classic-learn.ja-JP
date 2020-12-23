@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 4c2ad15599c4cadb1074f227d1f10be0a2315106
+source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 97%
+source-wordcount: '358'
+ht-degree: 96%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 97%
    + E メールチャネル{#email-channel}
       + [キャンペーンと E メールの作成](/help/getting-started/creating-a-campaign-and-an-email.md)
       + [E メールのシードと配達確認の管理](/help/sending-messages/managing-seed-and-proofs.md)
+      + [動的コンテンツの設定](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [動的コンテンツブロックを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [E メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
