@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 96%
+source-wordcount: '363'
+ht-degree: 95%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 96%
 + メッセージの送信{#sending-messages}
    + E メールチャネル{#email-channel}
       + [キャンペーンと E メールの作成](/help/getting-started/creating-a-campaign-and-an-email.md)
-      + [E メールのシードと配達確認の管理](/help/sending-messages/managing-seed-and-proofs.md)
+      + [E メールのシードと配達確認の管理](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [動的コンテンツの設定](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [動的コンテンツブロックを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -60,6 +60,7 @@ ht-degree: 96%
    + 疲労管理{#fatigue-management}
       + [タイポロジルールの使用](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [事前定義済みフィルターの使用](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + [購読サービスの設定と管理](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + キャンペーンのオーケストレーション {#orchestration}
    + [キャンペーンの実行](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [マルチチャンネルキャンペーンの作成](/help/orchestrating-campaigns/multi-channel-campaigns.md)
