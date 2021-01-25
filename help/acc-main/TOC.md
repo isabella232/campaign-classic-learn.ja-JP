@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 95%
+source-wordcount: '367'
+ht-degree: 88%
 
 ---
 
@@ -28,9 +28,10 @@ ht-degree: 95%
    + [Adobe Campaign クライアントのインストールとセットアップ](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Adobe Campaign Classic ユーザーインターフェイスの詳細](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/getting-started/managing-marketing-campaigns.md)
-   + [マーケティングプラン、プログラム、キャンペーンの作成](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [キャンペーンと E メールの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=ja)
-   + [ワークフローでのプロファイルのターゲティング](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [キャンペーンと電子メールの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=ja)
+   + [ワークフロー内のターゲットプロファイル](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [イベントトリガーキャンペーンの作成](/help/getting-started/create-event-triggered-campaigns.md)
 + プロファイル管理 {#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
    + [プロファイルのインポート](/help/data-management/importing-profiles.md)
