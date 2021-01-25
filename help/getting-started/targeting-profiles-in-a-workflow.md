@@ -1,5 +1,5 @@
 ---
-title: ワークフローでのプロファイルのターゲティング
+title: ワークフローでプロファイルをターゲットする方法
 description: キャンペーンワークフローの使用の概要と、ワークフローを作成しフィルター条件を使用してワークフローでプロファイルをターゲティングする方法について説明します。
 feature: Workflows
 topics: Targeting Activities
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '131'
+ht-degree: 90%
 
 ---
 
 
-# ワークフローでのプロファイルのターゲティング
+# ワークフロー内のプロファイルのターゲット設定
 
 キャンペーンワークフローの使用の概要と、ワークフローを作成しフィルター条件を使用してワークフローでプロファイルをターゲティングする方法について説明します。
 
