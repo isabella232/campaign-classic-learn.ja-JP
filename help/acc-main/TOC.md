@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '358'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 88%
    + [Adobe Campaign Classic ユーザーインターフェイスの詳細](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/getting-started/managing-marketing-campaigns.md)
    + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [キャンペーンと電子メールの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=ja)
+   + [キャンペーンと E メールの作成](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [ワークフロー内のターゲットプロファイル](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [イベントトリガーキャンペーンの作成](/help/getting-started/create-event-triggered-campaigns.md)
 + プロファイル管理 {#profile-management}
@@ -39,8 +39,8 @@ ht-degree: 88%
    + [ワークフローでの受信者リストの作成](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + メッセージの送信{#sending-messages}
    + E メールチャネル{#email-channel}
-      + [キャンペーンと E メールの作成](/help/getting-started/creating-a-campaign-and-an-email.md)
-      + [E メールのシードと配達確認の管理](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+      + [電子メール配信の作成と設計](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [E メールでのシードと配達確認の管理](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [動的コンテンツの設定](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [動的コンテンツブロックを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -52,12 +52,12 @@ ht-degree: 88%
       + [モバイルアプリチャネルのインストール](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform Mobile SDK を使用したプッシュチャネルの設定](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Android 向けプッシュ通知の概要（チュートリアル）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=ja)
+   + ダイレクトメール{#direct-mail}
+      + [ダイレクトメール配信の作成](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 配信テンプレートの使用{#using-delivery-templates}
       + [配信テンプレートの設定](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [配信テンプレートプロパティの設定](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [アドホック E メール配信テンプレートのデプロイ](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + ダイレクトメール{#direct-mail}
-      + [ダイレクトメール配信の作成](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 疲労管理{#fatigue-management}
       + [タイポロジルールの使用](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [事前定義済みフィルターの使用](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
