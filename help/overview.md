@@ -4,10 +4,10 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 100%
+source-wordcount: '243'
+ht-degree: 90%
 
 ---
 
@@ -18,18 +18,17 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
+* **[電子メール配信の作成と設計](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+
+   *電子メール配信を作成するプロセスを理解し、電子メールコンテンツを設計およびパーソナライズする方法を学びます。*
+
 * **[Android 向けプッシュ通知の概要](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *このチュートリアルでは、Adobe Campaign からAndroid アプリへプッシュ通知を送信する手順について説明します。*
 
-
 * **[CNAME を使用したサブドメインのデリゲート（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Campaign コントロールパネルで CNAME を使用してサブドメインを設定し、送信する方法について説明します。*
-
-* **[データベースの監視](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *インスタンスのデータベース使用状況を監視する方法を説明します。*
 
 ## スタッフのおすすめ
 
