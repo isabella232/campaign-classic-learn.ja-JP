@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 90%
+source-wordcount: '50'
+ht-degree: 72%
 
 ---
 
@@ -25,5 +25,4 @@ ht-degree: 90%
 
 ## その他のリソース
 
-* [ユースケース：E メール配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
-* [ワークフローの作成（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
+* [ユースケース：E メール配信の作成](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
