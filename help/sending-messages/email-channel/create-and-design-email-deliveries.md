@@ -1,15 +1,15 @@
 ---
 title: 電子メール配信の作成および設計方法
 description: 電子メール配信を作成するプロセスを理解し、電子メールコンテンツを設計およびパーソナライズする方法を学びます。
-feature: Dynamic Content, Personalization, Email
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
-thumbnail: 329936.jpg
+thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: e83e6225cd7312c95dabe44f994f797a7b165226
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 12%
