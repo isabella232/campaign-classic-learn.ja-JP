@@ -4,7 +4,7 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -20,7 +20,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 * **[配達確認の送信と検証](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-*配達確認を送信し、検証する方法を説明します。*
+   *配達確認を送信し、検証する方法を説明します。*
 
 * **[配信品質を考慮した電子メールの設計](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
