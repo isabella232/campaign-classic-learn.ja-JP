@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 88%
+source-wordcount: '362'
+ht-degree: 87%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 88%
       + [繰り返し E メールキャンペーンと継続的な E メールキャンペーンの設定](/help/sending-messages/recurring-deliveries.md)
       + [AMP を使用したインタラクティブな E メールコンテンツの定義](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [電子メール配信の問題のトラブルシューティング](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [配信品質を考慮した電子メールの設計](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + プッシュチャネル {#push-channel}
       + [モバイルアプリチャネルのインストール](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform Mobile SDK を使用したプッシュチャネルの設定](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
