@@ -4,10 +4,10 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
+source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 87%
+source-wordcount: '246'
+ht-degree: 81%
 
 ---
 
@@ -18,7 +18,11 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* ** [配信品質を考慮したデザイン電子メール](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[配達確認の送信と検証](/help/sending-messages/email-channel/send-and-validate-proofs)**
+
+*配達確認を送信し、検証する方法を説明します。*
+
+* **[配信品質を考慮した電子メールの設計](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *配信品質のベストプラクティスを適用する方法を学びます。*
 
@@ -29,10 +33,6 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 * **[Android 向けプッシュ通知の概要](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *このチュートリアルでは、Adobe Campaign からAndroid アプリへプッシュ通知を送信する手順について説明します。*
-
-* **[CNAME を使用したサブドメインのデリゲート（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *Campaign コントロールパネルで CNAME を使用してサブドメインを設定し、送信する方法について説明します。*
 
 ## スタッフのおすすめ
 
