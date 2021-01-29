@@ -4,10 +4,10 @@ description: Adobe Campaign は、クロスチャネルのカスタマーエク�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 81%
+source-wordcount: '239'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 81%
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザガイドには、Adobe Campaign Classic の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
 ## 新着情報
+
+* **[コントロール母集団の使用](/help/sending-messages/email-channel/use-control-groups.md)**
+
+   *コントロール母集団の概念を理解し、配信にコントロール母集団を使用する方法を学びます。*
 
 * **[配達確認の送信と検証](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
@@ -30,9 +34,6 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
    *電子メール配信を作成するプロセスを理解し、電子メールコンテンツを設計およびパーソナライズする方法を学びます。*
 
-* **[Android 向けプッシュ通知の概要](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-   *このチュートリアルでは、Adobe Campaign からAndroid アプリへプッシュ通知を送信する手順について説明します。*
 
 ## スタッフのおすすめ
 
