@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 86%
+source-wordcount: '369'
+ht-degree: 85%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 86%
       + [電子メール配信の作成と設計](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [E メールでのシードと配達確認の管理](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [配達確認の送信と検証](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [コントロール母集団の使用](/help/sending-messages/email-channel/use-control-groups.md)
       + [動的コンテンツの設定](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [動的コンテンツブロックを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
