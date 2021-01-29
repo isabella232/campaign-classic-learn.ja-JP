@@ -12,7 +12,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 30c86539ae3b543b29f4929c45da32b5751ea40b
+source-git-commit: 72815762856f9537e409b52c4c9752c5193a0efc
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 85%
@@ -52,7 +52,7 @@ ht-degree: 85%
       + [電子メール配信の問題のトラブルシューティング](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [配信品質を考慮した電子メールの設計](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + SMSチャネル{#sms-channel}
-      + [SMS 配信の作成](/help/sending-messages/mobile-channel/create-a-sms-delivery)
+      + [SMS 配信の作成](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + プッシュチャネル {#push-channel}
       + [モバイルアプリチャネルのインストール](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform Mobile SDK を使用したプッシュチャネルの設定](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
