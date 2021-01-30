@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 72815762856f9537e409b52c4c9752c5193a0efc
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 85%
+source-wordcount: '378'
+ht-degree: 84%
 
 ---
 
@@ -69,7 +69,8 @@ ht-degree: 85%
    + [購読サービスの設定と管理](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + キャンペーンのオーケストレーション {#orchestration}
    + [キャンペーンの実行](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [マルチチャンネルキャンペーンの作成](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [複数チャネルキャンペーンの作成](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [チャネル間のキャンペーンの作成](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + レポート{#reporting}
    + [組み込みレポートへのアクセス](/help/reporting/accessing-built-in-reports.md)
    + [記述的分析レポートの生成](/help/reporting/generating-a-descriptive-analysis-report.md)
