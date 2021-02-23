@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 537c202807c5a1c1b1918588d6f3396da9d48a51
+source-git-commit: be6a627d858eabdeb7e64d2dd9fa969adcb49a27
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 82%
+source-wordcount: '394'
+ht-degree: 80%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 82%
 # Adobe Campaign Classic のチュートリアル {#tutorials}
 
 + [概要](/help/overview.md)
++ [Adobe Campaignを使い始める準備 — 配信品質のベストプラクティス](/https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + はじめに {#getting-started}
    + [Adobe Campaign Classic の概要](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Adobe Campaign クライアントのインストールとセットアップ](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
