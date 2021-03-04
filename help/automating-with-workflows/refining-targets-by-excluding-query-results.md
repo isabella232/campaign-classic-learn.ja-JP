@@ -1,18 +1,20 @@
 ---
 title: クエリ結果の除外によるターゲットの絞り込み
 description: 標準的な除外をワークフローに適用して、ターゲットを絞り込む方法を説明します。 また、ワークフローの作成方法や定義済みフィルターの撮影に関する問題の解決方法についても学習します。
-feature: Workflows
+feature: ワークフロー，ターゲットアクティビティ,クエリエディター
 topics: Targeting Activities
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 41%
+source-wordcount: '147'
+ht-degree: 38%
 
 ---
 
