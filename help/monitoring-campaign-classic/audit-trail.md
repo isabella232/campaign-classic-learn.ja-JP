@@ -1,17 +1,19 @@
 ---
 title: 監査記録の使用方法
 description: '監査記録は、Adobe Campaign 内で発生するアクションとイベントの包括的なリストをリアルタイムで記録します。 '
-feature: Audit Trail
+feature: 監査記録
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
+role: 管理者
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 99%
 
 ---
 
