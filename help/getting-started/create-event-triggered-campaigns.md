@@ -1,17 +1,19 @@
 ---
 title: イベントトリガーキャンペーンの作成
 description: イベントトリガーキャンペーンを作成する方法とその用途を説明します。
-feature: Workflows, Targeting Activity
+feature: ワークフロー、ターゲットアクティビティ
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 開業医
+level: 中級
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 0%
+source-wordcount: '38'
+ht-degree: 2%
 
 ---
 
