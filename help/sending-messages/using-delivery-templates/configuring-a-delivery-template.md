@@ -1,19 +1,21 @@
 ---
 title: Adobe Campaign Classic での配信テンプレートの設定
-description: テンプレートには、タイポロジ、送信者と返信先のアドレス、およびミラーページや購読解除リンクなどの基本的なパーソナライゼーションブロックを体系的に含めることができます。また、コンテンツ、会社のロゴや署名、およびリソースの有効性、バッチ数量などの他の配信プロパティを含めることもできます。次のビデオでは、アドホック配信用のテンプレートを設定する方法について説明します。
-feature: Delivery Templates
+description: アドホック配信用のテンプレートを設定する方法について説明します。
+feature: 配信テンプレート
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: 管理者
+level: 初心者
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 92%
 
 ---
 
