@@ -1,18 +1,20 @@
 ---
 title: 購読サービスの設定と管理
 description: 購読とターゲットのサブスクリプションを設定および管理する方法について説明します。
-feature: Subscriptions
+feature: '購読     '
 topics: null
 kt: 5088
 thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 実業者、管理者、開発者
+level: 詳細
 translation-type: tm+mt
-source-git-commit: c8ff73f69db65c2a5d3582a7925c470684a014cd
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 4%
+source-wordcount: '52'
+ht-degree: 7%
 
 ---
 
