@@ -1,17 +1,19 @@
 ---
 title: 電子メール配信の問題のトラブルシューティング
 description: キャンペーンでの電子メール配信の問題のトラブルシューティング方法を説明します。
-feature: email
+feature: 電子メール、配信品質
 topics: deliverability
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: e2425ddf8c06c20691276674d41f63239f6905f2
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
