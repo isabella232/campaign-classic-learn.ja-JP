@@ -1,17 +1,19 @@
 ---
 title: 'Experience Platform モバイル SDK を使用したプッシュチャネルの設定 '
-description: 'このビデオでは、Experience Cloud モバイル SDK を使用して Campaign Classic のプッシュチャネルを設定する方法を説明します。 '
-feature: Mobile SDK
+description: 'Experience CloudモバイルSDKを使用してプッシュチャネルを設定する方法を説明します。 '
+feature: プッシュ
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
+role: 管理者
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 84%
 
 ---
 
