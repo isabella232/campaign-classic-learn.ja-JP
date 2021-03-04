@@ -1,18 +1,20 @@
 ---
 title: E メールでのシードと配達確認の管理方法
 description: 既存の E メールにシードと配達確認を追加して送信する方法を説明します。
-feature: Email
+feature: 電子メール
 topics: null
 kt: 2178
 thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 96%
 
 ---
 
