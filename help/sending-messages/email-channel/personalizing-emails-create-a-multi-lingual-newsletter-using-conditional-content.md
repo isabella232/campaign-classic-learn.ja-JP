@@ -1,18 +1,20 @@
 ---
 title: E メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成
 description: 多言語ニュースレターの例を使用して、配信に条件付きコンテンツを追加する方法を説明します。
-feature: Dynamic Content Blocks
+feature: 動的コンテンツブロック
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 95%
 
 ---
 
