@@ -1,17 +1,19 @@
 ---
 title: Adobe Campaign Classicでのデータの分類
-description: 'Adobe Campaignを使用すると、一般的な消費者属性や他のデータソースの詳細なクエリを通じて高度な分類を行え、再利用可能なリストの作成、データのリアルタイム変更に基づくリストの動的な更新、複数変数テストなどの複雑なアクティビティが可能です。 このチュートリアルでは、統合顧客プロファイル、プロファイルの作成および更新方法、およびこれらのプロファイルに基づく顧客セグメントの作成方法について説明します。 '
-feature: Data segmentation
+description: '統合顧客プロファイル、顧客の作成および更新方法、およびこれらのプロファイルに基づくプロファイルセグメントの作成方法を理解します。 '
+feature: プロファイル、データ管理アクティビティ
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 3%
+source-wordcount: '310'
+ht-degree: 4%
 
 ---
 
