@@ -1,7 +1,7 @@
 ---
 title: '許可リストへの IP 範囲の追加 '
 description: 許可リストに IP アドレス範囲を追加する方法を説明します。
-feature: Ip Range
+feature: Campaign コントロールパネル
 topics: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -9,11 +9,13 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
+role: 管理者
+level: 経験豊富な
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '96'
+ht-degree: 98%
 
 ---
 
