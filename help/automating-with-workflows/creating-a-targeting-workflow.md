@@ -1,17 +1,19 @@
 ---
 title: ターゲティングワークフローの作成
-description: Adobe Campaign Classicはワークフローを使用して、ターゲティングキャンペーンの実行、キャンペーンの構築、Adobe Campaignの技術プロセスの実行を行います。 このビデオでは、ワークフローをターゲットにすることに焦点を当てます。 ターゲティングワークフローにより、配信ターゲットをいくつか作成できます。
-feature: Workflows
+description: ターゲットワークフローを使用して複数の配信ターゲットを定義する方法について説明します。
+feature: ワークフロー，ターゲットアクティビティ,クエリエディター
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 41%
+source-wordcount: '94'
+ht-degree: 39%
 
 ---
 
