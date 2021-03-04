@@ -1,19 +1,20 @@
 ---
 title: マーケティングキャンペーンの管理方法
 description: クロスチャネルマーケティングキャンペーンを効果的に計画、実行、測定するのに役立つ、Adobe Campaign の主要概念を理解します。
-feature: null
+feature: キャンペーン
 topics: Getting started
 kt: 5077
 thumbnail: 35131.jpg
 doc-type: presentation
 activity: understand
 team: WWFRE
-role: user
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 80%
+source-wordcount: '46'
+ht-degree: 76%
 
 ---
 
