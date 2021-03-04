@@ -1,20 +1,22 @@
 ---
 title: Adobe Campaign Classicで検証ワークフローを構成する方法
 seo-title: Adobe Campaign Classicで検証ワークフローを構成する方法
-description: Adobe Campaignオファーでは、マーケターが配信コンテンツ、キャンペーンターゲット、データ抽出および予算の承認を確認および提供するためのオプションがいくつか用意されています。 このチュートリアルでは、様々な承認検証ワークフローを設定する方法について説明します。
+description: 様々な承認の検証ワークフローを設定する方法について説明します。
 seo-description: このビデオでは、マーケティング担当者が配信コンテンツ、キャンペーンターゲット、データ抽出、予算の承認を確認して提供するための、ACCAdobeキャンペーンオファーの配信テンプレートの設定および使用方法を説明します。 このチュートリアルでは、様々な承認検証ワークフローを設定する方法について説明します。
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Workflow
+feature: ワークフロー、承認
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
+role: 開業医
+level: 詳細
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
