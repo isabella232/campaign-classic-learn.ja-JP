@@ -1,26 +1,27 @@
 ---
 title: 組み込みレポートへのアクセス
-description: 理解する  campaign classicに組み込まれたレポートと分析を参照し、配信レポートの生成方法を学びます。
-feature: Reporting
+description: 組み込みのレポートと分析を理解し、配信レポートを生成する方法を学びます。
+feature: レポート
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: user
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 
 
 # 組み込みレポートへのアクセス
 
-理解する  campaign classicに組み込まれたレポートと分析を参照し、配信レポートの生成方法を学びます。
+理解する  Campaign Classicに組み込まれたレポートと分析を参照し、配信レポートの生成方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
 
