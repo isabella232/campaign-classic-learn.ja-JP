@@ -1,17 +1,19 @@
 ---
 title: 繰り返しおよび連続 E メールキャンペーンの設定方法
-description: このチュートリアルでは、繰り返し配信と連続配信の設定方法および Adobe Campaign Classic（ACC）におけるこれら 2 つのアプローチの違いについて説明します。
-feature: workflows
+description: 定期的なメッセージと継続的な配信を設定する方法、および2つの方法の違いを理解する方法について説明します。
+feature: ワークフロー
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 100%
+source-wordcount: '270'
+ht-degree: 91%
 
 ---
 
