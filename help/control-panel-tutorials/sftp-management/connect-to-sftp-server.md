@@ -1,19 +1,21 @@
 ---
 title: SFTP サーバーへの接続
-description: このビデオでは、Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。
-feature: SFTP Management
+description: Campaign コントロールパネルに保存したキーを使用して、クライアントSFTPアプリケーションを使用してSFTPサーバーに接続する方法を説明します。
+feature: Campaign コントロールパネル
 topics: Control Panel
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: 管理者
+level: 経験豊富な
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 84%
 
 ---
 
