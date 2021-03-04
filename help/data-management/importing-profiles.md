@@ -1,17 +1,19 @@
 ---
 title: プロファイルのインポート方法
-description: このビデオでは、Adobe Campaign Classicでプロファイルを読み込む方法を説明します
-feature: Profile Management
+description: Adobe Campaign Classicでプロファイルを読み込む方法を学びます
+feature: プロファイル管理
 topics: Data Import and Export
 kt: 2176
 doc-type: feature video
 activity: use
 team: TM
+role: 実業者、管理者、開発者
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 21%
+source-wordcount: '51'
+ht-degree: 23%
 
 ---
 
