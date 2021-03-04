@@ -1,17 +1,19 @@
 ---
 title: ワークフローヒートマップ
-description: Adobe Campaign ワークフローヒートマップは、現在実行中のすべてのワークフローを色分けしてグラフィカルに表現します。並列ワークフロー数の概要をすばやく把握できるので、Adobe Campaign プラットフォーム管理者は、インスタンスの負荷を監視し、それに従ってワークフローを計画できます。
-feature: Workflow Heatmap
+description: インスタンスの負荷を監視し、それに応じてワークフローを計画する方法を説明します。
+feature: ヒートマップ
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
+role: 管理者
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 91%
 
 ---
 
