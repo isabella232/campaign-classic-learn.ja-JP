@@ -1,18 +1,21 @@
 ---
 title: Campaign コントロールパネル使用の手引き
-description: この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
-feature: Control Panel
+description: Campaign コントロールパネルにアクセスする方法と、コントロールパネルで作業するための前提条件を説明します。
+feature: Campaign コントロールパネル
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+topic: null
+role: 管理者
+level: 経験豊富な
 translation-type: tm+mt
-source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 100%
+source-wordcount: '245'
+ht-degree: 91%
 
 ---
 
