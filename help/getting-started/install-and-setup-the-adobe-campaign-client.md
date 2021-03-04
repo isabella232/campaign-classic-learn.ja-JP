@@ -1,18 +1,20 @@
 ---
 title: Adobe Campaign クライアントのインストールとセットアップ
-description: このビデオでは、Adobe Campaign クライアントコンソールをダウンロードしインストールする方法、複数の環境への接続を作成し管理する方法、Adobe Campaign クライアントコンソールへのアクセスを確認する方法について説明します。
-feature: Client consol
+description: Adobe Campaignクライアントコンソールをダウンロードしてインストールする方法、複数の環境への接続を作成して管理する方法、およびAdobe Campaignクライアントコンソールへのアクセスを検証する方法について説明します。
+feature: クライアントコンソール
 topics: Getting started
 kt: 5003
 thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: 実業者、管理者、開発者
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 68%
 
 ---
 
