@@ -1,17 +1,19 @@
 ---
 title: Adobe Campaign Classic でタイポロジルールを使用して疲労管理を設定する方法
-description: 疲労管理は、受信者の過剰勧誘を避けるために、メッセージの頻度と数量を制御するもので、多くの場合、タイポロジルールを使用して適用されます。このビデオでは、タイポロジルールを活用して Adobe Campaign Classic で疲労管理を実装する方法を説明します。
-feature: Fatigue Management
+description: タイポロジルールを活用して疲労管理を実装する方法を学びます。
+feature: 疲労管理
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 93%
 
 ---
 
