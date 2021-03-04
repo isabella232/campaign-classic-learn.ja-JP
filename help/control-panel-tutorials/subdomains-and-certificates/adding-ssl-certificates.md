@@ -1,19 +1,21 @@
 ---
 title: SSL 証明書の追加
-description: Adobe Campaign コントロールパネルでは、SSL 証明書を追加してサブドメインを保護できます。
-feature: SSL Certificates
+description: サブドメインを保護するためにSSL証明書を追加する方法について説明します。
+feature: Campaign コントロールパネル
 topics: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: 管理者
+level: 経験豊富な
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
