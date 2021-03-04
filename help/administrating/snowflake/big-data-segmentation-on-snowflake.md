@@ -1,17 +1,19 @@
 ---
 title: Snowflake でのビッグデータ管理
-description: このチュートリアルでは、Adobe Campaign Classic で Snowflake コネクタを活用する方法を説明します
-feature: Snowflake
+description: Adobe Campaign ClassicのSnowflakeコネクタを活用する方法を学びます。
+feature: Federated Data Access
 topics: FDA
 kt: 4405
 doc-type: feature video
 activity: use
 team: PM
+role: 管理者、開発者
+level: 詳細
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 88%
 
 ---
 
