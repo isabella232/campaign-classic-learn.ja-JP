@@ -1,6 +1,6 @@
 ---
 title: プロファイルの作成と管理
-description: プロファイルデータにアクセスする方法、プロファイルの並べ替えとフィルターをおこなう方法、プロファイルを手動で作成および管理する方法について説明します。GDPR(General Data Protection Regulation)およびCCPA(California Consumer Privacy Act)のコンプライアンスを理解します。
+description: プロファイルデータにアクセスする方法、プロファイルの並べ替えとフィルターをおこなう方法、プロファイルを手動で作成および管理する方法について説明します。EU 一般データ保護規則（GDPR）とカリフォルニア州消費者プライバシー法（CCPA）の順守について理解します。
 landing-page-description: プロファイルの概念を理解します。 プロファイルデータにアクセスする方法、プロファイルの並べ替えとフィルターをおこなう方法、プロファイルを手動で作成および管理する方法について説明します。GDPR と CCPA について説明します。
 feature: プロファイル
 topics: null
@@ -9,13 +9,13 @@ thumbnail: 35611.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 開業医
+role: ビジネス従事者
 level: 初心者
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 76%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
