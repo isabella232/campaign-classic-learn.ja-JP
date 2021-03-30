@@ -12,10 +12,10 @@ topic: null
 role: 管理者
 level: 経験豊富な
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: df1ae08c0664812c266512283c7298b3f293e91d
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 91%
+source-wordcount: '297'
+ht-degree: 58%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->Adobe Campaign ドキュメントでは、「[!UICONTROL ホワイトリスト]」および「[!UICONTROL ブラックリスト]」という用語が「[!UICONTROL 許可リスト]」および「[!UICONTROL ブロックリスト]」に置き換えられました。これらの用語が製品の UI、オプション名、内部コード、チュートリアルビデオに残っている場合がありますが、今後の Campaign コントロールパネルリリースで置き換えられる予定です。
+>Campaign コントロールパネルは、すべての管理者ユーザーがアクセスできます。 管理者にユーザーへのアクセス権を付与する手順について詳しくは、（製品ドキュメント）[https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel]を参照してください。
+インスタンスはAWSでホストし、最新(Gold Standard)[https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html]ビルドでアップグレードする必要があります。 （この節の）[https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version]で、バージョンを確認する方法を説明します。 インスタンスがAWSでホストされているかどうかを確認するには、（このページ）[https://experienceleague.adobe.com/docs/control-panel/using/faq.html]に記載されている手順に従います。
 
 [!UICONTROL Campaign コントロールパネル]を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは[!UICONTROL サブドメイン]と[!UICONTROL 証明書]の管理などの管理タスクを実行したりできます。
 
