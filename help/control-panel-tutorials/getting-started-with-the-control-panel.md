@@ -2,17 +2,15 @@
 title: Campaign コントロールパネル使用の手引き
 description: Campaign コントロールパネルにアクセスする方法と、コントロールパネルで作業するための前提条件を説明します。
 feature: Campaign コントロールパネル
-topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-topic: null
 role: 管理者
 level: 経験豊富な
 translation-type: tm+mt
-source-git-commit: df1ae08c0664812c266512283c7298b3f293e91d
+source-git-commit: 3a9e7ed7c76931a59848c42f05deb6fda00a3fce
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 58%
@@ -24,8 +22,9 @@ ht-degree: 58%
 
 >[!NOTE]
 >
->Campaign コントロールパネルは、すべての管理者ユーザーがアクセスできます。 管理者にユーザーへのアクセス権を付与する手順について詳しくは、（製品ドキュメント）[https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel]を参照してください。
-インスタンスはAWSでホストし、最新(Gold Standard)[https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html]ビルドでアップグレードする必要があります。 （この節の）[https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version]で、バージョンを確認する方法を説明します。 インスタンスがAWSでホストされているかどうかを確認するには、（このページ）[https://experienceleague.adobe.com/docs/control-panel/using/faq.html]に記載されている手順に従います。
+>Campaign コントロールパネルは、すべての管理者ユーザーがアクセスできます。 ユーザーに管理者アクセスを許可する手順について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel)を参照してください。
+インスタンスはAWSでホストされ、最新の[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)ビルドでアップグレードする必要があります。 [このセクション](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)でバージョンを確認する方法を説明します。 インスタンスがAWSでホストされているかどうかを確認するには、[このページ](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)に記載されている手順に従ってください。
+
 
 [!UICONTROL Campaign コントロールパネル]を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは[!UICONTROL サブドメイン]と[!UICONTROL 証明書]の管理などの管理タスクを実行したりできます。
 
