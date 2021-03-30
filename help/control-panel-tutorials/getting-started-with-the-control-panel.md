@@ -10,10 +10,10 @@ team: TM
 role: 管理者
 level: 経験豊富な
 translation-type: tm+mt
-source-git-commit: d946afb1e9084bb30b7992239b27b579d361acdb
+source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 58%
+source-wordcount: '310'
+ht-degree: 55%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 58%
 >
 > Campaign コントロールパネルは、すべての管理者ユーザーがアクセスできます。 ユーザーに管理者アクセスを許可する手順について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel)を参照してください。
 >
-> インスタンスはAWSでホストされ、最新の[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)ビルドでアップグレードする必要があります。 [このセクション](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)でバージョンを確認する方法を説明します。 インスタンスがAWSでホストされているかどうかを確認するには、[このページ](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)に記載されている手順に従ってください。
+> インスタンスはAWSでホストされ、最新の[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)ビルドまたは最新の[GAビルド(21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes)でアップグレードする必要があります。 [このセクション](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)でバージョンを確認する方法を説明します。 インスタンスがAWSでホストされているかどうかを確認するには、[このページ](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)に記載されている手順に従ってください。
 
 [!UICONTROL Campaign コントロールパネル]を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは[!UICONTROL サブドメイン]と[!UICONTROL 証明書]の管理などの管理タスクを実行したりできます。
 
