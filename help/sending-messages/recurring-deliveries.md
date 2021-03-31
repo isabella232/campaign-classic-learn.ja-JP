@@ -1,19 +1,19 @@
 ---
 title: 繰り返しおよび連続 E メールキャンペーンの設定方法
-description: 定期的なメッセージと継続的な配信を設定する方法、および2つの方法の違いを理解する方法について説明します。
+description: 繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
 feature: ワークフロー
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: 開業医
+role: ビジネス従事者
 level: 初心者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '270'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
