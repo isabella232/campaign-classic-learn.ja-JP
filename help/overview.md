@@ -5,13 +5,13 @@ product: Campaign
 sub-product: Campaign Classic
 feature: 概要
 topic: null
-role: 実業者、管理者、開発者
+role: ビジネスプラクティショナー、管理者、開発者
 level: 初心者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* **[チャネル間のキャンペーンの作成](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[クロスチャネルキャンペーンの作成](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *チャネル間のキャンペーンを作成し、実行する方法を説明します。*
+   *クロスチャネルキャンペーンを作成し、実行する方法を説明します。*
 
 * **[コントロール母集団の使用](/help/sending-messages/email-channel/use-control-groups.md)**
 
@@ -34,13 +34,13 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
    *配達確認を送信し、検証する方法を説明します。*
 
-* **[配信品質を考慮した電子メールの設計](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[配信品質を考慮した E メールの設計](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *配信品質のベストプラクティスを適用する方法を学びます。*
 
-* **[電子メール配信の作成と設計](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[E メール配信の作成と設計](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *電子メール配信を作成するプロセスを理解し、電子メールコンテンツを設計およびパーソナライズする方法を学びます。*
+   *E メール配信を作成するプロセスを理解し、E メールコンテンツを設計およびパーソナライズする方法を学びます。*
 
 
 ## スタッフのおすすめ
