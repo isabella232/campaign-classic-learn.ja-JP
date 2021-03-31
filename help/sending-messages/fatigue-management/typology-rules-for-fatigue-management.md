@@ -7,13 +7,13 @@ kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-role: 開業医
+role: ビジネス従事者
 level: 初心者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '210'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 93%
 
 1 回の配信に複数のフィルタールールを容易に一括適用できるように、一連の&#x200B;*タイポロジルール*&#x200B;を 1 つの&#x200B;*タイポロジ*&#x200B;内にグループ化するのが普通です。
 
-これにより、適切なタイミングで常に適切な母集団をターゲットにしつつ、様々なキャンペーンやワークフローを作成する際に余分な手順を省くことができます。
+これにより、適切なタイミングで常に適切な母集団をターゲティングしつつ、様々なキャンペーンやワークフローを作成する際に余分な手順を省くことができます。
 
 このビデオでは、タイポロジルールを活用して Adobe Campaign Classic で疲労管理を実装する方法を説明します。
 
