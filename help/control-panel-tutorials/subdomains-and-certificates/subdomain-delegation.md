@@ -1,7 +1,7 @@
 ---
 title: 完全なサブドメインデリゲーション
 description: サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。
-feature: Campaign コントロールパネル
+feature: コントロールパネル
 topics: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
@@ -11,11 +11,11 @@ team: PM
 role: 管理者
 level: 経験豊富な
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
