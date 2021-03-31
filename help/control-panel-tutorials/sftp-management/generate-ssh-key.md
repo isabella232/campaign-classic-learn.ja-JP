@@ -1,7 +1,7 @@
 ---
 title: SSH キーの生成
 description: ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。
-feature: Campaign コントロールパネル
+feature: コントロールパネル
 topics: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
@@ -11,11 +11,11 @@ team: PM
 role: 管理者
 level: 経験豊富な
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
