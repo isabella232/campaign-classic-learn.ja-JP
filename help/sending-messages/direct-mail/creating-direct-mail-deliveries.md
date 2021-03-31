@@ -8,13 +8,13 @@ thumbnail: 21377.jpg
 doc-type: feature video
 activity: set-up
 team: WWFRE
-role: 開業医
+role: ビジネス従事者
 level: 初心者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
