@@ -8,13 +8,13 @@ thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 管理者、開発者、実業家
+role: 管理者、開発者、ビジネス従事者
 level: 初心者、中級者、経験者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
