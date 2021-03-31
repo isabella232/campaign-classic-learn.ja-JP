@@ -1,7 +1,7 @@
 ---
 title: URL アクセス権限の追加
 description: Adobe Campaign Classic インスタンスから外部 URL への接続を確立する方法について説明します。
-feature: Campaign コントロールパネル
+feature: コントロールパネル
 topics: Instance Settings
 kt: 3259
 thumbnail: 28149.jpg
@@ -11,11 +11,11 @@ team: TM
 role: 管理者
 level: 経験豊富な
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-url-permissions.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
