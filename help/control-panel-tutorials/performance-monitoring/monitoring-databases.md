@@ -1,7 +1,7 @@
 ---
 title: データベースの監視
 description: インスタンスのデータベース使用状況を監視する方法を説明します。
-feature: Campaign コントロールパネル
+feature: コントロールパネル
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -11,11 +11,11 @@ activity: use
 team: TM
 role: 管理者
 level: 経験豊富な
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
