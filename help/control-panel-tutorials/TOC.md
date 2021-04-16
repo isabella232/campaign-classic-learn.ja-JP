@@ -12,12 +12,12 @@ getting-started-title: ドキュメント
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 feature: コントロールパネル
-role: 管理者
-level: 経験豊富な
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: ht
-source-wordcount: '161'
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 100%
 + [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign コントロールパネル使用の手引き](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理 {#sftp-management}
-   + [サーバー容量の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [サーバー処理能力の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [許可リストへの IP 範囲の追加](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
