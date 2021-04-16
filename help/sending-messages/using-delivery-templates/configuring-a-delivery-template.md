@@ -8,17 +8,17 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 管理者
-level: 初心者
+role: Administrator
+level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
+exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 translation-type: ht
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 100%
 
 ---
-
 
 # 配信テンプレートの設定
 
