@@ -8,16 +8,16 @@ thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 管理者
-level: 初心者
+role: Administrator
+level: Beginner
+exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '72'
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
-
 
 # モバイルアプリチャネルのインストール
 
