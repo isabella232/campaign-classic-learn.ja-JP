@@ -1,23 +1,16 @@
 ---
-product: Adobe Campaign Classic
 user-guide-title: Adobe Campaign コントロールパネルのチュートリアル
 user-guide-description: コントロールパネルで Adobe Campaign インスタンスの主要なアセットを監視したり、管理タスクを実行したりする方法を説明します。
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=ja&tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: チュートリアル
-tutorials-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/overview.html
-getting-started-title: ドキュメント
-getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
-feature: コントロールパネル
+feature: Campaign コントロールパネル
 role: Administrator
 level: Experienced
-translation-type: ht
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: ht
-source-wordcount: '159'
+translation-type: tm+mt
+source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
