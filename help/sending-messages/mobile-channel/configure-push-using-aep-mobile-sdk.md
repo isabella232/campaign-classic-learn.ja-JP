@@ -7,16 +7,16 @@ kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
-role: 管理者
-level: 初心者
+role: Administrator
+level: Beginner
+exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
-
 
 # Experience Platform モバイル SDK を使用したプッシュチャネルの設定
 
