@@ -7,16 +7,16 @@ kt: 2148
 doc-type: feature video
 activity: use
 team: TM
-role: ビジネスプラクティショナー、開発者、管理者
-level: 詳細
+role: Business Practitioner, Developer, Administrator
+level: Advanced
+exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
 translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
-
 
 # 事前定義済みフィルターを使用した疲労管理の設定
 
