@@ -8,16 +8,16 @@ thumbnail: 21377.jpg
 doc-type: feature video
 activity: set-up
 team: WWFRE
-role: ビジネス従事者
-level: 初心者
+role: Business Practitioner
+level: Beginner
+exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '44'
+source-wordcount: '41'
 ht-degree: 100%
 
 ---
-
 
 # ダイレクトメール配信の作成
 
