@@ -8,16 +8,16 @@ thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: ビジネス従事者
-level: 初心者
+role: Business Practitioner
+level: Beginner
+exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
-
 
 # パーソナライゼーションフィールドを使用した E メールのパーソナライズ
 
