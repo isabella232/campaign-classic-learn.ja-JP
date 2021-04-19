@@ -1,7 +1,7 @@
 ---
 title: 動的コンテンツブロックを使用した E メールのパーソナライズ
 description: 動的コンテンツブロックを作成する方法、および動的コンテンツブロックを使用して E メール配信のコンテンツをパーソナライズする方法について説明します。
-feature: 動的コンテンツブロック
+feature: 動的コンテンツ
 topics: Email Channel
 kt: 1559
 thumbnail: 24924
@@ -11,11 +11,11 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 98%
 
 ---
 
