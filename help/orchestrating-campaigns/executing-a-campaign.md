@@ -1,15 +1,15 @@
 ---
 title: キャンペーンの実行
 description: キャンペーンの実行、電子メール配信の確認、配信のプロパティを行う方法について説明します。
-feature: キャンペーン、電子メール
+feature: Campaigns, Email
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

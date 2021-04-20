@@ -5,7 +5,7 @@ description: 配信ログ情報に基づいてエンリッチメントアクテ�
 seo-description: エンリッチメントアクティビティは、作業テーブルにデータを追加できるワークフローオブジェクトです。 エンリッチメントを使用すると、追加のデータを格納する列をそのテーブルに追加したり、作業テーブルから他の既存のデータへの新しいリンクを定義したりできます。   このビデオでは、配信ログ情報に基づいてエンリッチメントアクティビティを設定する方法を説明します。
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
 discoiquuid: ff2a1e2f-9df1-4ad0-bdff-5a257df5ff66
-feature: ワークフロー、エンリッチメントアクティビティ
+feature: Workflows, Enrichment Activity
 topics: Targeting Activities
 kt: KT-1561
 doc-type: feature video

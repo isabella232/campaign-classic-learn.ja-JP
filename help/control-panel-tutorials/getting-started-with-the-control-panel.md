@@ -1,7 +1,7 @@
 ---
 title: Campaign コントロールパネル使用の手引き
 description: コントロールパネルにアクセスする方法と、コントロールパネルを操作できるようになるための前提条件を説明します。
-feature: コントロールパネル
+feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video

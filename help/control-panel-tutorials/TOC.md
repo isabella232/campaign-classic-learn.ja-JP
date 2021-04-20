@@ -4,7 +4,7 @@ user-guide-description: コントロールパネルで Adobe Campaign インス�
 breadcrumb-title: Campaign コントロールパネルのチュートリアル
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: Campaign コントロールパネル
+feature: Control Panel
 role: Administrator
 level: Experienced
 translation-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic での配信テンプレートの設定
 description: アドホック配信用のテンプレートを設定する方法について説明します。
-feature: 配信テンプレート
+feature: Delivery Templates
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg

@@ -1,7 +1,7 @@
 ---
 title: ダイレクトメール配信の作成
 description: ダイレクトメール配信を作成、書式設定、実行する方法を説明します。
-feature: ダイレクトメール
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic ユーザーインターフェイスの詳細
 description: Adobe Campaign Classic のメインユーザーインターフェイスについて説明し、主な機能のナビゲート方法を示します。
-feature: 概要
+feature: Overview
 topics: Getting started
 kt: 5009
 thumbnail: 35130.jpg

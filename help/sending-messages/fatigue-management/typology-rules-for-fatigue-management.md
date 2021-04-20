@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic でタイポロジルールを使用して疲労管理を設定する方法
 description: タイポロジルールを活用して疲労管理を実装する方法を学びます。
-feature: 疲労管理
+feature: Fatigue Management
 topics: null
 kt: 1564
 doc-type: feature video

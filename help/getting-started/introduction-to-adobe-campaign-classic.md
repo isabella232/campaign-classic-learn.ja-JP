@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic の概要
 description: Adobe Campaign Classic がアドビのデジタルエクスペリエンスポートフォリオにどのように適合するか、およびその主な特長と機能の概要について説明します。
-feature: 概要
+feature: Overview
 topics: Getting started
 kt: 5457
 thumbnail: 35129.jpg

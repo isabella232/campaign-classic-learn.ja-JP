@@ -2,7 +2,7 @@
 title: Adobe Campaign Classic のチュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームとなり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理、クロスチャネル実行のための環境を提供します。このユーザガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 sub-product: Campaign Classic
-feature: 概要
+feature: Overview
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7

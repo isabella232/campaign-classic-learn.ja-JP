@@ -1,15 +1,15 @@
 ---
 title: 受信者リストの作成 ワークフローを使用して
 description: エクスプローラーから受信者リストを設定してオーディエンスを作成する方法を説明します。
-feature: オーディエンス
+feature: Audiences
 topics: Getting started
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

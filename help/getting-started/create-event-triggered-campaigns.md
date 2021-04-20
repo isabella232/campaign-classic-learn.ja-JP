@@ -1,7 +1,7 @@
 ---
 title: イベントトリガーキャンペーンの作成
 description: イベントトリガーキャンペーンを作成する方法とその用途を説明します。
-feature: ワークフロー、ターゲティングアクティビティ
+feature: Workflows, Targeting Activity
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video

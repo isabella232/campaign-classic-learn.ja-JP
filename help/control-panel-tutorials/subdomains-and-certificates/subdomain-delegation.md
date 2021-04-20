@@ -1,7 +1,7 @@
 ---
 title: 完全なサブドメインデリゲーション
 description: サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。
-feature: コントロールパネル
+feature: Control Panel
 topics: Control Panel
 kt: 4115
 thumbnail: 31390.jpg

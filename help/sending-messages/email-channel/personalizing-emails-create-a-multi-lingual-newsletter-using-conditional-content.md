@@ -1,7 +1,7 @@
 ---
 title: E メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成
 description: 多言語ニュースレターの例を使用して、配信に条件付きコンテンツを追加する方法を説明します。
-feature: 動的コンテンツ
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg

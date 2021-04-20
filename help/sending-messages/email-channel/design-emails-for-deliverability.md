@@ -1,7 +1,7 @@
 ---
 title: E メールをデザインする際に、配信品質を確認する方法を教えてください。
 description: 配信品質のベストプラクティスを適用する方法を学びます。
-feature: E メールの配信品質
+feature: Email, Deliverability
 topics: null
 kt: 5095
 thumbnail: 330943.jpg

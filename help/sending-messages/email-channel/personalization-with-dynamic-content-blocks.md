@@ -1,7 +1,7 @@
 ---
 title: 動的コンテンツブロックを使用した E メールのパーソナライズ
 description: 動的コンテンツブロックを作成する方法、および動的コンテンツブロックを使用して E メール配信のコンテンツをパーソナライズする方法について説明します。
-feature: 動的コンテンツ
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 thumbnail: 24924

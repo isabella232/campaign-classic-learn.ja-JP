@@ -1,7 +1,7 @@
 ---
 title: 配達確認の送信および検証方法
 description: 配達確認を送信し、検証する方法を説明します。
-feature: E メール、配達確認
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

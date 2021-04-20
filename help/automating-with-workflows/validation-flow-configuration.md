@@ -5,7 +5,7 @@ description: 様々な承認の検証ワークフローを設定する方法に�
 seo-description: このビデオでは、マーケティング担当者が配信コンテンツ、キャンペーンターゲット、データ抽出、予算の承認を確認して提供するための、ACCAdobeキャンペーンオファーの配信テンプレートの設定および使用方法を説明します。 このチュートリアルでは、様々な承認検証ワークフローを設定する方法について説明します。
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: ワークフロー、承認
+feature: Workflows, Approvals
 topics: Validation
 kt: KT-1566
 doc-type: feature video

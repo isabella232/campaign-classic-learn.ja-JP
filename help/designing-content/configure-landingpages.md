@@ -1,15 +1,15 @@
 ---
 title: Adobe Campaign Classicでランディングページを構成する方法
 description: 環境設定センターを作成して、Webアプリケーションエディターを操作する方法を説明します。
-feature: ランディングページ
+feature: Landing Pages
 topics: Configure
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: 開発者、管理者
-level: 初心者
+role: Developer, Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

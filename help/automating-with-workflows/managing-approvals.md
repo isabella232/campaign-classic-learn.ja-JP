@@ -1,15 +1,15 @@
 ---
 title: キャンペーンでの承認の管理
 description: 承認とキャンペーンを設定する方法、および配信とワークフローの承認を区別する方法について説明します。
-feature: ワークフロー、承認
+feature: Workflows, Approvals
 topics: null
 kt: 5093
 thumbnail: 329605.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

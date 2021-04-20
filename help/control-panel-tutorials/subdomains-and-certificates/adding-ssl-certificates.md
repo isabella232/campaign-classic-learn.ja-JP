@@ -1,7 +1,7 @@
 ---
 title: SSL 証明書の追加
 description: サブドメインを保護するために SSL 証明書を追加する方法を学びます。
-feature: コントロールパネル
+feature: Control Panel
 topics: Control Panel
 kt: 4219
 thumbnail: 31317.jpg

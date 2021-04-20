@@ -1,7 +1,7 @@
 ---
 title: 動的コンテンツの設定
 description: 様々なタイプの動的コンテンツを理解し、パーソナライゼーションブロックと条件付きステートメントを作成して配信に適用する方法を学びます。　
-feature: 動的コンテンツ、パーソナライゼーション、E メール
+feature: Dynamic Content, Personalization, Email
 topics: null
 kt: 6824
 thumbnail: 329936.jpg

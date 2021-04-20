@@ -1,7 +1,7 @@
 ---
 title: サーバー容量の監視
 description: インスタンスごとに SFTP ストレージを監視および管理し、IP アドレスを許可リストに追加する方法を学びます。
-feature: コントロールパネル
+feature: Control Panel
 topics: Control Panel
 audience: administrator
 kt: 3266

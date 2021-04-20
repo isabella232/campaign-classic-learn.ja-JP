@@ -1,7 +1,7 @@
 ---
 title: SFTP サーバーへの接続
 description: コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。
-feature: コントロールパネル
+feature: Control Panel
 topics: Control Panel
 kt: 2924
 thumbnail: 27263.jpg

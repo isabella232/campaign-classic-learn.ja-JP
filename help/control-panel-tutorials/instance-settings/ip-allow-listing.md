@@ -3,7 +3,7 @@ title: 許可リストへの IP アドレスの追加
 seo-title: 許可リストへの IP アドレスの追加
 description: Campaign コントロールパネルを使用して Campaign Classic インスタンスの許可リストに IP 範囲を追加する方法と許可リストから IP 範囲を削除する方法について説明します。
 seo-description: 次のビデオでは、IP アドレスの範囲を許可リストに登録して、インスタンスへの新しい接続をセットアップする方法を説明しています。
-feature: コントロールパネル
+feature: Control Panel
 topics: null
 kt: 3479
 thumbnail: 28726.jpg

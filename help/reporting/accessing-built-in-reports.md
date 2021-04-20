@@ -1,15 +1,15 @@
 ---
 title: 組み込みレポートへのアクセス
 description: 組み込みのレポートと分析を理解し、配信レポートを生成する方法を学びます。
-feature: レポート
+feature: Reporting
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

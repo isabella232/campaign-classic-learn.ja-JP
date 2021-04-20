@@ -1,7 +1,7 @@
 ---
 title: 購読サービスの設定と管理
 description: 購読とターゲットの購読者を設定および管理する方法について説明します。
-feature: '購読     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

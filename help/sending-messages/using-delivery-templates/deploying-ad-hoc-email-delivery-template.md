@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic アドホック E メール配信テンプレートのデプロイ
 description: 'アドホックな E メール配信テンプレートをデプロイする方法と、E メール配信と配信ワークフローの違いについて説明します。 '
-feature: 配信テンプレート
+feature: Delivery Templates
 topics: Templates
 kt: 1565
 thumbnail: 24065.jpg

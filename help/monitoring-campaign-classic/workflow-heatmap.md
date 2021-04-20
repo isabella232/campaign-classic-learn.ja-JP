@@ -1,7 +1,7 @@
 ---
 title: ワークフローヒートマップ
 description: インスタンスの負荷を監視し、それに応じてワークフローを計画する方法を説明します。
-feature: ヒートマップ
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video

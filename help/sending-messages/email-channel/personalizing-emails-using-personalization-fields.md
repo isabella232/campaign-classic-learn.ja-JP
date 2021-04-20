@@ -1,7 +1,7 @@
 ---
 title: パーソナライゼーションフィールドを使用した E メールのパーソナライズ
 description: パーソナライゼーションフィールドを件名行と E メール配信のコンテンツに追加する方法について説明します。
-feature: 動的コンテンツ
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

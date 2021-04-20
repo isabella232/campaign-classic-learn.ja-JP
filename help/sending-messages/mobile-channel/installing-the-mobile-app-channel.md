@@ -1,7 +1,7 @@
 ---
 title: モバイルアプリチャネルのインストール
 description: モバイルアプリチャネルがインスタンスにインストールされているかどうかを確認する方法と、モバイルアプリチャネルのインストール方法について説明します。
-feature: プッシュ
+feature: Push
 topics: mobile channels
 kt: 6438
 thumbnail: 326544.jpg

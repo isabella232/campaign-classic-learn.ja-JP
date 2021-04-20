@@ -1,7 +1,7 @@
 ---
 title: E メールでのシードと配達確認の管理方法
 description: 既存の E メールにシードと配達確認を追加して送信する方法を説明します。
-feature: E メール
+feature: Email
 topics: null
 kt: 2178
 thumbnail: 25606.jpg

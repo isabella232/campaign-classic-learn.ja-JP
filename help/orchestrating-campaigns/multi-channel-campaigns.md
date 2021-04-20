@@ -1,15 +1,15 @@
 ---
 title: 複数チャネルキャンペーンの作成
 description: 電子メール、SMS、ダイレクトメール配信を活用してマルチチャネルキャンペーンを作成する方法を説明します。
-feature: ワークフロー
+feature: Workflows
 topics: null
 kt: 1563
 thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt

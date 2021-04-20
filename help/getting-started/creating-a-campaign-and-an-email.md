@@ -1,7 +1,7 @@
 ---
 title: キャンペーンからの E メールの作成
 description: キャンペーンから直接 E メール配信を作成する方法を説明します。
-feature: E メール
+feature: Email
 topics: null
 kt: 2172
 thumbnail: 25604.jpg

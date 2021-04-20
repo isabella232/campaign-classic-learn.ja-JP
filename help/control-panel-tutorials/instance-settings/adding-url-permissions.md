@@ -1,7 +1,7 @@
 ---
 title: URL アクセス権限の追加
 description: Adobe Campaign Classic インスタンスから外部 URL への接続を確立する方法について説明します。
-feature: コントロールパネル
+feature: Control Panel
 topics: Instance Settings
 kt: 3259
 thumbnail: 28149.jpg

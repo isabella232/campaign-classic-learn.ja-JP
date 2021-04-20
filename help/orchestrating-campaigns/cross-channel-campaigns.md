@@ -1,7 +1,7 @@
 ---
 title: マルチチャネルキャンペーンの作成
 description: チャネル間のキャンペーンの作成方法を説明します。
-feature: ワークフロー
+feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video

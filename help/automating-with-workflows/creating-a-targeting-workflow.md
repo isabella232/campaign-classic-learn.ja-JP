@@ -1,14 +1,14 @@
 ---
 title: ターゲティングワークフローの作成
 description: ターゲットワークフローを使用して複数の配信ターゲットを定義する方法について説明します。
-feature: ワークフロー，ターゲットアクティビティ,クエリエディター
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

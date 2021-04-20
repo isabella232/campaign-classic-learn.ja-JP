@@ -1,7 +1,7 @@
 ---
 title: 繰り返しおよび連続 E メールキャンペーンの設定方法
 description: 繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
-feature: ワークフロー
+feature: Workflows
 topics: channel activities
 kt: 1560
 doc-type: feature video

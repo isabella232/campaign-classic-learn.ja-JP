@@ -1,7 +1,7 @@
 ---
 title: 'GPG キーを使用したデータの暗号化 '
 description: Campaign コントロールパネルでインストールされた GPG キーを使用してデータをエクスポートする方法を説明します。
-feature: コントロールパネル
+feature: Control Panel
 topics: GPG Key Management
 kt: 5793
 thumbnail: 36399.jpg

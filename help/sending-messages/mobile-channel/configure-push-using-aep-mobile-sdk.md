@@ -1,7 +1,7 @@
 ---
 title: 'Experience Platform モバイル SDK を使用したプッシュチャネルの設定 '
 description: 'Experience Cloud Mobile SDK を使用してプッシュチャネルを設定する方法を説明します。 '
-feature: プッシュ
+feature: Push
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video

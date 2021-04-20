@@ -1,15 +1,15 @@
 ---
 title: 'プッシュ通知の設定と送信 '
 description: プッシュ通知を設定して Android アプリのユーザーに送信する方法について説明します。
-feature: プッシュ
+feature: Push
 topics: mobile channels
 kt: 6579
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 管理者、開発者、ビジネス従事者
-level: 初心者、中級者、経験者
+role: Administrator, Developer, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: ht

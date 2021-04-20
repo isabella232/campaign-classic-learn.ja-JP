@@ -1,7 +1,7 @@
 ---
 title: E メール配信の作成および設計方法
 description: E メール配信を作成するプロセスを理解し、E メールコンテンツを設計およびパーソナライズする方法を学びます。
-feature: E メール、E メールデザイン、パーソナライゼーション
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

@@ -1,15 +1,15 @@
 ---
 title: クエリ結果の組み合わせによるターゲットの絞り込み
 description: 交差点または和集合アクティビティを使用してクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。
-feature: ワークフロー，ターゲットアクティビティ,クエリエディター
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: プロファイルのインポート方法
 description: Adobe Campaign Classicでプロファイルを読み込む方法を学びます
-feature: プロファイル
+feature: Profiles
 topics: Data Import and Export
 kt: 2176
 doc-type: feature video

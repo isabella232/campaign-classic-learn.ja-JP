@@ -1,7 +1,7 @@
 ---
 title: AMP を使用したインタラクティブな E メールコンテンツの定義
 description: AMP 形式で E メールコンテンツを設定する方法を説明します。
-feature: E メール、E メールデザイン
+feature: Email, Email Design
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg

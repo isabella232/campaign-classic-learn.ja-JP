@@ -1,14 +1,14 @@
 ---
 title: Adobe Campaign Classicでのデータの分類
 description: '統合顧客プロファイル、顧客の作成および更新方法、およびこれらのプロファイルに基づくプロファイルセグメントの作成方法を理解します。 '
-feature: プロファイル、データ管理アクティビティ
+feature: Profiles, Data Management Activity
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

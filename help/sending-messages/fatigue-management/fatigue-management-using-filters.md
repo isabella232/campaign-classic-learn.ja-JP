@@ -1,7 +1,7 @@
 ---
 title: 頻度ルールによるマーケティング疲労の管理
 description: フィルターを使用して Adobe Campaign Classic に疲労管理を実装する方法を説明します。
-feature: 疲労管理
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

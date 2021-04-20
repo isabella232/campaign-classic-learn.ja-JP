@@ -1,7 +1,7 @@
 ---
 title: E メール配信の問題のトラブルシューティング
 description: Campaign での E メール配信問題のトラブルシューティング方法を説明します。
-feature: E メールの配信品質
+feature: Email, Deliverability
 topics: deliverability
 kt: 5091
 thumbnail: 329920.jpg

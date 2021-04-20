@@ -1,7 +1,7 @@
 ---
 title: Campaign コントロールパネルのトラブルシューティング
 description: Campaign コントロールパネルでは、SFTP ストレージをインスタンス別に監視および管理したり、IP アドレスを許可リストに登録したりできます。
-feature: コントロールパネル
+feature: Control Panel
 topics: Control Panel
 kt: 2938
 doc-type: article

@@ -1,7 +1,7 @@
 ---
 title: コントロール母集団の使用方法
 description: コントロール母集団の概念を理解し、配信にコントロール母集団を使用する方法を学びます。
-feature: コントロール母集団
+feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
 doc-type: feature video

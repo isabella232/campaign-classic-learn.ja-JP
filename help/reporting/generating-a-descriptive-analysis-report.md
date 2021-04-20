@@ -1,15 +1,15 @@
 ---
 title: 記述的分析レポートの生成
 description: Adobe Campaign Classic のワークフローから説明的な分析レポートレポートを生成する方法を説明します。
-feature: レポート
+feature: Reporting
 topics: null
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
