@@ -1,22 +1,21 @@
 ---
 title: ワークフローの作成
 description: このビデオでは、ワークフローの作成方法を説明します。
-feature: Workflows
-topics: null
+feature: ワークフロー
 kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 81%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # ワークフローの作成
 
