@@ -1,8 +1,7 @@
 ---
 title: 'Experience Platform モバイル SDK を使用したプッシュチャネルの設定 '
 description: 'Experience Cloud Mobile SDK を使用してプッシュチャネルを設定する方法を説明します。 '
-feature: Push
-topics: Mobile Channels
+feature: プッシュ
 kt: 2683
 doc-type: feature video
 activity: setup
@@ -10,11 +9,11 @@ team: PM
 role: Administrator
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
