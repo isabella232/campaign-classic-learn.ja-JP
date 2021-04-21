@@ -1,17 +1,16 @@
 ---
 title: Campaign コントロールパネルのトラブルシューティング
 description: Campaign コントロールパネルでは、SFTP ストレージをインスタンス別に監視および管理したり、IP アドレスを許可リストに登録したりできます。
-feature: Control Panel
-topics: Control Panel
+feature: コントロールパネル
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
-workflow-type: ht
-source-wordcount: '353'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -64,7 +63,7 @@ SFTP サーバーに接続するには、以下が必要です。
 * Adobe Campaign に登録する必要がある秘密鍵と公開鍵のペア
 * SFTP サーバーに直接接続する場合は、SFTP クライアントソフトウェアも必要
 
-### 参考になるドキュメント {#helpful-docs}
+### 参考になるドキュメント  {#helpful-docs}
 
 * [SFTP サーバーへのログイン](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
