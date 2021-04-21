@@ -1,8 +1,7 @@
 ---
 title: CNAME を使用したサブドメインのデリゲート
 description: サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。
-feature: Control Panel
-topics: Control Panel
+feature: コントロールパネル
 kt: 6015
 thumbnail: 326612.jpg
 doc-type: feature video
@@ -11,11 +10,11 @@ team: PM
 role: Administrator
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
