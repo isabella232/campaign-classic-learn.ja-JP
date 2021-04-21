@@ -1,8 +1,7 @@
 ---
 title: データの復号化
 description: 以下のビデオでは、公開鍵を作成して、データの復号化のために Campaign インスタンスにインポートしインストールする方法を説明します。
-feature: Control Panel
-topics: null
+feature: コントロールパネル
 kt: 5543
 thumbnail: 36482.jpg
 doc-type: feature video
@@ -12,9 +11,9 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 exl-id: d9f4be99-6e41-4c75-b3dc-bbdae1a63677
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
