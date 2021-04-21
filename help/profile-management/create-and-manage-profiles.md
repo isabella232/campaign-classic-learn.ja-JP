@@ -2,8 +2,7 @@
 title: プロファイルの作成と管理
 description: プロファイルデータにアクセスする方法、プロファイルの並べ替えとフィルターをおこなう方法、プロファイルを手動で作成および管理する方法について説明します。EU 一般データ保護規則（GDPR）とカリフォルニア州消費者プライバシー法（CCPA）の順守について理解します。
 landing-page-description: プロファイルの概念を理解します。 プロファイルデータにアクセスする方法、プロファイルの並べ替えとフィルターをおこなう方法、プロファイルを手動で作成および管理する方法について説明します。GDPR と CCPA について説明します。
-feature: Profiles
-topics: null
+feature: プロファイル
 kt: 5081
 thumbnail: 35611.jpg
 doc-type: feature video
@@ -13,10 +12,10 @@ role: Business Practitioner
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 translation-type: tm+mt
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
