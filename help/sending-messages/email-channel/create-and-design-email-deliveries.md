@@ -1,8 +1,7 @@
 ---
 title: E メール配信の作成および設計方法
 description: E メール配信を作成するプロセスを理解し、E メールコンテンツを設計およびパーソナライズする方法を学びます。
-feature: Email, Email Design, Personalization
-topics: null
+feature: E メール、E メールデザイン、パーソナライゼーション
 kt: 6824
 thumbnail: 330941.jpg
 doc-type: feature video
@@ -11,11 +10,11 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
