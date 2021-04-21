@@ -1,8 +1,7 @@
 ---
 title: 購読サービスの設定と管理
 description: 購読とターゲットの購読者を設定および管理する方法について説明します。
-feature: Subscriptions     
-topics: null
+feature: '購読     '
 kt: 5088
 thumbnail: 329941.jpg
 doc-type: feature video
@@ -12,10 +11,10 @@ role: Business Practitioner, Administrator, Developer
 level: Experienced
 exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
