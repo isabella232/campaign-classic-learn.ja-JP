@@ -1,8 +1,7 @@
 ---
 title: 動的コンテンツの設定
 description: 様々なタイプの動的コンテンツを理解し、パーソナライゼーションブロックと条件付きステートメントを作成して配信に適用する方法を学びます。　
-feature: Dynamic Content, Personalization, Email
-topics: null
+feature: 動的コンテンツ、パーソナライゼーション、E メール
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
@@ -11,11 +10,11 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
