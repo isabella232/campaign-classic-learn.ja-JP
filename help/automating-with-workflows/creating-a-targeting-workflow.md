@@ -9,11 +9,10 @@ team: DOC
 role: Business Practitioner
 level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 40%
+source-wordcount: '87'
+ht-degree: 19%
 
 ---
 
@@ -23,5 +22,5 @@ Adobe Campaignは、ワークフローを使用して、ターゲットキャン
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-[ワークフロー](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/introduction/about-workflows.translate.html)のドキュメントを参照
-および[ターゲットアクティビティ](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)についてを参照してください。
+[ワークフロー](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)のドキュメントを参照
+および[ターゲットアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)についてを参照してください。
