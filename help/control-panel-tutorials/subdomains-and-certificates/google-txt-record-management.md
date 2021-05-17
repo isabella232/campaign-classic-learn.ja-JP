@@ -11,11 +11,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
 exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 91%
 
 ---
 
@@ -29,4 +28,4 @@ Google などの一部のサービスを利用する場合は、高いインボ�
 
 ## その他のリソース
 
-* [ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
+* [TXTレコードの管理（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
