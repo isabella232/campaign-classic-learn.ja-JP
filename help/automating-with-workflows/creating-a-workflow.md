@@ -9,11 +9,10 @@ team: DOC
 role: Business Practitioner
 level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 77%
 
 ---
 
@@ -32,3 +31,7 @@ Adobe Campaign では、ワークフローを使用して次のことをおこ�
 このビデオでは、Adobe Campaign Classicでワークフローを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12)
+
+## その他のリソース
+
+* [ワークフローの概要（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
