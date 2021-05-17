@@ -10,11 +10,10 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '124'
+ht-degree: 36%
 
 ---
 
@@ -28,8 +27,8 @@ Adobe Campaign Classicのリストの概念を理解し、ワークフローの�
 
 ドキュメント：
 
-* [ワークフローについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/introduction/about-workflows.translate.html)
-* [リストの更新](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
+* [ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [リストの更新](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
 
 チュートリアル：
 
