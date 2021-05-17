@@ -13,10 +13,9 @@ team: TM
 role: Business Practitioner
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -27,7 +26,7 @@ Adobe Campaignオファーでは、マーケターが配信コンテンツ、キ
 
 このチュートリアルでは、様々な承認検証ワークフローを設定する方法について説明します。
 
-## 前提条件{#prerequisite}
+## 前提条件 {#prerequisite}
 
 承認手順を有効にする前に、マーケティングチームは個々のレビュー担当者を定義する必要があります。
 
@@ -52,4 +51,4 @@ Adobe Campaignオファーでは、マーケターが配信コンテンツ、キ
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
-詳しくは、[承認に関するドキュメント](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)を参照してください
+詳しくは、[承認に関するドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)を参照してください
