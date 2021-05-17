@@ -11,11 +11,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
 exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '220'
+ht-degree: 94%
 
 ---
 
@@ -63,4 +62,4 @@ SSL 証明書を取得したら、保護しようとしているサブドメイ�
 ## その他のリソース
 
 * [完全なサブドメインデリゲーション（ビデオ）](./subdomain-delegation.md)
-* [サブドメインおよび証明書（ドキュメント）](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [サブドメインのSSL証明書の更新（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
