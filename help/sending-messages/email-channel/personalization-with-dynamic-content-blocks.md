@@ -10,10 +10,10 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
+source-git-commit: 3687dd91016602f595c606d21a4905ff28b91b1a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 51%
+source-wordcount: '146'
+ht-degree: 45%
 
 ---
 
@@ -34,9 +34,9 @@ Adobe Campaign では、コンテンツやメッセージの外観をパーソ�
 ドキュメント：
 
 * [パーソナライゼーションについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* （[パーソナライゼーションブロック](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)）
+* [パーソナライゼーションブロック](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 ビデオチュートリアル：
 
 * [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [E メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [電子メールの個人化 — 条件付きコンテンツを使用して多言語ニュースレターを作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
