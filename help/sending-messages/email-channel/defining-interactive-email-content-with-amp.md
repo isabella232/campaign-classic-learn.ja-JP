@@ -10,23 +10,18 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 03676d22cd0f94ff6ca34692c18a871d82f2c833
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 63%
 
 ---
 
 # AMP を使用したインタラクティブな E メールコンテンツの定義
 
-AMP for Email は、開発者が動的でインタラクティブな E メールを作成できる新しいオープンソースフォーマットです。E メール内で直接利用できる最新のアプリ機能により、受信者はメッセージ自体のコンテンツを動的に操作できます。
+電子メール用のAMPは、開発者が動的でインタラクティブな電子メールを作成できる新しいオープンソース形式です。 E メール内で直接利用できる最新のアプリ機能により、受信者はメッセージ自体のコンテンツを動的に操作できます。
 
-現在、Gmail と Outlook の 2 つの E メールプロバイダーでサポートされています。
-
->[!NOTE]
->
->AMP E メールを配信できるようにするには、送信元の E メールアドレスを [Google](https://developers.google.com/gmail/ampemail/register) および [Microsoft](https://docs.microsoft.com/ja-JP/outlook/amphtml/register-outlook)に登録する必要があります。
+現在、AMP形式をサポートしているのは、Gmail、Outlook、およびMail.ruのみです。
 
 以下のビデオでは、Adobe Campaign Classic で AMP をアクティブにし使用する方法を示します。
 
@@ -34,5 +29,5 @@ AMP for Email は、開発者が動的でインタラクティブな E メール
 
 ## その他のリソース
 
-* [ドキュメント](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
 * [AMP エディター](https://playground.amp.dev/)
+* [ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=en#about-amp-for-email)
