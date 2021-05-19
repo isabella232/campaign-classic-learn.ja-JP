@@ -10,11 +10,10 @@ team: DOC
 role: Developer, Administrator
 level: Beginner
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 528fe71f02c584d5b8a48b40b3266fecc837f310
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 2%
 
 ---
 
@@ -26,4 +25,4 @@ Adobe Campaign Classicでは、オンライン調査、プリファレンスセ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-詳しくは、[ランディングページの作成](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)に関する詳細なドキュメントを参照してください。
+詳しくは、[ランディングページの作成](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)に関する詳細なドキュメントを参照してください。
