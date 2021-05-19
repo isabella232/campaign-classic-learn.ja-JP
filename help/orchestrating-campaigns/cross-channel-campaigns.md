@@ -1,17 +1,16 @@
 ---
-title: マルチチャネルキャンペーンの作成
+title: クロスチャネルキャンペーンの作成
 description: チャネル間のキャンペーンの作成方法を説明します。
-feature: Workflows
+feature: ワークフロー
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: f67d802678bbfccd6419390bbc175f62c27121e3
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -19,8 +18,6 @@ ht-degree: 100%
 # マルチチャネルキャンペーンの作成
 
 クロスチャネルキャンペーンでは、単一のマーケティング通信が複数のチャネルを利用して、好みの受信者チャネルに基づいてより広いターゲットオーディエンスに到達します。
-
-マルチチャネルの配信は、単一のワークフローで設計および実行されます。
 
 電子メール、SMS、ダイレクトメール配信を活用してマルチチャネルキャンペーンを作成する方法を説明します。
 
