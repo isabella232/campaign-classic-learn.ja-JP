@@ -9,11 +9,10 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-translation-type: tm+mt
 source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '366'
+ht-degree: 100%
 
 ---
 
