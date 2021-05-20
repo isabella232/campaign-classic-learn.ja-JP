@@ -11,11 +11,10 @@ role: Administrator
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
-translation-type: tm+mt
 source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '178'
+ht-degree: 100%
 
 ---
 
