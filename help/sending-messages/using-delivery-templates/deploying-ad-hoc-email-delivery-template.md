@@ -10,11 +10,10 @@ team: TM
 role: Administrator
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-translation-type: tm+mt
 source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '144'
+ht-degree: 100%
 
 ---
 
