@@ -9,11 +9,10 @@ team: TM
 role: Business Practitioner
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-translation-type: tm+mt
 source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '267'
+ht-degree: 100%
 
 ---
 
