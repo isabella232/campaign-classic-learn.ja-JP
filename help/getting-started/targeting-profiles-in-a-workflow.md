@@ -10,10 +10,10 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
-source-wordcount: '132'
-ht-degree: 100%
+source-git-commit: 86b546688c3b96505bfca758eca5af9ed65d22e7
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 78%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 100%
 
 ドキュメント：
 
-* [ワークフローについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/introduction/about-workflows.translate.html)
-* [ワークフローの作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.translate.html)
-* [ターゲティングアクティビティについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
+* [ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en)
+* [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+* [ターゲティングアクティビティについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
 
 チュートリアル：
 
