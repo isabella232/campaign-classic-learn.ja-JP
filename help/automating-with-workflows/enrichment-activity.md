@@ -13,18 +13,18 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 84d5dd568b0d8bae2ad97676f1eb1a312c0ff01e
+source-git-commit: 57ca0ea806c14c148d67e4f9b609764dfaec80db
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---
 
 # エンリッチメントアクティビティの設定方法
 
-エンリッチメントアクティビティは、ユーザーが作業用テーブルにデータを追加できるワークフローオブジェクトです。 エンリッチメントを使用すると、追加のデータを保持する列をそのテーブルに追加したり、作業用テーブルから他の既存のデータへの新しいリンクを定義したりできます。
+エンリッチメントアクティビティは、作業用テーブルにデータを追加するワークフローオブジェクトです。 エンリッチメントアクティビティを使用すると、追加データを格納するテーブルに列を追加したり、他の既存データへの新しいリンクを定義したりできます。
 
-このビデオでは、配信ログ情報に基づいてエンリッチメントアクティビティを設定する方法を説明します。
+配信ログ情報に基づいてエンリッチメントアクティビティを設定する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
