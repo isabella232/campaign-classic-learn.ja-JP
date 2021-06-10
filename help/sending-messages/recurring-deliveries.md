@@ -9,10 +9,10 @@ team: TM
 role: Business Practitioner
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
-source-wordcount: '267'
-ht-degree: 100%
+source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 95%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 100%
 
    連続配信は、単一の配信と配信ログ（broadLog）を作成し、その配信を参照するトラッキングログは、実行のたびに 1 つ追加されます。
 
-![連続配信](/help/assets/delivery_continuous.jpg)
+   ![連続配信](/help/assets/delivery_continuous.jpg)
 
 * **繰り返し配信**&#x200B;では、実行のたびに新しい配信インスタンスを作成します。例えば、ワークフローが週に 1 回実行されるようにスケジュールされている場合、1 年後には 52 件の配信が存在することになります。また、broadLog とトラッキングログは、各配信インスタンスで区切られます。
 
-![繰り返し配信](/help/assets/delivery_recurring.jpg)
+   ![繰り返し配信](/help/assets/delivery_recurring.jpg)
 
 ## 繰り返し配信の設定方法 {#how-to-set-up-a-recurring-delivery}
 
@@ -48,4 +48,4 @@ ht-degree: 100%
 
 ## その他のリソース
 
-[ターゲティングワークフローでの繰り返し配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/sending-messages/email-channel/recurring-deliveries.translate.html)
+[ターゲティングワークフローでの繰り返し配信の作成](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=en#creating-a-recurring-delivery-in-a-targeting-workflow)
