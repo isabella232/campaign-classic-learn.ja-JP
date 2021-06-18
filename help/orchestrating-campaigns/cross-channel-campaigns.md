@@ -9,20 +9,20 @@ activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
 source-git-commit: 8eee5de1b133fea146a2b05b1489b786e3117f9f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 # クロスチャネルキャンペーンの作成
 
-チャネル間のキャンペーンでは、単一のマーケティングコミュニケーションは複数のチャネルを使用して、好みの受信者チャネルに基づいてより広いターゲットオーディエンスに到達します。
+クロスチャネルキャンペーンでは、1 つのマーケティングコミュニケーションを複数のチャネルで行うことができ、受信者が好むチャネルを介してより広いターゲットのオーディエンスにアプローチできます。
 
-電子メール、SMS、およびダイレクトメールの配信を使用して、チャネル間のキャンペーンを作成する方法を説明します。
+メール、SMS、ダイレクトメールの配信を使用したクロスチャネルキャンペーンの作成方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
 ## その他のリソース
 
-* [マルチチャネルおよびクロスチャネルキャンペーンの概要](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+* [マルチチャネルキャンペーンとクロスチャネルキャンペーンの概要](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
