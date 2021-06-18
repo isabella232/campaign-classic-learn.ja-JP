@@ -12,9 +12,9 @@ role: Administrator
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 87%
 
 ## その他のリソース
 
-* [IP範囲許可リスト（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [IP 範囲許可リストへの登録 （ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=ja)
