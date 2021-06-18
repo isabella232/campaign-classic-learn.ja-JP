@@ -8,9 +8,9 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ GPG（GnuPG）は非対称の個々のキーペアを使用してメッセージ
 
 ## その他のリソース
 
-* [GPG キー管理（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG キー管理（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ja)
