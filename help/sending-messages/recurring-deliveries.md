@@ -1,5 +1,5 @@
 ---
-title: 繰り返しおよび連続 E メールキャンペーンの設定方法
+title: 繰り返しメールキャンペーンと連続メールキャンペーンの設定方法
 description: 繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
 feature: ワークフロー
 kt: 1560
@@ -10,9 +10,9 @@ role: Business Practitioner
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -48,4 +48,4 @@ ht-degree: 95%
 
 ## その他のリソース
 
-[ターゲティングワークフローでの繰り返し配信の作成](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=en#creating-a-recurring-delivery-in-a-targeting-workflow)
+[ターゲティングワークフローでの繰り返し配信の作成](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=ja#creating-a-recurring-delivery-in-a-targeting-workflow)
