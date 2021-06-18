@@ -14,9 +14,9 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '223'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -41,4 +41,4 @@ Campaign コントロールパネルを使用して Campaign Classic インス�
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-IP の許可リストへの登録について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)を参照してください。
+IP の許可リストへの登録について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=ja)を参照してください。
