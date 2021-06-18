@@ -12,9 +12,9 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html
 exl-id: 823e299e-dc61-426b-80c8-7c5cb889f04f
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ ht-degree: 93%
 ## その他のリソース
 
 * [GPG キー管理（ビデオ）](./gpg-key-management-overview.md)
-* [GPG キー管理（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG キー管理（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=ja)
