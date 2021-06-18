@@ -11,9 +11,9 @@ role: Administrator
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -31,6 +31,6 @@ Campaign コントロールパネルで CNAME を使用してサブドメイン�
 
 ## その他のリソース
 
-* [完全なサブドメインデリゲーション（ビデオ）](./subdomain-delegation.md)
-* [新しいサブドメインの設定（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [完全なサブドメインのデリゲーション（ビデオ）](./subdomain-delegation.md)
+* [新しいサブドメインの設定（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=ja)
 
