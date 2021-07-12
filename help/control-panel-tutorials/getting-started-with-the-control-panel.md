@@ -1,24 +1,23 @@
 ---
 title: Campaign コントロールパネル使用の手引き
 description: コントロールパネルにアクセスする方法と、コントロールパネルを操作できるようになるための前提条件を説明します。
-feature: Control Panel
+feature: コントロールパネル
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 100%
 
 ---
 
-# [!UICONTROL Campaign コントロールパネル]使用の手引き{#control-panel}
+# [!UICONTROL Campaign コントロールパネル]使用の手引き {#control-panel}
 
 >[!NOTE]
 >
