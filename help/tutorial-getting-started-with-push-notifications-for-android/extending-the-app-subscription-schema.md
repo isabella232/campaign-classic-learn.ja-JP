@@ -1,20 +1,19 @@
 ---
 title: アプリ購読スキーマを拡張して、プッシュ通知をパーソナライズする
-description: モバイルアプリから Campaign が受け取るパーソナライズ値を格納できるようにアプリ購読スキーマを拡張する方法について説明します。
+description: モバイルアプリから Campaign が受け取るパーソナライズ値を格納できるように、アプリ購読スキーマを拡張する方法について説明します。
 feature: プッシュ、スキーマ拡張
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 
