@@ -7,12 +7,12 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 100%
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
 ## その他のリソース {#additional-resources}
 
-ハウツービデオ
+ビデオガイド、チュートリアル
 
 * [配信テンプレートプロパティの設定](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
 * [アドホック E メール配信テンプレートのデプロイ](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
