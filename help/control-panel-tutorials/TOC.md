@@ -5,10 +5,10 @@ breadcrumb-title: Campaign コントロールパネルのチュートリアル
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
 feature: Campaign コントロールパネル
-role: Administrator
+role: Admin
 level: Experienced
-source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -18,14 +18,14 @@ ht-degree: 100%
 # Adobe Campaign コントロールパネル - チュートリアル {#control-panel}
 
 + [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Campaign コントロールパネル使用の手引き](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
-+ SFTP 管理 {#sftp-management}
++ [コントロールパネルの概要](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ SFTP 管理{#sftp-management}
    + [サーバー容量の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [許可リストへの IP 範囲の追加](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + サブドメインおよび証明書{#subdomains-and-certificates}
-   + [完全なサブドメインデリゲーション（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [完全なサブドメインのデリゲーション（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [CNAME を使用したサブドメインのデリゲート（ベータ版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT レコード管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
@@ -37,6 +37,6 @@ ht-degree: 100%
       + [データ暗号化用の GPG キーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [GPG キーを使用したデータの暗号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [データの復号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
-+ パフォーマンス監視 {#performance-monitoring}
++ パフォーマンス監視{#performance-monitoring}
    + [データベースの監視](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
-+ [Campaign コントロールパネルのトラブルシューティング](/help/control-panel-tutorials/trouble-shooting.md)
++ [コントロールパネルのトラブルシューティング](/help/control-panel-tutorials/trouble-shooting.md)
