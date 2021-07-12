@@ -1,25 +1,25 @@
 ---
 title: クエリ結果の組み合わせによるターゲットの絞り込み
-description: 交差点または和集合アクティビティを使用してクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。
-feature: ワークフロー，ターゲットアクティビティ,クエリエディター
+description: 積集合や和集合のアクティビティを使用してワークフローのクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。
+feature: ワークフロー、ターゲティングアクティビティ、クエリエディター
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 36%
+ht-degree: 85%
 
 ---
 
 # クエリ結果の組み合わせによるターゲットの絞り込み
 
-クエリ結果を&#x200B;**[!UICONTROL intersection]**&#x200B;または&#x200B;**[!UICONTROL 和集合]**&#x200B;アクティビティを使用してワークフローに結び付け、ターゲットを絞り込む方法を説明します。
+**[!UICONTROL 積集合]**&#x200B;または&#x200B;**[!UICONTROL 和集合]**&#x200B;アクティビティを使用してワークフローのクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -27,7 +27,7 @@ ht-degree: 36%
 
 ドキュメント：
 
-* [ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [>ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=ja)
 * [積集合](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [和集合](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
