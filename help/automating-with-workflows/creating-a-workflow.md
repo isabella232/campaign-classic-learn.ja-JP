@@ -6,13 +6,13 @@ kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 77%
+ht-degree: 85%
 
 ---
 
@@ -34,4 +34,4 @@ Adobe Campaign では、ワークフローを使用して次のことをおこ�
 
 ## その他のリソース
 
-* [ワークフローの概要（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [ワークフローの概要（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=ja)
