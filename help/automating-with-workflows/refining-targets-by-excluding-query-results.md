@@ -1,25 +1,25 @@
 ---
 title: クエリ結果の除外によるターゲットの絞り込み
-description: 標準的な除外をワークフローに適用して、ターゲットを絞り込む方法を説明します。 また、ワークフローの作成方法や定義済みフィルターの撮影に関する問題の解決方法についても学習します。
-feature: ワークフロー，ターゲットアクティビティ,クエリエディター
+description: 標準的な除外をワークフローに適用してターゲットを絞り込む方法を説明します。また、定義済みフィルターを作成する方法と、ワークフローのトラブルシューティングを行う方法についても説明します。
+feature: ワークフロー、ターゲティングアクティビティ、クエリエディター
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 33%
+ht-degree: 88%
 
 ---
 
 # クエリ結果の除外によるターゲットの絞り込み
 
-ワークフローに&#x200B;**[!UICONTROL 標準的な除外]**&#x200B;を適用して、ターゲットを絞り込む方法を説明します。 また、ワークフローの作成方法や定義済みフィルターの撮影に関する問題の解決方法についても学習します。
+**[!UICONTROL 標準的な除外]**&#x200B;をワークフローに適用して、ターゲットを絞り込む方法を説明します。また、定義済みフィルターを作成する方法と、ワークフローのトラブルシューティングを行う方法についても説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12)
 
@@ -27,7 +27,7 @@ ht-degree: 33%
 
 ドキュメント：
 
-* [ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [>ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=ja)
 * [積集合](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [和集合](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
