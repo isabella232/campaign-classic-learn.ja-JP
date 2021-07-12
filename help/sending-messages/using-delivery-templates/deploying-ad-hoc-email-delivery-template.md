@@ -7,11 +7,11 @@ thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ## その他のリソース {#additional-resources}
 
-ハウツービデオ
+ビデオガイド、チュートリアル
 * [配信テンプレートの設定](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
 * [配信テンプレートプロパティの設定](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
 
