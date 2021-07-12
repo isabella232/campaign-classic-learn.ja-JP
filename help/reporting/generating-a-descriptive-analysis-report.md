@@ -7,20 +7,19 @@ thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '67'
+ht-degree: 85%
 
 ---
 
 # 記述的分析レポートの生成
 
-ワークフローから[!UICONTROL 分析の説明レポート]を生成する方法を説明します。
+ワークフローから[!UICONTROL 記述的分析レポート]を生成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
