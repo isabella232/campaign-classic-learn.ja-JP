@@ -9,24 +9,16 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
-source-git-commit: 337da1cf74535e99d4b1b51ce7900054e6b3cb4b
+source-git-commit: 9e48cf10e4f1f264fb84bda07458dfc80e082a08
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 86%
+source-wordcount: '91'
+ht-degree: 83%
 
 ---
 
 # ワークフローの作成
 
 Adobe Campaign には、アプリケーションサーバーの様々なモジュールのプロセスおよびタスク全体にわたって調整できるワークフローモジュールが含まれています。この包括的なグラフィカル環境を使用すると、セグメント化、キャンペーン実行、ファイル処理、人の参加などを含むプロセスを設計できます。ワークフローエンジンは、これらのプロセスを実行およびトラッキングします。
-
-ワークフローは、キャンペーン管理プロセスの様々なコンテキストおよびステージで発生します。
-
-Adobe Campaign では、ワークフローを使用して次のことをおこないます。
-
-* キャンペーンのターゲティングの実行。詳しくは、[実装の手順](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_)を参照してください。
-* キャンペーンの作成：キャンペーンごとに、「**ワークフロー**」タブを使用してターゲットを作成したり、配信を作成したりできます。詳しくは、[キャンペーンワークフロー](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows)を参照してください。
-* Adobe Campaign テクニカルプロセスの実行：クリーンアップ、トラッキング情報の収集または試算。詳しくは、[テクニカルワークフロー](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows)を参照してください。
 
 このビデオでは、Adobe Campaign Classicでワークフローを作成する方法を説明します。
 
