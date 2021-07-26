@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: e89f2b239a3d783e7fddbb5c9249524db0018cc5
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 77%
 
 ---
 
@@ -29,7 +29,4 @@ ht-degree: 100%
 
 ## その他のリソース
 
-* [モバイルアプリチャネルの概要（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/about-mobile-app-channel.html?lang=ja#about-mobile-app-channel)
-* [プッシュ通知の作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/creating-notifications.html?lang=ja#sending-messages)
-* [Campaign での Android 配信の作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=ja#creating-android-delivery)
-* [Android 強制隔離の管理（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-quarantine-management.html?lang=ja#android-quarantine)
+* [Android向けプッシュ通知の作成（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/create-a-push-msg/create-notifications-android.html)
