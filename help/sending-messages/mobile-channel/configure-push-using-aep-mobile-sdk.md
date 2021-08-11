@@ -9,9 +9,9 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: e4d647150bad188430046abf1067244f922a45b9
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,5 @@ ht-degree: 100%
 *Adobe Experience Platform モバイル SDK のインストールと設定（7 分 4 秒）*
 
 ## その他のリソース
-
-* [Adobe Experience Platform SDK 用の Campaign Classic 拡張機能](https://helpx-internal.corp.adobe.com/content/help/ja/campaign/kb/acc-aep-extension.html)
 
 * [Launch での Campaign Classic 拡張機能の設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
