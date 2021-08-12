@@ -6,7 +6,7 @@ feature: 概要
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 226eee423845302431044fc0cff44f30651a0791
+source-git-commit: e92815e36c3d611f632768b0082a88ca62e64655
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 80%
@@ -18,7 +18,6 @@ ht-degree: 80%
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign Classic V7 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
 >[!INFO]
-> 
 > 質問は？ 経験を共有したり、同僚と意見を交換したりしますか？ または、Adobeチームの学習コンテンツに関するフィードバックをお持ちですか。
 [Adobe Campaignの学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)で会話に参加します。
 
