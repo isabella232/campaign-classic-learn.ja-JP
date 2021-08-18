@@ -7,7 +7,7 @@ index: true
 feature: 概要
 role: Admin
 level: Experienced
-source-git-commit: e83fd769f7a7395ba12798cb662988c8eb1d1419
+source-git-commit: 62b17af7b0fdc522eea11a89bb9f6a5c2b70609e
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 4%
@@ -17,4 +17,4 @@ ht-degree: 4%
 
 # Adobe Campaignのトラブルシューティング {#troubleshooting}
 
-+ [Adobe Campaignのトラブルシューティング — 概要](help/troubleshoot-adobe-campaign/overview.md)
++ [Adobe Campaignのトラブルシューティング — 概要](/help/troubleshoot-adobe-campaign/overview.md)
