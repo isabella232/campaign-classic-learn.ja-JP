@@ -9,16 +9,16 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 100%
+source-wordcount: '101'
+ht-degree: 70%
 
 ---
 
-# 事前定義済みフィルターを使用した疲労管理の設定
+# 定義済みフィルターを使用した疲労管理の設定
 
-疲労管理では、受信者の過剰勧誘を避けるために、メッセージの頻度と数量を制御します。Campaign インスタンスにキャンペーン最適化モジュールがない場合は、受信したメッセージの数でターゲット母集団をフィルタリングする定義済みフィルターを設定できます。
+疲労管理では、受信者への過剰勧誘を避けるために、メッセージの頻度と数量を制御します。キャンペーンインスタンスにキャンペーン最適化モジュールがない場合は、受信したメッセージの数でターゲット母集団をフィルターする定義済みフィルターを設定できます。
 
 このビデオでは、フィルターを使用して Adobe Campaign Classic で疲労管理を実装する方法を説明します。
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 
 ## その他のリソース
 
-* [キャンペーンタイポロジについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
+* [キャンペーンタイポロジについて](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja)
