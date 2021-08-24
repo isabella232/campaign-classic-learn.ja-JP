@@ -1,15 +1,15 @@
 ---
 title: Campaign コントロールパネルのトラブルシューティング
-description: Campaign コントロールパネルでは、SFTP ストレージをインスタンス別に監視および管理したり、IP アドレスを許可リストに登録したりできます。
+description: 「 」Campaign コントロールパネルを使用すると、インスタンス別、およびIPアドレス別に、SFTPストレージを監許可リスト視および管理できます。
 feature: コントロールパネル
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
-source-wordcount: '353'
-ht-degree: 100%
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+workflow-type: tm+mt
+source-wordcount: '344'
+ht-degree: 44%
 
 ---
 
@@ -18,26 +18,26 @@ ht-degree: 100%
 
 ## ログインとホームページ
 
-### 症状：Experience Cloud にログインできない
+### 症状：Experience Cloud
 
-**対処方法**：
-ユーザーが、自分の IMS 組織 ID（xxx）を特定する必要があります。管理者が、管理する各インスタンスの製品プロファイル「Campaign-xxx-Admins」にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、場合によっては、自分自身をユーザーとして追加する必要があります。
+**対処方法：**
+ユーザーは、自分のIMS Org ID(xxx)を特定する必要があります。管理者は、管理する各インスタンスの製品プロファイル「Campaign-xxx-Admins」にユーザーを追加する必要があります。 ユーザーがすべてのインスタンスの管理者である場合は、自分自身をユーザーとして追加する必要があります。
 
 ### 症状：Experience Cloud ホームで、[!UICONTROL Campaign コントロールパネル]にアクセスするためのリンクがユーザーに表示されない
 
 **原因**：
 製品プロファイル _Campaign-xxx-Administrators/Admin_ にユーザーとして追加されるまでは、ユーザーにリンクは表示されません。
 
-**対処方法**：
-管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、場合によっては、自分自身を「ユーザー」として追加する必要があります。
+**対処方法：**
+管理者は、管理する各インスタンスの製品プロファイル _Campaign-xxx-_  Adminsにユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者である場合、自分自身を「ユーザー」として追加する必要があります。
 
 ### 症状：インスタンスが [!UICONTROL Campaign コントロールパネル]に表示されない
 
-**原因**：
-ほとんどの場合、表示されないインスタンスの製品プロファイル _Campaign-xxx-Administrators/Admin_ にユーザーを「ユーザー」として追加する必要があります。
+**原因：**
+ほとんどの場合、ユーザーは、見つからないインスタンスの製品プロファイル _Campaign-xxx-Administrators/Adminとして追加する必要がありま_ す
 
-**対処方法**：
-管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、場合によっては、自分自身を「ユーザー」として追加する必要があります。
+**対処方法：**
+管理者は、管理する各インスタンスの製品プロファイル _Campaign-xxx-_  Adminsにユーザーを追加する必要があります。ユーザーがすべてのインスタンスの管理者である場合、自分自身を「ユーザー」として追加する必要があります。
 
 ### 参考になるビデオ
 
@@ -51,18 +51,18 @@ ht-degree: 100%
 
 ### 参考になるドキュメント
 
-* [コントロールパネルの理解](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
-* [[!UICONTROL Campaign コントロールパネル]に対する権限の管理](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html)
+* [コントロールパネルの理解](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
+* [[!UICONTROL Campaign コントロールパネル]に対する権限の管理](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## SFTP サーバーへの接続の確立（クライアントまたは API）
 
 SFTP サーバーに接続するには、以下が必要です。
 
 * SFTP サーバーへの接続元となる IP アドレスを[!UICONTROL 許可リストに登録する]こと
-* Adobe Campaign に登録する必要がある秘密鍵と公開鍵のペア
-* SFTP サーバーに直接接続する場合は、SFTP クライアントソフトウェアも必要
+* Adobe Campaignに登録する必要がある秘密鍵と公開鍵のペア
+* SFTPサーバーに直接接続する場合は、SFTPクライアントソフトウェアが必要です
 
 ### 参考になるドキュメント {#helpful-docs}
 
-* [SFTP サーバーへのログイン](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
+* [SFTP サーバーへのログイン](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
