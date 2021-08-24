@@ -1,6 +1,6 @@
 ---
 title: 監査記録の使用方法
-description: '監査記録は、Adobe Campaign 内で発生するアクションとイベントの包括的なリストをリアルタイムで記録します。 '
+description: '監査証跡は、Adobe Campaign内で発生するアクションとイベントの包括的なリストをリアルタイムで記録します。 '
 feature: 監査記録
 kt: 2835
 doc-type: feature video
@@ -9,16 +9,16 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 100%
+ht-degree: 50%
 
 ---
 
 # 監査記録の使用方法
 
-[!UICONTROL 監査記録]：Adobe Campaign 内で発生するアクションとイベントの包括的なリストをリアルタイムで記録します。[!UICONTROL 監査記録]機能には、データの履歴にアクセスして次のような質問に回答するためのセルフサービスが含まれています。
+[!UICONTROL Audit ] Trail:Adobe Campaign内で発生するアクションとイベントの包括的なリストをリアルタイムでキャプチャします。[!UICONTROL 監査記録]機能には、データの履歴にアクセスして次のような質問に答えるためのセルフサービスが含まれています。
 
 * オブジェクトに何が起きたか
 * 誰が最後にいつ修正したか
@@ -28,7 +28,7 @@ ht-degree: 100%
 >
 >監査記録を使用するには Campaign Classic バージョン 19.1 以降が必要です
 
-[!UICONTROL 監査記録]は、ワークフロー、オプション、ソーススキーマの作成、変更、削除など、オペレーターのアクションをログに記録しリストします。さらに、特にワークフローの場合は次のアクションも記録されます。
+[!UICONTROL 監査記録]は、ログと、ワークフロー、オプション、ソーススキーマの作成、変更、削除など、オペレーターのアクションをリストします。 さらに、特にワークフローに関して次のアクションが記録されます。
 
 * 開始
 * 一時停止
@@ -43,4 +43,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-詳しくは、[監査記録のドキュメント](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)を参照してください。
+詳しくは、[監査記録ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ja)を参照してください。
