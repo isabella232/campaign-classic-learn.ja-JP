@@ -1,5 +1,5 @@
 ---
-title: 受信者リストの作成 ワークフローを使用
+title: ワークフローでの受信者リストの作成
 description: エクスプローラーから受信者リストを設定してオーディエンスを作成する方法を説明します。
 feature: Audiences
 kt: 2173
@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 96%
+ht-degree: 88%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 ドキュメント：
 
-* [リストの作成および管理](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [リストの作成および管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 チュートリアル：
 
