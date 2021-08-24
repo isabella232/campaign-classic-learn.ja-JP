@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Classic でタイポロジルールを使用して疲労管理を設定する方法
-description: タイポロジルールを活用して疲労管理を実装する方法を学びます。
+description: タイポロジルールを活用して疲労管理を実装する方法を説明します。
 feature: 疲労管理
 kt: 1564
 doc-type: feature video
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 100%
+source-wordcount: '156'
+ht-degree: 78%
 
 ---
 
@@ -22,15 +22,11 @@ ht-degree: 100%
 
 タイポロジルールにより、マーケターはすべての配信にわたってビジネスプラクティスをより効率的に標準化して、顧客に対するキャンペーンメッセージを制御できます。それには、除外やよく使用されるルールを個々のキャンペーンに適用しなくてもよいようにする必要があります。*タイポロジルール*&#x200B;内の条件に一致する受信者は、分析フェーズで配信から除外されます。
 
-1 回の配信に複数のフィルタールールを容易に一括適用できるように、一連の&#x200B;*タイポロジルール*&#x200B;を 1 つの&#x200B;*タイポロジ*&#x200B;内にグループ化するのが普通です。
-
-これにより、適切なタイミングで常に適切な母集団をターゲティングしつつ、様々なキャンペーンやワークフローを作成する際に余分な手順を省くことができます。
-
-このビデオでは、タイポロジルールを活用して Adobe Campaign Classic で疲労管理を実装する方法を説明します。
+このビデオでは、タイポロジルールを適用してAdobe Campaign Classicで疲労管理を実装する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
 ## その他のリソース
 
-* [キャンペーンタイポロジについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
-* [頻度ルールによるマーケティング疲労の管理](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
+* [キャンペーンタイポロジについて](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja)
+* [頻度ルールによるマーケティング疲労の管理](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=ja)
