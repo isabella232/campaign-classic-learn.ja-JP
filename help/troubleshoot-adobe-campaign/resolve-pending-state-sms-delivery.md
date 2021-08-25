@@ -1,12 +1,12 @@
 ---
-title: SMS配信は保留中の状態になっています
+title: SMS配信が保留中の状態になっています
 description: SMS配信が  新しく作成された外部アカウントの保留中の状態。
 feature: SMS
 role: Admin
 level: Experienced
 topic: Development
 kt: 8429
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 ---
 
 
-# SMS配信は保留中の状態になっています
+# SMS配信が保留中の状態になっています
 
 SMS配信が  新しく作成された外部アカウントの保留中の状態。
 
