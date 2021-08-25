@@ -7,7 +7,7 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [結果の条件を保持することによるワークフローのフィルタリング](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
 + 配信とチャネル{#deliveries-and-channels}
    + [配信でのデバッグメッセージのキャンセル済みエラー](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
-   + [SMS配信は保留中の状態になっています](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
+   + [SMS配信が保留中の状態になっています](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
    + [SMSが誤った数に送信された場合、ブロードログステータスが正しくない](/help/troubleshoot-adobe-campaign/sms-broad-log.md)
 + システム管理{#administration}
    + [すべてのIPアドレスにSOAP API呼び出しを許可する](/help/troubleshoot-adobe-campaign/allow-all-ip-address-to-make-soap-calls.md)
