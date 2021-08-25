@@ -6,15 +6,15 @@ user-guide-description: Adobe Campaign Classic を使用すれば、マーケタ
 breadcrumb-title: チュートリアル
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=ja&tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: チュートリアル
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja
-getting-started-title: ドキュメント
-getting-started-url: https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-source-git-commit: d7cfbad42f559f87a20c5580e3d7279140bf32e1
+solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+tutorials-title: Tutorials
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+getting-started-title: Documentation
+getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
+source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 98%
+source-wordcount: '369'
+ht-degree: 95%
 
 ---
 
@@ -96,3 +96,4 @@ ht-degree: 98%
    + [Campaign コントロールパネル](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja)
    + 外部データベースへのアクセス（FDA）{#fda}
       + [ [!DNL Snowflake] 上でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
++ [Adobe Campaignのトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
