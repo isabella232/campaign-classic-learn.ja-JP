@@ -2,14 +2,14 @@
 title: Adobe Campaign Classic のチュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 sub-product: Campaign Classic
-feature: 概要
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: af19780541ac0f2bc3dbcd37f095ae602b872223
+source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 80%
+source-wordcount: '297'
+ht-degree: 93%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 80%
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign Classic V7 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
 >[!INFO]
-> 質問は？ 経験を共有したり、同僚と意見を交換したりしますか？ または、Adobeチームの学習コンテンツに関するフィードバックをお持ちですか。 [Adobe Campaignの学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)で会話に参加します。
+> 質問はありますか？ 同僚と経験を共有したり、意見交換したりしますか？または、アドビチームの学習コンテンツに関するフィードバックはありますか？[Adobe Campaign の学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)で会話にご参加ください。
 
 ## 新着情報
 

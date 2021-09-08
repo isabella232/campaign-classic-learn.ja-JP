@@ -1,14 +1,13 @@
 ---
 title: インスタンスの再起動中のロードバランサーの問題
 description: インスタンスの再起動中に発生したロードバランサーの問題を修正する方法を説明します
-feature: null
 role: Admin
 level: Experienced
 topic: Development
 kt: 8428
-source-git-commit: 4515849a9302f05948faedf03b642d6e29747997
+source-git-commit: 548739ef758c91beb68107847bfccebfceee5ac1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
