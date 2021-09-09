@@ -4,15 +4,15 @@ description: アプリの購読RCPにパラメーターが入力されていな�
 feature: Subscriptions
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8419
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+exl-id: 9fd5ed20-a190-4759-84b6-fe7d08e61ea1
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
-
 
 # モバイルアプリケーションのサブスクリプションに足りないパラメーターを追加する
 

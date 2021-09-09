@@ -1,18 +1,18 @@
 ---
-title: 'SSL証明書の前提条件 '
-description: 'SSL証明書をインストールする際の前提条件を確認する方法を説明します。 '
+title: SSL証明書の前提条件
+description: SSL証明書をインストールする際の前提条件を確認する方法を説明します。
 feature: Subdomains and Certificates
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8389
-source-git-commit: 0f59f8f338220ad3d48dc8da283920cee44fd21f
+exl-id: 18b996f2-67f9-425f-a41b-baec564fe08f
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
-
 
 # SSLを使用したAdobe Campaignの設定の前提条件
 
