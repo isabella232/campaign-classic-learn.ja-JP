@@ -1,7 +1,7 @@
 ---
 title: 頻度ルールによるマーケティング疲労の管理
 description: フィルターを使用して Adobe Campaign Classic に疲労管理を実装する方法を説明します。
-feature: 疲労管理
+feature: Fatigue Management
 kt: 2148
 doc-type: feature video
 activity: use
@@ -10,15 +10,15 @@ role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
-workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 70%
+workflow-type: ht
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
 # 定義済みフィルターを使用した疲労管理の設定
 
-疲労管理では、受信者への過剰勧誘を避けるために、メッセージの頻度と数量を制御します。キャンペーンインスタンスにキャンペーン最適化モジュールがない場合は、受信したメッセージの数でターゲット母集団をフィルターする定義済みフィルターを設定できます。
+疲労管理では、受信者への過剰勧誘を避けるために、メッセージの頻度と数量を制御します。Campaign インスタンスにキャンペーン最適化モジュールがない場合は、受信メッセージ数でターゲット母集団をフィルタリングする定義済みフィルターを設定できます。
 
 このビデオでは、フィルターを使用して Adobe Campaign Classic で疲労管理を実装する方法を説明します。
 
