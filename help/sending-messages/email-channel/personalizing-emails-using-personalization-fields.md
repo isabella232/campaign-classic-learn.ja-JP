@@ -1,7 +1,7 @@
 ---
 title: パーソナライゼーションフィールドを使用した E メールのパーソナライズ
-description: パーソナライゼーションフィールドをメール配信の件名とコンテンツに追加する方法について説明します。
-feature: 動的コンテンツ
+description: パーソナライゼーションフィールドを件名行と E メール配信のコンテンツに追加する方法について説明します。
+feature: Dynamic Content
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
-workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 84%
+workflow-type: ht
+source-wordcount: '123'
+ht-degree: 100%
 
 ---
 
@@ -29,8 +29,8 @@ ht-degree: 84%
 
 ドキュメント：
 
-* [パーソナライゼーションについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
-* [パーソナライゼーションフィールド](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html?lang=en)
+* [パーソナライゼーションについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja)
+* [パーソナライゼーションフィールド](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html?lang=ja)
 
 チュートリアル：
 
