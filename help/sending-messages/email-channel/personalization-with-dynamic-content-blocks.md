@@ -1,7 +1,7 @@
 ---
 title: 動的コンテンツブロックを使用したメールのパーソナライズ
-description: 動的コンテンツブロックを作成し、メール配信のコンテンツをパーソナライズする方法について説明します。
-feature: 動的コンテンツ
+description: 動的コンテンツブロックの作成方法と、動的コンテンツブロックを使用してメール配信のコンテンツをパーソナライズする方法について説明します。
+feature: Dynamic Content
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '146'
+workflow-type: ht
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
