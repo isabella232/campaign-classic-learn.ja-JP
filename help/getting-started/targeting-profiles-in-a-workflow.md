@@ -1,7 +1,7 @@
 ---
 title: ワークフローでプロファイルをターゲットする方法
 description: キャンペーンワークフローの使用の概要と、ワークフローを作成しフィルター条件を使用してワークフローでプロファイルをターゲティングする方法について説明します。
-feature: ワークフロー
+feature: Workflows
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
-workflow-type: tm+mt
-source-wordcount: '128'
+workflow-type: ht
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
