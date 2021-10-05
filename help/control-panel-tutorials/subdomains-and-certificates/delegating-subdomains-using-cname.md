@@ -1,7 +1,7 @@
 ---
 title: CNAME を使用したサブドメインのデリゲート
 description: サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。
-feature: コントロールパネル
+feature: Control Panel
 kt: 6015
 thumbnail: 326612.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '95'
+workflow-type: ht
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 Adobe Campaign で E メールの送信やランディングページの公開をおこなえるようになるには、新しいサブドメインを設定する必要があります。
 
-Campaign コントロールパネルで CNAME を使用してサブドメインを設定し、送信する方法について説明します。
+コントロールパネルで CNAME を使用してサブドメインを設定し送信する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
