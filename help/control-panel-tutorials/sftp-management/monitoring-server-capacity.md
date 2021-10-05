@@ -1,7 +1,7 @@
 ---
 title: サーバー容量の監視
 description: インスタンスごとに SFTP ストレージを監視および管理し、IP アドレスを許可リストに追加する方法を学びます。
-feature: コントロールパネル
+feature: Control Panel
 audience: administrator
 kt: 3266
 thumbnail: 27270.jpg
@@ -13,8 +13,8 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
 exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '105'
+workflow-type: ht
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
