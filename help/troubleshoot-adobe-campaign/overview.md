@@ -1,18 +1,18 @@
 ---
-title: Adobe Campaignのトラブルシューティング — 概要
-description: Adobe Campaignの問題のトラブルシューティング方法に関するヘルプを参照してください。
+title: Adobe Campaign のトラブルシューティング - 概要
+description: Adobe Campaign で発生した問題のトラブルシューティングに役立つ情報をご紹介します。
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Experienced
-source-git-commit: a244150716a6f7cb55e9ca614c83159961342e5e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: f8945058-4f2b-4b9c-bbb4-2761c420b278
+source-git-commit: d8b4d1f2a82b108cd94854460c858dae04cd4725
+workflow-type: ht
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
+# Adobe Campaign のトラブルシューティング - 概要
 
-# Adobe Campaignのトラブルシューティング — 概要
-
-Adobe Campaignの問題のトラブルシューティング方法に関するヘルプを参照してください。 この節は、Adobe Campaign Classic v7またはAdobe Campaign v8で発生する可能性のある問題のトラブルシューティングを支援するために、Adobeカスタマーサポートによって提供されています。
+Adobe Campaign で発生した問題のトラブルシューティングに役立つ情報をご紹介します。この節では、Adobe Campaign Classic v7 または Adobe Campaign v8 で発生する可能性のある問題のトラブルシューティングに役立つ情報をアドビカスタマーサポートから提供します。
