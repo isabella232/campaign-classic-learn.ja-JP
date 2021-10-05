@@ -1,7 +1,7 @@
 ---
 title: データベースの監視
 description: インスタンスのデータベース使用状況を監視する方法を説明します。
-feature: コントロールパネル
+feature: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: Admin
 level: Experienced
 exl-id: eefe2adc-d1f2-4d38-b93b-c38069f4acd4
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '88'
+workflow-type: ht
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
