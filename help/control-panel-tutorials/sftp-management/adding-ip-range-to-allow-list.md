@@ -1,7 +1,7 @@
 ---
 title: '許可リストへの IP 範囲の追加 '
 description: 許可リストに IP アドレス範囲を追加する方法を説明します。
-feature: コントロールパネル
+feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: Admin
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '96'
+workflow-type: ht
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
