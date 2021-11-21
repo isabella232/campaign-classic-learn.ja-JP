@@ -12,7 +12,7 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
 exl-id: 6ff9713c-9392-425d-9a13-3c1cc7afe2c2
 source-git-commit: e6446906ccd0ca521175a24675b7fae61854217c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 

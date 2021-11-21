@@ -12,7 +12,7 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
 exl-id: 6b615904-283b-4197-9fd4-d91e20a14657
 source-git-commit: e6446906ccd0ca521175a24675b7fae61854217c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 

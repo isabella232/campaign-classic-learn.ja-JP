@@ -1,7 +1,7 @@
 ---
 title: Android サービスの設定と Campaign での Android モバイルアプリケーションの作成
 description: Android サービスを設定し、Campaign で Android モバイルアプリケーションを作成する方法について説明します。 これは、Neotrip アプリをプッシュ通知のターゲットとして定義するために必須です。
-feature: プッシュ
+feature: Push
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '139'
 ht-degree: 100%
 
 ---

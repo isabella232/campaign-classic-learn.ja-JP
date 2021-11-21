@@ -1,7 +1,7 @@
 ---
 title: ターゲティングワークフローの作成
 description: ターゲティングワークフローを使用して複数の配信ターゲットを定義する方法を説明します。
-feature: ワークフロー、ターゲティングアクティビティ、クエリエディター
+feature: Workflows, Targeting Activity, Query Editor
 kt: 2174
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 75%
+source-wordcount: '82'
+ht-degree: 74%
 
 ---
 
@@ -22,5 +22,5 @@ Adobe Campaign では、ワークフローを使用して、ターゲティン�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-[ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=ja)のドキュメントを参照してください
-および[ターゲティングアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja)を参照してください。
+ドキュメントを参照してください [ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=ja)
+および [ターゲティングアクティビティについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja) を参照してください。

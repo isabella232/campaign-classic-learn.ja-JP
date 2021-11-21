@@ -1,14 +1,14 @@
 ---
 title: Adobe Campaign Classic での E メール配信アクティビティと配信アクティビティの比較
 description: このビデオでは、配信テンプレートの設定方法と使用方法を説明します。
-feature: 配信テンプレート
+feature: Delivery Templates
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
-source-wordcount: '137'
+workflow-type: tm+mt
+source-wordcount: '135'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
-## その他のリソース{#additional-resources}
+## その他のリソース {#additional-resources}
 
 * [テンプレートについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
 * [配信テンプレートの作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)

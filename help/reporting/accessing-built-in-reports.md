@@ -1,7 +1,7 @@
 ---
 title: 組み込みレポートへのアクセス
 description: 組み込みのレポートと分析について説明し、配信レポートの生成方法を説明します。
-feature: レポート
+feature: Reporting
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 42%
+source-wordcount: '70'
+ht-degree: 41%
 
 ---
 
 # 組み込みレポートへのアクセス
 
-理解  組み込みのレポートとCampaign Classicを参照し、配信レポートの生成方法を確認してください。
+組み込みのレポートと分析をCampaign Classicで理解し、配信レポートの生成方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
 

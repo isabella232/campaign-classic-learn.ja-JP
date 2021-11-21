@@ -1,7 +1,7 @@
 ---
 title: クエリ結果の組み合わせによるターゲットの絞り込み
 description: 積集合や和集合のアクティビティを使用してワークフローのクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。
-feature: ワークフロー、ターゲティングアクティビティ、クエリエディター
+feature: Workflows, Targeting Activity, Query Editor
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '107'
 ht-degree: 85%
 
 ---
