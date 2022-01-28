@@ -1,7 +1,7 @@
 ---
 title: マルチチャネルキャンペーンの作成
 description: 受信者の優先チャネルに基づいて、電子メール、SMS、ダイレクトメール配信を使用してマルチチャネルキャンペーンを作成する方法を説明します。
-feature: Workflows
+feature: Cross Channel Orchestration
 kt: 1563
 thumbnail: 24981.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
-source-git-commit: cfd9148fddd9bfca9595f5acacc3e9d9d9140020
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 79%
+source-wordcount: '84'
+ht-degree: 77%
 
 ---
 
@@ -24,7 +24,3 @@ ht-degree: 79%
 受信者の優先チャネルに基づいて、電子メール、SMS、ダイレクトメール配信を使用してマルチチャネルキャンペーンを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
-
-## その他のリソース
-
-* [マルチチャネルキャンペーンとクロスチャネルキャンペーンの概要](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

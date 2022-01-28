@@ -1,5 +1,5 @@
 ---
-title: 組み込みレポートへのアクセス
+title: ビルトインレポートへのアクセス
 description: 組み込みのレポートと分析について説明し、配信レポートの生成方法を説明します。
 feature: Reporting
 kt: 5090
@@ -10,21 +10,15 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 41%
+source-wordcount: '35'
+ht-degree: 54%
 
 ---
 
-# 組み込みレポートへのアクセス
+# ビルトインレポートへのアクセス
 
 組み込みのレポートと分析をCampaign Classicで理解し、配信レポートの生成方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
-
-## その他のリソース
-
-* [記述的分析レポートの生成（ビデオ）](/help/reporting/generating-a-descriptive-analysis-report.md)
-* [レポートの概要（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=ja)
-* [レポートのベストプラクティス（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/best-practices.html)

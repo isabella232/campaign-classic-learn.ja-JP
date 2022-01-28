@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -28,16 +28,3 @@ ht-degree: 100%
 * [クエリ結果の組み合わせによるターゲットの絞り込み](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [クエリ結果の除外によるターゲットの絞り込み](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
 * [リスト更新アクティビティを使用したワークフローでのリストの作成](/help/automating-with-workflows/using-the-update-list-activity.md)
-
-## その他のリソース
-
-ドキュメント：
-
-* [>ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ja)
-* [ターゲティングアクティビティについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja)
-
-チュートリアル：
-
-* [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
-* [プロファイルのインポート](/help/data-management/importing-profiles.md)
-* [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/creating-a-workflow.html?lang=ja)

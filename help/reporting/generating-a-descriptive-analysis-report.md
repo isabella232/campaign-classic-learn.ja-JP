@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 69%
+source-wordcount: '36'
+ht-degree: 100%
 
 ---
 
@@ -22,10 +22,3 @@ ht-degree: 69%
 ワークフローから[!UICONTROL 記述的分析レポート]を生成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
-
-## その他のリソース
-
-**ドキュメント:**
-
-* [レポートの概要](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en)
-* [記述的分析について](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=en)

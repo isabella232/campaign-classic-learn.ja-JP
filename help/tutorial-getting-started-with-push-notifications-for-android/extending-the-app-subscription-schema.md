@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,3 @@ ht-degree: 100%
 **次のステップ**
 
 ステップ 2：[Android サービスを設定して Campaign で Android モバイルアプリケーションを作成する](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
-
-## その他のリソース
-
-* [組み込みスキーマを拡張して設定に合わせる](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=ja#extend-subscription-schema)

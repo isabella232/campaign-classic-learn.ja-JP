@@ -1,7 +1,7 @@
 ---
 title: 動的コンテンツブロックを使用したメールのパーソナライズ
 description: 動的コンテンツブロックの作成方法と、動的コンテンツブロックを使用してメール配信のコンテンツをパーソナライズする方法について説明します。
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 92%
 
 ---
 
@@ -26,17 +26,6 @@ Adobe Campaign では、メッセージのコンテンツや外観をパーソ�
 
 動的コンテンツブロックを作成し、メール配信のコンテンツをパーソナライズする方法について説明します。
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-## その他のリソース
-
-ドキュメント：
-
-* [パーソナライゼーションについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja)
-* [パーソナライゼーションブロック](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html?lang=ja)
-
-ビデオチュートリアル：
-
-* [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+パーソナライゼーションについて詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja).

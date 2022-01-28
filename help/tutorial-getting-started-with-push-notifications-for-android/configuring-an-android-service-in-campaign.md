@@ -10,9 +10,9 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
@@ -30,8 +30,3 @@ ht-degree: 100%
 **次のステップ**
 
 ステップ3：[プッシュ通知を設定して送信する](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
-
-## その他のリソース
-
-* [Android サービスの設定（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=ja#configuring-android-service)
-* [Android モバイルアプリケーションの作成（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html?lang=ja#creating-android-app)

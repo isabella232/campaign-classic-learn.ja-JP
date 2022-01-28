@@ -10,10 +10,10 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 82%
 
 ---
 
@@ -23,11 +23,10 @@ ht-degree: 100%
 
 現在、AMP フォーマットは、Gmail、Outlook および Mail.ru でのみサポートされています。
 
-以下のビデオでは、Adobe Campaign Classic で AMP をアクティブにし使用する方法を示します。
+次のビデオでは、Adobe Campaign Classic で AMP を有効にする方法を説明し、その使用方法を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-## その他のリソース
+以下を使用して、 [AMP エディター](https://playground.amp.dev/) をクリックして、独自の AMP コードを作成します。
 
-* [AMP エディター](https://playground.amp.dev/)
-* [ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ja#about-amp-for-email)
+詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ja#about-amp-for-email) を参照してください。

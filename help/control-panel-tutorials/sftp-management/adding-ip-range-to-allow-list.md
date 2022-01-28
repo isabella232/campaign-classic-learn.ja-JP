@@ -11,9 +11,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ ht-degree: 100%
 許可リストに IP アドレス範囲を追加する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
-
-## その他のリソース
-
-* [IP 範囲許可リストへの登録 （ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=ja)

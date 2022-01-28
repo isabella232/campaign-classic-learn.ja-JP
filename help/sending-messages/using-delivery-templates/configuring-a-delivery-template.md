@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -34,17 +34,3 @@ ht-degree: 100%
 次のビデオでは、アドホック配信用のテンプレートを設定する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
-
-## その他のリソース {#additional-resources}
-
-ハウツービデオ
-
-* [配信テンプレートプロパティの設定](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-* [アドホック E メール配信テンプレートのデプロイ](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-
-ドキュメント：
-
-* [テンプレートについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
-* [配信テンプレートの作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
-* [ターゲットマッピングの選択](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
-* [テンプレートからの配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)

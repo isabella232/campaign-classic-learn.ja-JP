@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,12 +25,6 @@ ht-degree: 100%
 
 Adobe Campaign で E メールの送信やランディングページの公開をおこなえるようになるには、新しいサブドメインを設定する必要があります。
 
-コントロールパネルで CNAME を使用してサブドメインを設定し送信する方法について説明します。
+Campaign コントロールパネルで CNAME を使用してサブドメインを設定し、送信する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
-
-## その他のリソース
-
-* [完全なサブドメインのデリゲーション（ビデオ）](./subdomain-delegation.md)
-* [新しいサブドメインの設定（ドキュメント）](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=ja)
-

@@ -1,15 +1,15 @@
 ---
 title: 動的コンテンツブロックを使用してメールをパーソナライズする方法
 description: このチュートリアルでは、配信コンテンツのパーソナライズ、配信テンプレートでの JavaScript コードの使用、様々な配信テンプレートでのコンテンツブロックの標準化と共有の方法について説明します。
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 100%
+source-wordcount: '257'
+ht-degree: 96%
 
 ---
 
@@ -43,6 +43,4 @@ Adobe Campaign では、コンテンツやメッセージの外観をパーソ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## その他のリソース
-
-* [パーソナライゼーションについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja)
+パーソナライゼーションについて詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja).

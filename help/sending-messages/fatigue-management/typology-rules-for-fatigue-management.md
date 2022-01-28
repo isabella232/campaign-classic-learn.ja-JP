@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic でタイポロジルールを使用して疲労管理を設定する方法
 description: タイポロジルールを適用して疲労管理を実装する方法を説明します。
-feature: Fatigue Management
+feature: Fatigue Management, Typology Rules
 kt: 1564
 doc-type: feature video
 activity: use
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 100%
+source-wordcount: '143'
+ht-degree: 93%
 
 ---
 
@@ -26,7 +26,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
-## その他のリソース
-
-* [キャンペーンタイポロジについて](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja)
-* [頻度ルールによるマーケティング疲労の管理](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=ja)
+詳しくは、製品ドキュメントを参照してください。 [キャンペーンタイポロジ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja).

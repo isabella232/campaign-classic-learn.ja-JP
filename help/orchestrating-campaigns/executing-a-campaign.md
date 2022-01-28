@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: a562ea4c-0d11-4491-b18e-bab1305a508f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 79%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,3 @@ ht-degree: 79%
 キャンペーンを実行し、メール配信や配信プロパティを確認する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329647?quality=12)
-
-## その他のリソース
-
-*[マーケティングキャンペーンの設定（製品ドキュメント）](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en#orchestrating-campaigns)

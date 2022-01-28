@@ -10,9 +10,9 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '61'
 ht-degree: 100%
 
 ---
@@ -22,16 +22,3 @@ ht-degree: 100%
 このビデオでは、アドホックなメール配信テンプレートをデプロイする方法と、メール配信と配信ワークフローの違いについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
-
-## その他のリソース {#additional-resources}
-
-ハウツービデオ
-* [配信テンプレートの設定](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
-* [配信テンプレートプロパティの設定](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-
-ドキュメント：
-
-* [テンプレートについて](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
-* [配信テンプレートの作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
-* [ターゲットマッピングの選択](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
-* [テンプレートからの配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)

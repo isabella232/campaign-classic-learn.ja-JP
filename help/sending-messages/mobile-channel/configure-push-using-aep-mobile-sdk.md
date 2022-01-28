@@ -1,7 +1,7 @@
 ---
 title: 'Experience Platform モバイル SDK を使用したプッシュチャネルの設定 '
 description: 'Experience Cloud Mobile SDK を使用してプッシュチャネルを設定する方法を説明します。 '
-feature: Push
+feature: Push, Mobile SDK Integration
 kt: 2683
 doc-type: feature video
 activity: setup
@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: e4d647150bad188430046abf1067244f922a45b9
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
 
@@ -22,8 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
 
-*Adobe Experience Platform モバイル SDK のインストールと設定（7 分 4 秒）*
-
-## その他のリソース
-
-* [Launch への Campaign Classic 拡張機能の設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+Mobile SDK でCampaign Classic拡張機能を設定する方法について詳しくは、 [製品ドキュメント](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).

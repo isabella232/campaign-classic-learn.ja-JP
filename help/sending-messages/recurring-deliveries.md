@@ -1,7 +1,7 @@
 ---
 title: 繰り返しメールキャンペーンと連続メールキャンペーンの設定方法
 description: 繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
-feature: Workflows
+feature: Workflows, Campaigns
 kt: 1560
 doc-type: feature video
 activity: use
@@ -9,9 +9,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '245'
 ht-degree: 100%
 
 ---
@@ -45,7 +45,3 @@ ht-degree: 100%
 このビデオでは、増分処理クエリを使用して連続配信を設定する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
-
-## その他のリソース
-
-[ターゲティングワークフローでの繰り返し配信の作成](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=ja#creating-a-recurring-delivery-in-a-targeting-workflow)

@@ -1,7 +1,7 @@
 ---
 title: ワークフローでの受信者リストの作成
 description: エクスプローラーから受信者リストを設定してオーディエンスを作成する方法を説明します。
-feature: Audiences
+feature: Audiences, Profiles
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 88%
+source-wordcount: '55'
+ht-degree: 100%
 
 ---
 
@@ -22,15 +22,3 @@ ht-degree: 88%
 受信者をターゲットにするためのワークフローを作成する方法や、E メールターゲットでリストを使用する前にワークフローが繰り返されるようにする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
-
-## その他のリソース
-
-ドキュメント：
-
-* [リストの作成および管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
-
-チュートリアル：
-
-* [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
-* [プロファイルのインポート](/help/data-management/importing-profiles.md)
-* [受信者リストの作成](/help/profile-management/creating-a-list-of-recipients.md)
