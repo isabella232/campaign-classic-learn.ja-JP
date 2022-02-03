@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 90%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
-パーソナライゼーションについて詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja).
+パーソナライゼーションについて詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja)を参照してください。
