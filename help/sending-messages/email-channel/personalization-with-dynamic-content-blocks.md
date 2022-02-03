@@ -11,9 +11,9 @@ role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Adobe Campaign では、メッセージのコンテンツや外観をパーソ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-パーソナライゼーションについて詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja).
+パーソナライゼーションについて詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja)を参照してください。
