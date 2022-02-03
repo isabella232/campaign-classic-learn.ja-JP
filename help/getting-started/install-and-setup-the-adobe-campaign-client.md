@@ -11,14 +11,14 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 # Adobe Campaign クライアントのインストールとセットアップ
 
-次のビデオでは、Adobe Campaignクライアントコンソールをダウンロードしてインストールする方法、複数の環境への接続を作成して管理する方法、Adobe Campaignクライアントコンソールへのアクセスを検証する方法について説明します。
+次のビデオでは、Adobe Campaign クライアントコンソールをダウンロードおよびインストールする方法、複数の環境への接続を作成し管理する方法、Adobe Campaign クライアントコンソールへのアクセスを確認する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12)
