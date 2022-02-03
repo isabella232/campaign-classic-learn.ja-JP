@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 93%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
-詳しくは、製品ドキュメントを参照してください。 [キャンペーンタイポロジ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja).
+[キャンペーンタイポロジ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja)について詳しくは、製品ドキュメントを参照してください。
