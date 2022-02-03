@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign Classic アドホック E メール配信テンプレートのデプロイ
+title: Adobe Campaign Classic でのアドホックなメール配信テンプレートのデプロイ
 description: 'アドホックな E メール配信テンプレートをデプロイする方法と、E メール配信と配信ワークフローの違いについて説明します。 '
 feature: Delivery Templates
 kt: 1565
@@ -11,7 +11,7 @@ role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
 
