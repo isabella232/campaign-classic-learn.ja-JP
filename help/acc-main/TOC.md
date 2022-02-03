@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
 source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '369'
 ht-degree: 100%
 
@@ -66,7 +66,7 @@ ht-degree: 100%
    + [マルチチャネルキャンペーンの作成](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [クロスチャネルキャンペーンの作成](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + レポート{#reporting}
-   + [組み込みレポートへのアクセス](/help/reporting/accessing-built-in-reports.md)
+   + [ビルトインレポートへのアクセス](/help/reporting/accessing-built-in-reports.md)
    + [記述的分析レポートの生成](/help/reporting/generating-a-descriptive-analysis-report.md)
 + ワークフローを使用した自動化{#automating-with-workflows}
    + [ワークフローの作成](/help/automating-with-workflows/creating-a-workflow.md)
