@@ -7,9 +7,9 @@ doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -43,4 +43,4 @@ Adobe Campaign では、コンテンツやメッセージの外観をパーソ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-パーソナライゼーションについて詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja).
+パーソナライゼーションについて詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja)を参照してください。
