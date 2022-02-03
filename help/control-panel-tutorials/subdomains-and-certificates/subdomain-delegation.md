@@ -12,9 +12,9 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -42,4 +42,4 @@ Adobe [!UICONTROL Campaign コントロールパネル]を使用すると、サ�
 
 *サブドメインのデリゲート（5 分 7 秒）*
 
-サブドメインの SSL 証明書の更新について詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ja).
+サブドメインの SSL 証明書の更新について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=ja)を参照してください。
