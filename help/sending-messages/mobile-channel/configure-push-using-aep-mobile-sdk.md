@@ -10,9 +10,9 @@ role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 74%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
 
-Mobile SDK でCampaign Classic拡張機能を設定する方法について詳しくは、 [製品ドキュメント](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).
+Mobile SDK で Campaign Classic 拡張機能を設定する方法について詳しくは、[製品ドキュメント](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)を参照してください。
