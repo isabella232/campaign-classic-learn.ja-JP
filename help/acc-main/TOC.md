@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
-source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
-workflow-type: ht
-source-wordcount: '369'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -84,7 +84,8 @@ ht-degree: 100%
    + [ワークフローヒートマップ](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [監査記録](/help/monitoring-campaign-classic/audit-trail.md)
 + 統合 {#integrating}
-   + [Dynamics 365 を Adobe Campaign Classic と統合する方法](/help/integrations/dynamics365-integration.md)
+   + [Adobe Targetとの統合](/help/integrations/target-integration.md)
+   + [Dynamics 365 との統合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
    + [Campaign コントロールパネル](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja)
    + 外部データベースへのアクセス（FDA）{#fda}

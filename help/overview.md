@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 
@@ -21,7 +21,11 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 >[!INFO]
 > 質問はありますか？ 同僚と経験を共有したり、意見交換したりしますか？または、アドビチームの学習コンテンツに関するフィードバックはありますか？[Adobe Campaign の学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)で会話にご参加ください。
 
-## 新着情報
+## 新機能
+
+* **[Adobe Targetとの統合](/help/integrations/target-integration.md)**
+
+   *Adobe Targetから提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。*
 
 * **[クロスチャネルキャンペーンの作成](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
@@ -30,11 +34,6 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 * **[コントロール母集団の使用](/help/sending-messages/email-channel/use-control-groups.md)**
 
    *コントロール母集団の概念を理解し、配信にコントロール母集団を使用する方法を学びます。*
-
-* **[配達確認の送信と検証](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
-
-   *配達確認を送信し、検証する方法を説明します。*
-
 
 ## スタッフのおすすめ
 
