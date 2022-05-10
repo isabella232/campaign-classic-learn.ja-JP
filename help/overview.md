@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[Adobe Targetとの統合](/help/integrations/target-integration.md)**
+* **[Adobe Target との統合](/help/integrations/target-integration.md)**
 
-   *Adobe Targetから提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。*
+   *Adobe Target から提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。*
 
 * **[クロスチャネルキャンペーンの作成](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
