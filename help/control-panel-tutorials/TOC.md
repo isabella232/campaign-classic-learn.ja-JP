@@ -6,17 +6,17 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
-workflow-type: ht
-source-wordcount: '123'
-ht-degree: 100%
+source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Adobe Campaign コントロールパネル - チュートリアル {#control-panel}
 
-+ [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
++ [コントロールパネル](/help/control-panel-tutorials/control-panel-overview.md)
 + [コントロールパネルの概要](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理{#sftp-management}
    + [サーバー容量の監視](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
