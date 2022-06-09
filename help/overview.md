@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,17 +23,20 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新機能
 
-* **[Adobe Target との統合](/help/integrations/target-integration.md)**
+* **[SMS の概要](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**:
+   *SMS の仕組みとAdobe Campaignでの SMS の送信方法を説明します*
 
-   *Adobe Target から提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。*
+* **[標準の SMPP プロバイダーの SMS アカウントを設定する](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-* **[クロスチャネルキャンペーンの作成](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+   *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理、最大スループット、送信ウィンドウ、TLS を使用した暗号化の設定をおこないます。*
 
-   *クロスチャネルキャンペーンを作成し、実行する方法を説明します。*
+* **[SMS コネクタを SMPP プロバイダーに適応させる](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-* **[コントロール母集団の使用](/help/sending-messages/email-channel/use-control-groups.md)**
+   *接続制限の処理、最大スループット、送信ウィンドウ、TLS を使用した暗号化の設定に関して、SMS 設定を微調整する方法について説明します。*
 
-   *コントロール母集団の概念を理解し、配信にコントロール母集団を使用する方法を学びます。*
+* **[メールの ROI を最大化し、購読者の再エンゲージメントに関するベストプラクティスを学びます。](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *電子メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスを学びます。 購読者のエンゲージメントを改善するための戦略を見つけ、電子メールキャンペーンの全体的な成功を把握します。*
 
 ## スタッフのおすすめ
 

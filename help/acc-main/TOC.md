@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
-source-git-commit: 1425897404136a6ec492b94532ea957b528d00e3
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 98%
       + [AMP を使用したインタラクティブなメールコンテンツの定義](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [メール配信の問題のトラブルシューティング](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [配信品質を考慮したメールの設計](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
    + SMS チャネル {#sms-channel}
+      + [Adobe Campaign用の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [SMS 配信の作成](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + プッシュチャネル {#push-channel}
       + [モバイルアプリチャネルのインストール](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -91,3 +91,6 @@ ht-degree: 98%
    + 外部データベースへのアクセス（FDA）{#fda}
       + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
++ 戦略と思考のリーダーシップ{#strategy}
+   + [購読者の再エンゲージメントに関するメールの ROI とベストプラクティスを最大化](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
