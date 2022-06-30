@@ -4,7 +4,7 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
-source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
+source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
       + [メール配信の問題のトラブルシューティング](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [配信品質を考慮したメールの設計](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + SMS チャネル {#sms-channel}
-      + [Adobe Campaign用の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ja)
       + [SMS 配信の作成](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + プッシュチャネル {#push-channel}
       + [モバイルアプリチャネルのインストール](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -87,10 +87,10 @@ ht-degree: 0%
    + [Adobe Target との統合](/help/integrations/target-integration.md)
    + [Dynamics 365 との統合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + [Campaign コントロールパネル](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja)
+   + [Campaign コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
    + 外部データベースへのアクセス（FDA）{#fda}
       + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
-+ 戦略と思考のリーダーシップ{#strategy}
-   + [購読者の再エンゲージメントに関するメールの ROI とベストプラクティスを最大化](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
++ 戦略とソートリーダーシップ{#strategy}
+   + [メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティス](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ja)
    + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
