@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1e10b9b29fb7c10f5754c3fdd300c68e27448da6
+source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 81%
+source-wordcount: '384'
+ht-degree: 74%
 
 ---
 
@@ -22,6 +22,10 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 > 質問はありますか？ 同僚と経験を共有したり、意見交換したりしますか？または、アドビチームの学習コンテンツに関するフィードバックはありますか？[Adobe Campaign の学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)で会話にご参加ください。
 
 ## 新機能
+
+* **[ハイブリッドホスティングモデルのCampaign コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+
+   *Adobe CampaignハイブリッドホスティングモデルのCampaign コントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
 
 * **[Campaign コントロールパネル — ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
