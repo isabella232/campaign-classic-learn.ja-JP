@@ -8,8 +8,8 @@ role: Admin
 level: Experienced
 source-git-commit: e36c5a082f5e7bbe9c5996a1ee0dbf9348968c1c
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 96%
    + [許可リストへの IP 範囲の追加](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [SSH キーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP サーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-+ サブドメインおよび証明書{#subdomains-and-certificates}
-   + [完全なサブドメインのデリゲーション](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
++ サブドメインと証明書 {#subdomains-and-certificates}
+   + [完全なサブドメインデリゲーション](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [CNAME を使用したサブドメインのデリゲート](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL 証明書の追加](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT レコード管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
