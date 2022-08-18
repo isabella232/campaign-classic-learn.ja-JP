@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
 source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '406'
+ht-degree: 100%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 0%
    + [Adobe Target との統合](/help/integrations/target-integration.md)
    + [Dynamics 365 との統合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + [Campaign コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ja){target=&quot;_blank&quot;}
+   + [コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ja){target=&quot;_blank&quot;}
    + 外部データベースへのアクセス（FDA）{#fda}
       + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
