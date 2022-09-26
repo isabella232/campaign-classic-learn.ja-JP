@@ -1,5 +1,5 @@
 ---
-title: 繰り返しメールキャンペーンと連続メールキャンペーンの設定方法
+title: 繰り返しメールキャンペーンと連続メールキャンペーンの設定
 description: 繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
 feature: Workflows, Campaigns
 kt: 1560
@@ -9,14 +9,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '245'
+source-git-commit: 5f0cfc42aa1405c37787cd16d4cd0d6b7a462227
+workflow-type: tm+mt
+source-wordcount: '239'
 ht-degree: 100%
 
 ---
 
-# 繰り返しメールキャンペーンと連続メールキャンペーンの設定方法
+# 繰り返しメールキャンペーンと連続メールキャンペーンの設定
 
 このチュートリアルでは、繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
 
