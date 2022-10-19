@@ -5,16 +5,15 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
+source-git-commit: 92d32058534303c35cf111ce9ce3836687391000
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '419'
+ht-degree: 98%
 
 ---
 
-# Adobe Campaign Classic V7 チュートリアル - 概要
+# Adobe Campaign Classic V7 チュートリアル
 
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境となります。このユーザーガイドには、Adobe Campaign Classic V7 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
