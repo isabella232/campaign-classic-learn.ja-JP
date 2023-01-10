@@ -6,8 +6,8 @@ user-guide-description: Adobe Campaign Classic を使用すれば、マーケタ
 breadcrumb-title: チュートリアル
 source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 97%
    + [エンリッチメントアクティビティの設定](/help/automating-with-workflows/enrichment-activity.md)
    + [データのセグメント化](/help/data-management/data-segmentation.md)
    + [承認の管理](/help/automating-with-workflows/managing-approvals.md)
-   + [仲間から学ぶ — ワークフローのベストプラクティス](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [同僚から学ぶ - ワークフローのベストプラクティス](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + コンテンツのデザイン{#designing-content}
    + [ランディングページの設定](/help/designing-content/configure-landingpages.md)
 + 監視 {#monitoring}
