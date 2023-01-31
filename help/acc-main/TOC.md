@@ -4,9 +4,9 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
-source-git-commit: 3e39c4972106f6343bec6f1417c3d2ae5371833f
+source-git-commit: 4439abdb7ea767951bb2469835f4f60b0804477f
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '420'
 ht-degree: 97%
 
 ---
@@ -93,6 +93,6 @@ ht-degree: 97%
       + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
-   + [マーケター向けAdobe Campaign成功の 10 のベストプラクティス](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [マーケター向けAdobe Campaign成功のベストプラクティス 10 件](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティス](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ja)
    + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
