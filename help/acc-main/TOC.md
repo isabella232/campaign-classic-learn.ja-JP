@@ -7,7 +7,7 @@ breadcrumb-title: チュートリアル
 source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 97%
       + [配達確認の送信と検証](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [コントロールグループの使用](/help/sending-messages/email-channel/use-control-groups.md)
       + [動的コンテンツの設定](/help/sending-messages/email-channel/configuring-dynamic-content.md)
-      + [動的コンテンツブロックを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [動的コンテンツブロックを使用したメールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [E メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [繰り返しメールキャンペーンと連続メールキャンペーンの設定](/help/sending-messages/recurring-deliveries.md)
@@ -93,6 +93,6 @@ ht-degree: 97%
       + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
-   + [マーケター向けAdobe Campaign成功のベストプラクティス 10 件](/help/strategy/10-best-practices-for-marketers.md)
+   + [マーケター向け Adobe Campaign 成功のベストプラクティス 10 件](/help/strategy/10-best-practices-for-marketers.md)
    + [メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティス](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ja)
    + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
