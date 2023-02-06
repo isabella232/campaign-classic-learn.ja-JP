@@ -1,15 +1,15 @@
 ---
 title: Adobe Campaign Classic チュートリアル - 概要
-description: Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設計するためのプラットフォームを提供し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、Cross-channel Executionのための環境を提供します。 このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
+description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
-workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '413'
+ht-degree: 100%
 
 ---
 
@@ -32,13 +32,13 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
    *Adobe Campaign ハイブリッドホスティングモデルのコントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
 
-* **[コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ja){target=&quot;_blank&quot;}**
+* **[コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ja){target="_blank"}**
 
    *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
 
-* **[コントロールパネル - スループットと遅延の監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ja){target=&quot;_blank&quot;}**
+* **[コントロールパネル - スループットと待ち時間の監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ja){target="_blank"}**
 
-   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
+   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。*
 
 * **[SMS の概要](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=ja)**
 
