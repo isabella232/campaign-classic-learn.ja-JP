@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
-source-git-commit: 13fea9184efd6b8bacedda44aba5e37a63f92e05
+source-git-commit: 545da6c56096f6d695d63490dc1833bdbbcb46cf
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 98%
+source-wordcount: '436'
+ht-degree: 97%
 
 ---
 
@@ -77,6 +77,7 @@ ht-degree: 98%
    + [タイムゾーンの管理](/help/automating-with-workflows/manage-time-zones.md)
    + [検証ワークフローの設定](/help/automating-with-workflows/validation-flow-configuration.md)
    + [エンリッチメントアクティビティの設定](/help/automating-with-workflows/enrichment-activity.md)
+   + [スケジューラーアクティビティの設定](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [データのセグメント化](/help/data-management/data-segmentation.md)
    + [承認の管理](/help/automating-with-workflows/managing-approvals.md)
    + [同僚から学ぶ - ワークフローのベストプラクティス](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
