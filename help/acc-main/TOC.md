@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
-source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: af37ff7388ae3bbc615726372d06a990737676a7
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -59,6 +59,8 @@ ht-degree: 100%
    + 疲労管理{#fatigue-management}
       + [タイポロジルールの使用](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [事前定義済みフィルターの使用](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + メッセージの監視 {#monitoring-messages}
+      + [強制隔離管理について](/help/sending-messages/quarantine-management.md)
    + [購読サービスの設定と管理](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + キャンペーンのオーケストレーション {#orchestration}
    + [キャンペーンの実行](/help/orchestrating-campaigns/executing-a-campaign.md)
