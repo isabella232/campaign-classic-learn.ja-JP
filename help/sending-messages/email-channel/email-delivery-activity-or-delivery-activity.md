@@ -6,18 +6,18 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
 ---
 
 
-# E メール配信アクティビティと配信アクティビティの比較
+# メール配信アクティビティと配信アクティビティの比較
 
 [!UICONTROL 「配信」タイプのアクティビティ]で配信アクションを作成できます。入力要素を使用して構築できます。
 
 このビデオでは、E メール配信テンプレートのデプロイ方法を説明します。E メール配信と配信ワークフローの違いを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)

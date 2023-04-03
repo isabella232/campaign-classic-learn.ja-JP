@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
-source-git-commit: 32ec5c28ea0bb3947b30dd78341e144f6ce273a4
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 クロスチャネルマーケティングキャンペーンの効果的な計画、実行および測定に役立つ、[!UICONTROL Adobe Campaign] の主要概念について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on)

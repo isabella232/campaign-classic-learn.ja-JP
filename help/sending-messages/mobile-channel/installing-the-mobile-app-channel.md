@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 モバイルアプリチャネルがインスタンスにインストールされているかどうかを確認する方法と、モバイルアプリチャネルのインストール方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
 
 モバイルアプリチャネルの設定について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=ja#installing-package-ios)を参照してください。

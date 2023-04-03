@@ -10,8 +10,8 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 キャンペーンワークフローの使用の概要と、ワークフローを作成しフィルター条件を使用してワークフローでプロファイルをターゲティングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on)
 
 ## 次のチュートリアルの内容
 

@@ -6,7 +6,7 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 100%
@@ -14,7 +14,7 @@ ht-degree: 100%
 ---
 
 
-# [!UICONTROL Campaign コントロールパネル]のトラブルシューティング
+# [!UICONTROL コントロールパネル]のトラブルシューティング
 
 ## ログインとホームページ
 
@@ -39,18 +39,18 @@ ht-degree: 100%
 
 ### 役立つビデオ
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
 
 *IMS 組織 ID の確認（26 秒）*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
 
-*製品プロファイル「Administrators」に管理者を追加して [!UICONTROL Campaign コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
+*製品プロファイル「Administrators」に管理者を追加して [!UICONTROL コントロールパネル]を使用できるようにする方法（1 分 3 秒）*
 
 ### 参考になるドキュメント
 
 * [コントロールパネルの理解](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
-* [[!UICONTROL Campaign コントロールパネル]に対する権限の管理](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [[!UICONTROL コントロールパネル]に対する権限の管理](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
 
 ## SFTP サーバーへの接続の確立（クライアントまたは API）
 
@@ -62,5 +62,5 @@ SFTP サーバーに接続するには、以下が必要です。
 
 ### 参考になるドキュメント {#helpful-docs}
 
-* [SFTP サーバーへのログイン](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [SFTP サーバーへのログイン](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
 
