@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: 7b0de7bdd401b0b036ae704061549203851396a7
+source-git-commit: ea653eb5131c1d33a7a7f94ac3245f71697fa7b8
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 40%
+source-wordcount: '107'
+ht-degree: 39%
 
 ---
 
@@ -24,5 +24,5 @@ ht-degree: 40%
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
 
 >[!IMPORTANT]
->ターゲティングワークフローに複数の配信がある場合は、配信レベルとキャンペーン設定でコントロール母集団の設定を有効にする必要があります。
+>ターゲティングワークフローに複数の配信がある場合は、配信レベルとキャンペーン設定で、コントロール母集団の設定を有効にする必要があります。
 >詳しくは、製品ドキュメントを参照してください。 [コントロール母集団の定義方法](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"} and [the delivery target population](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
