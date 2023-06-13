@@ -1,13 +1,13 @@
 ---
 title: 動的コンテンツブロックを使用してメールをパーソナライズする方法
 description: このチュートリアルでは、配信コンテンツのパーソナライズ、配信テンプレートでの JavaScript コードの使用、様々な配信テンプレートでのコンテンツブロックの標準化と共有の方法について説明します。
-feature: Dynamic Content, Personalization
+feature: Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: ht
+source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 100%
 
