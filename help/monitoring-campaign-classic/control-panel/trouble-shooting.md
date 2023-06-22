@@ -2,11 +2,11 @@
 title: コントロールパネルのトラブルシューティング
 description: コントロールパネルを使用すると、インスタンスおよび許可リストの IP アドレスごとに SFTP ストレージを監視および管理できます。
 feature: Control Panel
-kt: 2938
+jira: KT-2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: ht
 source-wordcount: '342'
 ht-degree: 100%
