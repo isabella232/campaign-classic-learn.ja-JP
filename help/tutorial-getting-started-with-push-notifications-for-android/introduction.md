@@ -2,7 +2,7 @@
 title: Android 向けプッシュ通知の概要 - はじめに
 description: このチュートリアルでは、Adobe Campaign からプッシュ通知を送信し、Android アプリでこれらの通知を受信する手順について説明します。
 feature: Push
-kt: 6438
+jira: KT-6438
 doc-type: article
 activity: setup
 team: TM
@@ -10,9 +10,9 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '365'
 ht-degree: 100%
 
 ---
