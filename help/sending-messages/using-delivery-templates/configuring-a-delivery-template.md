@@ -2,7 +2,7 @@
 title: Adobe Campaign Classic での配信テンプレートの設定
 description: アドホック配信用のテンプレートを設定する方法について説明します。
 feature: Delivery Templates
-kt: 1980
+jira: KT-1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: ht
-source-wordcount: '93'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
