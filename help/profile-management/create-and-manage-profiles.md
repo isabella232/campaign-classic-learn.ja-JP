@@ -4,7 +4,7 @@ description: プロファイルデータへのアクセス方法、プロファ�
 landing-page-description: プロファイルの概念を説明します。 プロファイルデータへのアクセス、プロファイルの並べ替えとフィルタリング、手動でのプロファイルの作成と管理について説明します。GDPR と CCPA について説明します。
 short-description: プロファイルの概念を説明します。 プロファイルデータへのアクセス、プロファイルの並べ替えとフィルタリング、手動でのプロファイルの作成と管理について説明します。GDPR と CCPA について説明します。
 feature: Profiles
-kt: 5081
+jira: KT-5081
 thumbnail: 35611.jpg
 doc-type: feature video
 activity: use
@@ -12,7 +12,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
