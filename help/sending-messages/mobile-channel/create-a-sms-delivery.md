@@ -12,8 +12,8 @@ team: WWFRE
 exl-id: 53e7951e-d0a9-433c-b668-b384582cda58
 source-git-commit: b4fad3f735d52e10a609242c187e90b236214ff6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '24'
+ht-degree: 100%
 
 ---
 
