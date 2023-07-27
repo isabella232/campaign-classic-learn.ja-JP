@@ -1,5 +1,5 @@
 ---
-title: Adobe Target との統合
+title: Campaign ClassicV7 とAdobe Targetの統合
 description: Adobe Target から提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。
 feature: Target Integration
 role: User
@@ -7,14 +7,15 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+badgeIntegration: label="統合" type="positive"
+source-git-commit: 3e2746e371c381f303a7b39fbea1f9c9a2444c63
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 61%
+source-wordcount: '62'
+ht-degree: 43%
 
 ---
 
-# Adobe Target との統合
+# Campaign ClassicV7 とAdobe Targetの統合
 
 Adobe Target から提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。
 
