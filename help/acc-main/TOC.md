@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
 source-git-commit: 4d9fa1a0755d372ba5b535c6a7edfba89589929c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
       + [メール配信コンテンツのデザイン](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [メールのシードと配達確認の管理](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [配達確認の送信と検証](/help/sending-messages/email-channel/send-and-validate-proofs.md)
-      + [コントロールグループの使用](/help/sending-messages/email-channel/use-control-groups.md)
+      + [コントロール母集団の使用](/help/sending-messages/email-channel/use-control-groups.md)
       + [A/B テスト用の配信の設定](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [動的コンテンツの設定](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [動的コンテンツブロックを使用したメールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)

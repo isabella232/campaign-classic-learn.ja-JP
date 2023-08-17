@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 100%
 
@@ -25,28 +25,22 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 ## 新機能
 
 * **[SMPP プロトコルの詳細とトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=ja)**
-
-   *SMPP 接続を確立する方法および SMPP が PDU を介してデータを交換する方法について説明します。接続のトラブルシューティング方法を説明します。*
+  *SMPP 接続を確立する方法および SMPP が PDU を介してデータを交換する方法について説明します。接続のトラブルシューティング方法を説明します。*
 
 * **[ハイブリッドホスティングモデルのコントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=ja)**
-
-   *Adobe Campaign ハイブリッドホスティングモデルのコントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
+  *Adobe Campaign ハイブリッドホスティングモデルのコントロールパネルを有効にする方法、コントロールパネルにアクセスする方法、主な機能のロックを解除する方法を説明します。*
 
 * **[コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ja){target="_blank"}**
-
-   *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
+  *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
 
 * **[コントロールパネル - スループットと待ち時間の監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ja){target="_blank"}**
-
-   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。*
+  *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。*
 
 * **[SMS の概要](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=ja)**
-
-   *SMS の仕組みと、Adobe Campaign での SMS の送信方法を説明します*
+  *SMS の仕組みと、Adobe Campaign での SMS の送信方法を説明します*
 
 * **[標準の SMPP プロバイダーの SMS アカウントを設定する](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=ja)**
-
-   *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。*
+  *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。*
 
 </div>
 
