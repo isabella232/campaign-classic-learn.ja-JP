@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 97%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL アプリ購読]スキーマを拡張して、モバイルアプリから [!DNL Campaign] が受け取るパーソナライズ値を格納する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
 **次のステップ**
 

@@ -1,5 +1,5 @@
 ---
-title: AMP を使用したインタラクティブな E メールコンテンツの定義
+title: AMP を使用したインタラクティブなメールコンテンツの定義
 description: AMP 形式でメールコンテンツを設定する方法を説明します。
 feature: Email, Email Design
 jira: KT-3475
@@ -10,10 +10,10 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '118'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 次のビデオでは、Adobe Campaign Classic で AMP を有効にする方法を説明し、その使用方法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
 
 [AMP エディター](https://playground.amp.dev/)を使用して、独自の AMP コードを作成できます。
 

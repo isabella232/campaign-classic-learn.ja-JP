@@ -9,10 +9,10 @@ team: PM
 role: Admin, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 100%
+source-wordcount: '117'
+ht-degree: 98%
 
 ---
 
@@ -29,6 +29,6 @@ ht-degree: 100%
 * データの検索とレポート
 * データのリストへのエクスポートとリアルタイムターゲティングフィルターの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
 Snowflake へのアクセスを設定する方法について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=ja#installing-campaign-classic)を参照してください。

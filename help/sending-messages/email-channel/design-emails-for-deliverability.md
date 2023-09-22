@@ -1,5 +1,5 @@
 ---
-title: E メールをデザインする際に、配信品質を確認する方法を教えてください。
+title: メールをデザインする際に、配信品質を確認する方法を教えてください。
 description: 配信品質のベストプラクティスを適用する方法を学びます。
 feature: Email, Deliverability
 jira: KT-5095
@@ -10,18 +10,18 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 100%
+source-wordcount: '43'
+ht-degree: 95%
 
 ---
 
-# 配信品質を考慮した E メールの設計
+# 配信品質を考慮したメールの設計
 
 配信品質のベストプラクティスを Campaign に適用する方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
 
 ## その他のリソース
 

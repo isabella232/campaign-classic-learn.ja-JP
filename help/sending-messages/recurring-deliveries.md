@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 100%
+source-wordcount: '243'
+ht-degree: 98%
 
 ---
 
@@ -38,10 +38,10 @@ ht-degree: 100%
 
 このビデオでは、繰り返し配信とスケジューラーアクティビティを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){transcript=true}
 
 ## 連続配信の設定方法 {#how-to-set-up-a-continuous-delivery}
 
 このビデオでは、増分処理クエリを使用して連続配信を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on){transcript=true}

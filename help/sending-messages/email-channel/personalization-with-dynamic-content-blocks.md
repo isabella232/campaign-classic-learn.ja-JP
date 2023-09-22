@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '124'
+ht-degree: 98%
 
 ---
 
@@ -26,6 +26,6 @@ Adobe Campaign では、メッセージのコンテンツや外観をパーソ�
 
 動的コンテンツブロックの作成方法と、動的コンテンツブロックを使用してメール配信のコンテンツをパーソナライズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
-パーソナライゼーションについて詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja)を参照してください。
+パーソナライゼーションについて詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja).

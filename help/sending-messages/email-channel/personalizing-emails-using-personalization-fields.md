@@ -1,6 +1,6 @@
 ---
-title: パーソナライゼーションフィールドを使用した E メールのパーソナライズ
-description: パーソナライゼーションフィールドを件名行と E メール配信のコンテンツに追加する方法について説明します。
+title: パーソナライゼーションフィールドを使用したメールのパーソナライズ
+description: パーソナライゼーションフィールドを件名行とメール配信のコンテンツに追加する方法について説明します。
 feature: Personalization
 jira: KT-5921
 thumbnail: 24925.jpg
@@ -10,19 +10,19 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 97%
 
 ---
 
-# パーソナライゼーションフィールドを使用した E メールのパーソナライズ
+# パーソナライゼーションフィールドを使用したメールのパーソナライズ
 
 パーソナライゼーションフィールドは、配信されるメッセージのコンテンツをパーソナライズする第 1 レベルの手段として使用されます。メインコンテンツに挿入したフィールドが、選択したデータソースからのデータの挿入位置を示します。
 
 パーソナライゼーションフィールドをメール配信の件名とコンテンツに追加する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
 
-パーソナライゼーションについて詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja)を参照してください。
+パーソナライゼーションについて詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja).

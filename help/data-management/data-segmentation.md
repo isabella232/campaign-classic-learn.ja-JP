@@ -9,9 +9,9 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Adobe Campaignでは、一般的な消費者属性やその他のデータソー
 
 Adobe Campaignの統合顧客プロファイルを使用すると、人口統計の詳細「郵便番号」「住所」「性別」などのプロファイル属性からインタラクションデータ、「メールの開封」、「Web サイト訪問」、コンバージョンデータ、オフラインデータなど、あらゆるデータを大規模に取得および管理できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){transcript=true}
 
 ## 顧客プロファイルの作成と更新 {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on){transcript=true}
 
 ## 顧客セグメント  {#customer-segmentation}
 
@@ -38,5 +38,5 @@ Adobe Campaignの統合顧客プロファイルを使用すると、人口統計
 
 注意：このビデオはAdobe Campaign Classic V6 で録画されました。機能はまったく同じですが、ワークフローのアイコンは変更されています。
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){transcript=true}
 

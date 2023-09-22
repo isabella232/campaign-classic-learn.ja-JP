@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '74'
+ht-degree: 97%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 **[!UICONTROL 標準的な除外]**&#x200B;をワークフローに適用して、ターゲットを絞り込む方法を説明します。また、定義済みフィルターを作成する方法と、ワークフローのトラブルシューティングを行う方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
