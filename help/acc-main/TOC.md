@@ -4,7 +4,8 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic のチュートリアル
 user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
-source-git-commit: 4d9fa1a0755d372ba5b535c6a7edfba89589929c
+auto-video-transcripts: true
+source-git-commit: 770c1b87b9be4f6fdf753b8b0d33e8feea5c9cb9
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 100%
@@ -39,8 +40,8 @@ ht-degree: 100%
       + [A/B テスト用の配信の設定](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [動的コンテンツの設定](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [動的コンテンツブロックを使用したメールのパーソナライズ](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-      + [パーソナライゼーションフィールドを使用した E メールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-      + [E メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+      + [パーソナライゼーションフィールドを使用したメールのパーソナライズ](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [メールのパーソナライズ - 条件付きコンテンツを使用した多言語ニュースレターの作成](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [繰り返しメールキャンペーンと連続メールキャンペーンの設定](/help/sending-messages/recurring-deliveries.md)
       + [AMP を使用したインタラクティブなメールコンテンツの定義](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [メール配信の問題のトラブルシューティング](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
@@ -57,7 +58,7 @@ ht-degree: 100%
    + 配信テンプレートの使用{#using-delivery-templates}
       + [配信テンプレートの設定](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [配信テンプレートプロパティの設定](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-      + [アドホック E メール配信テンプレートのデプロイ](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+      + [アドホックメール配信テンプレートのデプロイ](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + 疲労管理{#fatigue-management}
       + [タイポロジルールの使用](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [事前定義済みフィルターの使用](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
