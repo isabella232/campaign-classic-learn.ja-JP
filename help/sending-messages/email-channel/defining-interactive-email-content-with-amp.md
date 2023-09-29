@@ -10,10 +10,10 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: 9dd7b0769153f2632880458534eb4c1689969caa
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 98%
+source-wordcount: '119'
+ht-degree: 89%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 98%
 
 メール用の AMP は、動的でインタラクティブなメールを作成できる、新しいオープンソースフォーマットです。最新のアプリ機能を直接メール内に組み込めるため、受信者はメッセージ内にあるコンテンツと動的にやりとりすることができます。
 
-現在、AMP フォーマットは、Gmail、Outlook および Mail.ru でのみサポートされています。
+現在、AMP フォーマットは、Gmail、Yahoo、FairEmail および Mail.ru でのみサポートされています。
 
 次のビデオでは、Adobe Campaign Classic で AMP を有効にする方法を説明し、その使用方法を紹介します。
 
