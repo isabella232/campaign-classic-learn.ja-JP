@@ -1,19 +1,19 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaign Classic のチュートリアル
-user-guide-description: Adobe Campaign Classic を使用すれば、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
-breadcrumb-title: チュートリアル
+user-guide-title: Adobe Campaign Classic v7Tutorials
+user-guide-description: Adobe Campaign Classic v7 を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスを設計し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
+breadcrumb-title: CAMPAIGN CLASSICv7TUTORIALS
 auto-video-transcripts: true
-source-git-commit: 770c1b87b9be4f6fdf753b8b0d33e8feea5c9cb9
-workflow-type: ht
-source-wordcount: '460'
-ht-degree: 100%
+source-git-commit: 11fa8be0e1ea218fa46647b2bee30adbd3352e7f
+workflow-type: tm+mt
+source-wordcount: '434'
+ht-degree: 90%
 
 ---
 
 
-# Adobe Campaign Classic のチュートリアル {#tutorials}
+# Adobe Campaign Classic v7Tutorials {#tutorials}
 
 + [Adobe Campaign Classic V7 - チュートリアル](/help/overview.md)
 + はじめに{#getting-started}
